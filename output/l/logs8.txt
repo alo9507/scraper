@@ -1,0 +1,25 @@
+11:34:58 page_name: ﻿ZambiaReports num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: _
+DIFFBOT ERROR: Your token has expired. Please visit http://www.diffbot.com/pricing or contact support@diffbot.com to upgrade your Diffbot account.
+https://standard.gm/barrow-wants-nigerian-soldiers-after-ecomig-0/
+BAD TOKEN: 75348af71a165842ee80888487723ae9
+14:20:43 page_name: standardgambia num_posts_read: 1830 num_posts_link: 1562 num_link_skipped: 0 num_huawei: 1 last_post_id: 1825190974440636 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-29
+post ids that link to huewei articles: 2147206352239095, 
+14:42:22 page_name: mareegonline num_posts_read: 106 num_posts_link: 97 num_link_skipped: 0 num_huawei: 0 last_post_id: 1418243175020091 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2020-01-06
+21:15:51 page_name: zoutpansberger num_posts_read: 1802 num_posts_link: 1530 num_link_skipped: 0 num_huawei: 0 last_post_id: 1903724262994331 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-24
+21:15:52 page_name: somalilandsun num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: _
+22:43:43 page_name: namibiansun num_posts_read: 2223 num_posts_link: 618 num_link_skipped: 0 num_huawei: 0 last_post_id: 1719927064718287 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-31
+22:43:43 page_name: Tribuneonline num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: _
+01:57:29 page_name: lowvelder.co.za num_posts_read: 2166 num_posts_link: 1293 num_link_skipped: 0 num_huawei: 0 last_post_id: 2026171977400814 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-29
+05:38:29 page_name: IndependentMagazineUganda num_posts_read: 2264 num_posts_link: 2260 num_link_skipped: 0 num_huawei: 8 last_post_id: 1742159939179617 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-29
+post ids that link to huewei articles: 3344766118918983, 2600401856688750, 2504223926306544, 2490281461034124, 2471449896250614, 2469283999800537, 2371679542894317, 2262562807139325, 
+06:59:46 page_name: lusakatimes num_posts_read: 962 num_posts_link: 961 num_link_skipped: 0 num_huawei: 0 last_post_id: 2392986544110306 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2019-07-31

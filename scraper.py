@@ -9,21 +9,23 @@ import ssl
 from urllib.parse import urlsplit
 import logging
 import threading
+import pdb
+from botocore.errorfactory import ClientError
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
 s3 = boto3.resource(
     's3',
     region_name='us-east-2',
-    aws_access_key_id='AKIAT7GXCJGU7THYXJVI',
-    aws_secret_access_key='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'
+    aws_access_key_id='AKIAT7GXCJGU6BHNYPLN',
+    aws_secret_access_key='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'
 )
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 days_to_scrape = 1
 
-def get_diffbot_results(token, article_link, keywords_list):
+def get_diffbot_results(token, article_link, keywords_list, logs):
     DIFF_BOT_PARAMS = {'token': token, 'url': article_link}
     diffbot_response = requests.get('https://api.diffbot.com/v3/article', params=DIFF_BOT_PARAMS)
     try:
@@ -31,7 +33,12 @@ def get_diffbot_results(token, article_link, keywords_list):
     except ValueError:
         return 'decode_err', False
     if 'error' in obj.keys():
-        return obj['error'], False
+        if (obj['errorCode'] == 429) or (obj['errorCode'] == 401):
+            error = "DIFFBOT ERROR: " + obj['error'] + "\n" + article_link + "\n"
+            logs.write(error)
+            log_to_s3(error, "diffbot_error")
+            return "DIFFBOT_ERROR", False
+        return "no text", False
     text = obj['objects'][0]['text']
     hasKeyword = False
 
@@ -41,8 +48,19 @@ def get_diffbot_results(token, article_link, keywords_list):
 
     return text, hasKeyword
 
+def log_to_s3(body, prefix):
+    curr_date = datetime.today().strftime("%d/%m/%Y")
+    curr_time = datetime.now().strftime("%H:%M:%S")
+    propwatch_logs = s3.Object('propwatchlogs', curr_date + '/' + prefix + '/' + curr_time + '/' + prefix + '.txt')
+    propwatch_logs.put(Body=str(body))
 
-def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_num):
+def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, diffbot_tokens, thread_num):
+    tokens = diffbot_tokens[:]
+    token = "FAKE_TOKEN"
+    if len(tokens) > 0:
+        token = tokens.pop(0)
+    else:
+        raise Exception("Diffbot keys is empty!")
 
     f = open(fb_pages_fileName, "r")
     fb_pages_names = f.readline().split(',')
@@ -106,7 +124,7 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_n
         date_last_post_read = '_'
 
         try:
-            for post in get_posts(page_name, extra_info=True, pages=2): #1800, ~ 6 months min if avg 30 posts / day
+            for post in get_posts(page_name, extra_info=True, pages=10000): #1800, ~ 6 months min if avg 30 posts / day
 
                 num_posts_read = num_posts_read + 1
 
@@ -139,7 +157,6 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_n
                     # TODO - improve logging here (skip because no date)
                     continue # no date
 
-
                 text = post['text']
                 article_title = post['shared_text']
 
@@ -150,80 +167,98 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_n
                         article_title = '-'.join([w for w in article_title.split()])
                     # print('article_Post_title', article_title)
 
+                articleAlreadyPresent = True
                 postId = '_'
                 if post['post_id']:
                     postId = post['post_id']
                     all_post_ids.append(postId)
+                    
+                try:
+                    s3.Object('prop-watch-raw', post_date + '/' + page_name + '/' + postId).load()
+                except ClientError as e:
+                    if e.response['Error']['Code'] == "404":
+                        articleAlreadyPresent = False
 
+                if (articleAlreadyPresent != True):
+                    post_text = ''
+                    if post['post_text']:
+                        post_text = post['post_text'].replace('\n', ' ')
+                        all_post_text.append(post_text)
+                    link = post['link'] # post_url
+                    likes = post['likes']
+                    comments = post['comments']
+                    shares = post['shares']
+                    last_post_id = postId
 
-                post_text = ''
-                if post['post_text']:
-                    post_text = post['post_text'].replace('\n', ' ')
-                    all_post_text.append(post_text)
-                link = post['link'] # post_url
-                likes = post['likes']
-                comments = post['comments']
-                shares = post['shares']
-                last_post_id = postId
+                    for keyword in keyword_list:
+                        if keyword in post_text:
+                            post_ids_body_text_huawei.append(postId)
 
-                for keyword in keyword_list:
-                    if keyword in post_text:
-                        post_ids_body_text_huawei.append(postId)
+                    base_url = '_'
+                    if link:
+                        num_posts_link = num_posts_link + 1
+                        all_links.append(link)
+                        base_url = urlsplit(link).hostname
 
-                base_url = '_'
-                if link:
-                    num_posts_link = num_posts_link + 1
-                    all_links.append(link)
-                    base_url = urlsplit(link).hostname
+                        # if !articleAlreadyPresent [scrape] else continue;
+                        result = get_diffbot_results(token, link, keyword_list, logs)
+                        
+                        article_text = result[0]
+                        if article_text == "DIFFBOT_ERROR":
+                            if len(tokens) > 0:
+                                logs.write("BAD TOKEN: " + token + "\n")
+                                log_to_s3("BAD TOKEN: " + token + "\n", "bad_token")
+                                token = tokens.pop(0)
+                            else:
+                                logs.close()
+                                raise Exception("No more working DiffBot keys (either expired or out of credits)! Ending scrape!")
+                        hasKeyword = result[1]
 
-                    result = get_diffbot_results(token, link, keyword_list)
-                    article_text = result[0]
-                    hasKeyword = result[1]
+                        # store web site article content IF it contains keyword
+                        if hasKeyword == True:
+                            num_huawei = num_huawei + 1
+                            post_ids_huawei.append(postId)
+                            links_huawei.append(link)
+                            print('HUAWEI!', postId, link)
+                            article_text = article_text.replace('\n', ' ')
+                            output.write('page_name: ' + page_name + ', post_id: ' + postId + ' ' + link + '\n' + article_text + '\n' + '______________________________________')
 
-                    # store web site article content IF it contains keyword
-                    if hasKeyword == True:
-                        num_huawei = num_huawei + 1
-                        post_ids_huawei.append(postId)
-                        links_huawei.append(link)
-                        print('HUAWEI!', postId, link)
-                        article_text = article_text.replace('\n', ' ')
-                        output.write('page_name: ' + page_name + ', post_id: ' + postId + ' ' + link + '\n' + article_text + '\n' + '______________________________________')
-
-                    propwatch = s3.Object('prop-watch-raw',
-                                          post_date + '/' + page_name + '/' + postId + '/' + 'Web-{}.txt'.format(article_title))
-                    propwatch.put(Body=str(article_text))
-
-                    propwatch = s3.Object('prop-watch-raw',
-                                          post_date + '/' + page_name + '/' + postId + '/' + 'article_link.csv')
-                    propwatch.put(Body=str(link))
-
-                if 'reactions' in post: # store reactions
-                    for key, value in post['reactions'].items():
                         propwatch = s3.Object('prop-watch-raw',
-                                              post_date + '/' + page_name + '/' + postId + '/' + 'reactions/' + key + '.csv')
-                        propwatch.put(Body=str(value))
-                else:
+                                            post_date + '/' + page_name + '/' + postId + '/' + 'Web-{}.txt'.format(article_title))
+                        propwatch.put(Body=str(article_text))
+
+                        propwatch = s3.Object('prop-watch-raw',
+                                            post_date + '/' + page_name + '/' + postId + '/' + 'article_link.csv')
+                        propwatch.put(Body=str(link))
+
+                    if 'reactions' in post: # store reactions
+                        for key, value in post['reactions'].items():
+                            propwatch = s3.Object('prop-watch-raw',
+                                                post_date + '/' + page_name + '/' + postId + '/' + 'reactions/' + key + '.csv')
+                            propwatch.put(Body=str(value))
+                    else:
+                        propwatch = s3.Object('prop-watch-raw',
+                                            post_date + '/' + page_name + '/' + postId + '/' + 'reactions/' + 'like.csv')
+                        propwatch.put(Body=str(likes))
+
+                    # store comments
                     propwatch = s3.Object('prop-watch-raw',
-                                          post_date + '/' + page_name + '/' + postId + '/' + 'reactions/' + 'like.csv')
-                    propwatch.put(Body=str(likes))
+                                        post_date + '/' + page_name + '/' + postId + '/' + 'comments.csv')
+                    propwatch.put(Body=str(comments))
 
-                # store comments
-                propwatch = s3.Object('prop-watch-raw',
-                                      post_date + '/' + page_name + '/' + postId + '/' + 'comments.csv')
-                propwatch.put(Body=str(comments))
+                    # store shares
+                    propwatch = s3.Object('prop-watch-raw',
+                                        post_date + '/' + page_name + '/' + postId + '/' + 'shares.csv')
+                    propwatch.put(Body=str(shares))
 
-                # store shares
-                propwatch = s3.Object('prop-watch-raw',
-                                      post_date + '/' + page_name + '/' + postId + '/' + 'shares.csv')
-                propwatch.put(Body=str(shares))
+                    print(str(thread_num), str(num_posts_read), post_date_dt)
 
-                print(str(thread_num), str(num_posts_read), post_date_dt)
-
-                first_post = False
+                    first_post = False
 
         except requests.exceptions.HTTPError:
             dead_FB_page = True
             dead_page_list.append(page_name)
+            print("HTTP_ERROR", requests.exceptions.HTTPError)
             print('dead FB page')
         except requests.exceptions.ConnectionError:
             FB_timeout = True
@@ -242,14 +277,14 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_n
 
         total_num_posts_read = total_num_posts_read + num_posts_read
         total_num_link_skipped = total_num_link_skipped + num_link_skipped
-
+        
         curr_time = datetime.now().strftime("%H:%M:%S")
         print(curr_time + ' page_name:', page_name, 'num_posts_read:', num_posts_read, 'num_posts_link:', num_posts_link, 'num_link_skipped:', num_link_skipped, 'num_huawei:', num_huawei, 'last_post_id:', last_post_id, 'dead_FB_page:', dead_FB_page, 'FB_read_timeout:', FB_timeout, 'page_depth_cut_short:', page_depth_cut_short)
         print('ERR STATS:' + ' num_403_err:', num_403_err, 'num_404_err:', num_404_err, 'num_525_err:', num_525_err, 'num_http_err:', num_http_err, 'num_conn_err:', num_conn_err, 'timeout_err:', timeout_err, ' num_other_err: ', num_other_err, ' num_uni_err: ', num_uni_err, ' num_html_p_err: ', num_html_p_err, ' num_decode_err: ', num_decode_err, ' num_bs4_skip: ', num_bs4_skip, ' num_fb_timeout: ', num_fb_timeout, ' date_last_post_read: ', date_last_post_read)
 
-        logs.write(curr_time + ' page_name: ' + str(page_name) + ' num_posts_read: ' + str(num_posts_read) + ' num_posts_link: ' + str(num_posts_link) + ' num_link_skipped: ' + str(num_link_skipped)
-                   + ' num_huawei: ' + str(num_huawei) + ' last_post_id: ' + str(last_post_id) + ' dead_FB_page: ' + str(dead_FB_page) + ' FB_read_timeout: ' + str(FB_timeout) + ' page_depth_cut_short: ' + str(page_depth_cut_short) + ' \n'
-                   + 'ERR STATS: ' + ' num_403_err: ' + str(num_403_err) + ' num_404_err: ' + str(num_404_err) + ' num_525_err: ' + str(num_525_err) + ' num_http_err: ' + str(num_http_err) + ' num_conn_err: ' + str(num_conn_err) + ' timeout_err: ' + str(timeout_err) + ' num_other_err: ' + str(num_other_err) + ' num_uni_err: ' + str(num_uni_err) + ' num_html_p_err: ' + str(num_html_p_err) + ' num_decode_err: ' + str(num_decode_err) + ' num_bs4_skip: ' + str(num_bs4_skip) + ' num_fb_timeout: ' + str(num_fb_timeout) + ' date_last_post_read: ' + date_last_post_read +  '\n')
+        error_log = curr_time + ' page_name: ' + str(page_name) + ' num_posts_read: ' + str(num_posts_read) + ' num_posts_link: ' + str(num_posts_link) + ' num_link_skipped: ' + str(num_link_skipped) + ' num_huawei: ' + str(num_huawei) + ' last_post_id: ' + str(last_post_id) + ' dead_FB_page: ' + str(dead_FB_page) + ' FB_read_timeout: ' + str(FB_timeout) + ' page_depth_cut_short: ' + str(page_depth_cut_short) + ' \n' + 'ERR STATS: ' + ' num_403_err: ' + str(num_403_err) + ' num_404_err: ' + str(num_404_err) + ' num_525_err: ' + str(num_525_err) + ' num_http_err: ' + str(num_http_err) + ' num_conn_err: ' + str(num_conn_err) + ' timeout_err: ' + str(timeout_err) + ' num_other_err: ' + str(num_other_err) + ' num_uni_err: ' + str(num_uni_err) + ' num_html_p_err: ' + str(num_html_p_err) + ' num_decode_err: ' + str(num_decode_err) + ' num_bs4_skip: ' + str(num_bs4_skip) + ' num_fb_timeout: ' + str(num_fb_timeout) + ' date_last_post_read: ' + date_last_post_read +  '\n'
+        logs.write(error_log)
+        log_to_s3(error_log, "error_log")
 
         log_output = ''
         if dead_links:
@@ -270,13 +305,17 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_n
                 log_output = log_output + str(post_id) + ', '
             log_output = log_output + '\n'
         logs.write(log_output)
+        log_to_s3(log_output, "log_output")
 
+    final_output='total_num_pages_read: ' + total_num_pages_read + '\n total_num_pages_read: ' + str(total_num_pages_read) + 'total_num_link_skipped: '+ total_num_link_skipped + 'total_num_posts_read: ' + total_num_posts_read
     print('total_num_pages_read: ', total_num_pages_read)
     logs.write('\n total_num_pages_read: ' + str(total_num_pages_read))
     print('total_num_link_skipped: ', total_num_link_skipped)
     logs.write('\n total_num_link_skipped: ' + str(total_num_link_skipped))
     print('total_num_posts_read: ', total_num_posts_read)
     logs.write('\n total_num_posts_read: ' + str(total_num_posts_read))
+    
+    log_to_s3(final_output, "final_output")
 
     agg_output = '\n Dead FB pages: '
     for page_name in dead_page_list:
@@ -310,10 +349,12 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_n
         agg_output = agg_output + link + ', '
     agg_output = agg_output + '\n'
     logs.write(agg_output)
+    log_to_s3(agg_output, "all_links")
 
     logs.write('\n All post text:' + '\n')
     for text in all_post_text:
         logs.write(text + '\n')
+        log_to_s3(text, "all_post_text")
 
     agg_output = ''
     agg_output = agg_output + 'All post ids: '
@@ -322,24 +363,25 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, token, thread_n
     agg_output = agg_output + '\n'
 
     logs.write(agg_output)
+    log_to_s3(agg_output, "all_post_ids")
 
 
 if __name__ == '__main__':
-
+    # logging.basicConfig(level=logging.DEBUG)
+    
     keyword_list = ['Huawei', 'HUAWEI', 'huawei', 'Huawei’s']
 
-    last_date_to_scrape = datetime(2020, 11, 15)
+    last_date_to_scrape = datetime(2018, 1, 1)
 
     # NOTE: code required same number of tokens as threads
-    diffbot_tokens = ['9ed02c1bed46db496f25198146f96573', 'ad465cc5e9277dbe00b7f94b3afefa0f', '8f527da1938f1416b37202b1c41afe49', '69afe17178a534e7f5a0674ac930ef79', '2864c350b0a12f88ba88935dbb5a77c6', '10c389c05e347eb1793bcc4c2d706413', '08ff477bf61d1ff5ef2c3a2442cee903', '1eefd39be86ec701fedb434245be7ecd', '90c4c32df1552d52c6cc187920979616', '638419f54912d3ebaf2f169ededd6bb1', '792cb972f9020c8039b94098d58baf22', '63ff3af1a342bbb148655957aea2f721', 'c409ba9c7cd35a385dbf87e46b63388c']
+    diffbot_tokens = ['75348af71a165842ee80888487723ae9', 'e245d561ac6983304fdfcafd03e0bbbe', '06998e90bba80aea92e26dfbbbda92cb']
     # NOTE: token values kept here: https://docs.google.com/document/d/1zJ19PTb3usESTN1aLWkGlvHmz6cFCGgskFANoMPGbnA/edit?usp=sharing
 
     threads = list()
     for index in range(12):
         #logging.info("Main    : create and start thread %d.", index)
-        fb_pages_fileName = 'FB_page_names_bs4_' + str(index + 1) + '.csv'
-        token = diffbot_tokens[index]
-        x = threading.Thread(target=scrape, args=(fb_pages_fileName, last_date_to_scrape, keyword_list, token, index,))
+        fb_pages_fileName = 'FB_page_names_' + str(index + 1) + '.csv'
+        x = threading.Thread(target=scrape, args=(fb_pages_fileName, last_date_to_scrape, keyword_list, diffbot_tokens, index,))
         threads.append(x)
         x.start()
 

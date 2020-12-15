@@ -11,14 +11,15 @@ import logging
 import threading
 import pdb
 from botocore.errorfactory import ClientError
+import os
 
 ssl._create_default_https_context = ssl._create_unverified_context
 
 s3 = boto3.resource(
     's3',
     region_name='us-east-2',
-    aws_access_key_id='AKIAT7GXCJGU6BHNYPLN',
-    aws_secret_access_key='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'
+    aws_access_key_id=os.environ['AWS_ACCESS_KEY_ID'],
+    aws_secret_access_key=os.environ['AWS_SECRET_ACCESS_KEY']
 )
 
 requests.packages.urllib3.disable_warnings(InsecureRequestWarning)

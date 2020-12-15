@@ -1,27 +1,2 @@
-11:34:59 page_name: ﻿TheGuardianLTD num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
+14:36:45 page_name: ﻿TheGuardianLTD num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
 ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: _
-DIFFBOT ERROR: Your token has expired. Please visit http://www.diffbot.com/pricing or contact support@diffbot.com to upgrade your Diffbot account.
-https://thechronicleofeducation.net/2020/12/14/benue-accounts-for-260000-out-of-school-children-ministry-reveals/
-BAD TOKEN: 75348af71a165842ee80888487723ae9
-12:47:47 page_name: thechronicleofeducation num_posts_read: 618 num_posts_link: 617 num_link_skipped: 0 num_huawei: 2 last_post_id: 2449529041777731 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2019-05-02
-post ids that link to huewei articles: 3836684369728851, 3588799641183993, 
-14:27:22 page_name: thesunnewspapercameroon num_posts_read: 489 num_posts_link: 247 num_link_skipped: 0 num_huawei: 0 last_post_id: 557994944548760 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-25
-15:52:26 page_name: ThePointNewspaper num_posts_read: 636 num_posts_link: 631 num_link_skipped: 0 num_huawei: 0 last_post_id: 758270394381065 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-29
-19:20:19 page_name: southernafricanews num_posts_read: 1615 num_posts_link: 788 num_link_skipped: 0 num_huawei: 0 last_post_id: 1954120127944060 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2018-09-19
-00:10:09 page_name: TheSundayMailZimbabwe num_posts_read: 1953 num_posts_link: 1611 num_link_skipped: 0 num_huawei: 3 last_post_id: 1725220614232713 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-28
-post ids that link to huewei articles: 3021577437930351, 2033970076691097, 1834760626612044, 
-01:01:26 page_name: BotswanaGuardian num_posts_read: 1472 num_posts_link: 186 num_link_skipped: 0 num_huawei: 0 last_post_id: 1733637993327040 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-24
-01:27:53 page_name: MmegiOnline num_posts_read: 259 num_posts_link: 130 num_link_skipped: 0 num_huawei: 0 last_post_id: 10157806444776824 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2014-11-12
-06:24:20 page_name: Kenyans.co.ke num_posts_read: 2210 num_posts_link: 1488 num_link_skipped: 0 num_huawei: 1 last_post_id: 2020630277953300 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-22
-post ids that link to huewei articles: 2647466008603054, 
-08:24:01 page_name: publicagendanewspaper num_posts_read: 972 num_posts_link: 972 num_link_skipped: 0 num_huawei: 2 last_post_id: 1872495629521803 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2019-05-14
-post ids that link to huewei articles: 2046711195433578, 1963425870428778, 

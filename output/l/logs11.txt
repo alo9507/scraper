@@ -1,2 +1,0 @@
-14:36:45 page_name: ﻿dailytrust num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
-ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: _

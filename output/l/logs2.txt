@@ -1,2 +1,2013 @@
-14:36:44 page_name: ﻿guardianng num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
+16:14:34 page_name: ﻿guardianng num_posts_read: 0 num_posts_link: 0 num_link_skipped: 0 num_huawei: 0 last_post_id: 0 dead_FB_page: True FB_read_timeout: False page_depth_cut_short: False 
 ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: _
+17:17:08 page_name: foroyaanewspaper num_posts_read: 1035 num_posts_link: 778 num_link_skipped: 0 num_huawei: 0 last_post_id: 1762035130523376 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2018-01-25
+17:44:05 page_name: ugandaobserver num_posts_read: 676 num_posts_link: 221 num_link_skipped: 0 num_huawei: 2 last_post_id: 2106506986042867 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-31
+post ids that link to huewei articles: 4250244608335750, 2125262044167361, 
+18:16:08 page_name: GNA1957/?_rdc=1&_rdr num_posts_read: 998 num_posts_link: 325 num_link_skipped: 0 num_huawei: 1 last_post_id: 142480960873539 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2020-07-26
+post ids that link to huewei articles: 219116659876635, 
+19:15:41 page_name: yencomgh num_posts_read: 970 num_posts_link: 555 num_link_skipped: 0 num_huawei: 0 last_post_id: 816712748814060 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2020-03-11
+19:16:55 page_name: DailyGuideNetwork num_posts_read: 22 num_posts_link: 19 num_link_skipped: 0 num_huawei: 0 last_post_id: 856668548425095 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2020-12-14
+20:19:13 page_name: JoyNewsOnTV num_posts_read: 2190 num_posts_link: 228 num_link_skipped: 0 num_huawei: 1 last_post_id: 1856945157710715 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-31
+post ids that link to huewei articles: 4895483423856858, 
+01:07:09 page_name: zimpaperssundaynews num_posts_read: 2054 num_posts_link: 1891 num_link_skipped: 0 num_huawei: 2 last_post_id: 993809624090931 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-10
+post ids that link to huewei articles: 1284045118400712, 1198437443628147, 
+04:58:59 page_name: JournalDuCamerounEnglish num_posts_read: 1086 num_posts_link: 956 num_link_skipped: 0 num_huawei: 0 last_post_id: 255934005200871 dead_FB_page: False FB_read_timeout: True page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 1 date_last_post_read: 2019-04-12
+06:12:19 page_name: gbcghana num_posts_read: 2027 num_posts_link: 253 num_link_skipped: 0 num_huawei: 0 last_post_id: 1789794727706829 dead_FB_page: False FB_read_timeout: False page_depth_cut_short: False 
+ERR STATS:  num_403_err: 0 num_404_err: 0 num_525_err: 0 num_http_err: 0 num_conn_err: 0 timeout_err: 0 num_other_err: 0 num_uni_err: 0 num_html_p_err: 0 num_decode_err: 0 num_bs4_skip: 0 num_fb_timeout: 0 date_last_post_read: 2017-12-21
+
+ total_num_pages_read: 10
+ total_num_link_skipped: 0
+ total_num_posts_read: 11058
+ Dead FB pages: ﻿guardianng
+
+Timed out FB pages: t.co, yencomgh, _, www.journalducameroun.com, 
+Base URLs of dead sites: 
+Huawei links: https://observer.ug/businessnews/67327-why-mtn-is-passionate-about-corporate-social-responsibility, http://observer.ug/news/headlines/56649-whistle-blower-cites-fraud-in-nita-u-s-internet-deals.html, https://www.gna.org.gh/1.19377928, https://bit.ly/3oM9r64, https://www.sundaynews.co.zw/editorial-comment-internet-key-to-economic-development/, http://www.sundaynews.co.zw/man-in-court-for-stealing-two-mobile-phones-and-1000/, 
+Num Huawei articles: 6
+Post Ids with Huawei in body text: 
+All links: https://www.gbcghanaonline.com/news/politics/former-president-mahama-to-visit-techiman-on-wednesday-december-16/2020/, https://www.gbcghanaonline.com/news/politics/northern-regsec-cautions-ndc-supporters-on-intended-march/2020/, https://www.gbcghanaonline.com/news/education/covid-19-infections-threaten-re-opening-of-schools-ncce/2020/, https://www.gbcghanaonline.com/news/education/girls-education-receives-boost-at-ajumako-enyan-essiam/2020/, https://www.gbcghanaonline.com/news/politics/mps-urged-to-cooperate-to-end-7th-parliament-successfully/2020/, https://www.gbcghanaonline.com/news/politics/un-envoy-calls-for-investigation-into-electoral-violence-in-ghana/2020/, https://www.gbcghanaonline.com/news/politics/ec-concluding-processes-to-declare-sene-west-parliamentary-results/2020/, https://www.gbcghanaonline.com/entertainment/gbc-st-francis-of-assisi-catholic-church-presents-festival-of-nine-lessons-ans-carols/2020/, https://www.gbcghanaonline.com/general/sunyani-central-prisons-in-need-of-support/2020/, https://www.gbcghanaonline.com/sport/ghanas-otto-addo-named-assistant-coach-at-borussia-dortmund/2020/, https://www.gbcghanaonline.com/general/accra-based-power-fm-journalist-invited-by-police-cid/2020/, https://www.gbcghanaonline.com/news/politics/disturbances-in-wa-central-unfortunate-dr-rashid-pelpuo/2020/, https://www.gbcghanaonline.com/general/gja-reiterates-commitment-to-stand-by-journalists/2020/, https://www.gbcghanaonline.com/news/health/alliance-for-reproductive-health-calls-for-universal-health-coverage/2020/, https://www.gbcghanaonline.com/general/president-akufo-addo-leaves-for-cote-divoire-guinea-london/2020/, https://www.gbcghanaonline.com/general/seventh-parliament-resumes-today/2020/, https://www.gbcghanaonline.com/news/politics/i-will-do-much-better-next-time-alfred-walker/2020/, https://www.gbcghanaonline.com/news/politics/akwatia-npp-to-sack-ama-sey-others-from-party/2020/, https://www.gbcghanaonline.com/news/politics/lets-work-for-the-common-good-nii-lante-vanderpuye-tells-odododiodoo/2020/, https://www.gbcghanaonline.com/general/upper-east-region-hit-by-shortage-of-onions/2020/, https://www.gbcghanaonline.com/news/politics/cdd-ghana-urges-ndc-to-seek-redress-in-court-over-election-results/2020/, https://www.gbcghanaonline.com/news/politics/ec-to-publish-constituency-results-on-website/2020/, https://www.gbcghanaonline.com/general/gender-activists-call-for-more-data-on-gender-based-violence/2020/, https://www.gbcghanaonline.com/news/politics/jean-mensa-has-not-flown-out-of-ghana-after-declaring-election-results-ec/2020/, https://www.gbcghanaonline.com/general/aggrieved-customers-of-gold-coast-securities-disappointed-at-governments-inability-to-meet-deadline-for-disbursement-of-funds/2020/, https://www.gbcghanaonline.com/sport/we-need-astroturf-at-osu-salem-park-coach-appeals-to-mcdan/2020/, https://www.gbcghanaonline.com/news/politics/ndcs-jacob-iddrisu-wins-disputed-savelugu-parliamentary-seat/2020/, https://www.gbcghanaonline.com/news/business/bank-of-ghana-and-singapore-sign-mou-to-promote-smes/2020/, https://www.gbcghanaonline.com/general/buhari-congratulates-akufo-addo-for-winning-the-second-term-of-the-election/2020/, https://www.gbcghanaonline.com/news/politics/chraj-describes-december-7-polls-as-free-fair/2020/, https://www.gbcghanaonline.com/general/director-of-research-at-the-presidency-victor-newman-passes-on/2020/, https://www.gbcghanaonline.com/news/politics/eu-observer-commends-gbc-for-equitable-coverage-of-elections/2020/, https://www.gbcghanaonline.com/news/politics/us-applauds-ghana-on-successful-elections-congratulates-akufo-addo-on-re-election/2020/, https://www.gbcghanaonline.com/news/crime/dompoase-accident-driver-jailed-five-years-for-manslaughter/2020/, https://www.gbcghanaonline.com/news/politics/armed-men-attack-newly-elected-mp-for-keta-kwame-gakpey/2020/, https://www.gbcghanaonline.com/news/politics/mahama-says-he-is-unwilling-to-accept-fictionalised-election-results/2020/, https://www.gbcghanaonline.com/news/politics/government-not-shocked-by-margin-in-2020-election-results-information-minister/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-appoints-transition-team/2020/, https://www.gbcghanaonline.com/news/politics/military-was-not-sent-to-intimidate-voters-oppong-nkrumah/2020/, https://www.gbcghanaonline.com/?p=172176, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-and-appointees-back-to-work-transition-team-in-the-offing/2020/, https://www.gbcghanaonline.com/general/u-s-applauds-ghana-on-successful-elections-congratulates-akufo-addo-on-re-election/2020/, https://www.gbcghanaonline.com/general/concerned-citizens-of-abolove-nolopi-take-chief-on/2020/, https://www.gbcghanaonline.com/general/amewu-breaks-ground-for-construction-of-state-of-the-art-palace-at-wli/2020/, https://www.gbcghanaonline.com/news/politics/codeo-urges-ghanaians-to-have-confidence-in-results-declared-by-ec/2020/, https://www.gbcghanaonline.com/news/politics/ndc-rejects-presidential-election-results/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-promises-to-pursue-government-of-national-unity/2020/, https://www.gbcghanaonline.com/news/politics/ncce-congratulates-akufo-addo-on-his-re-election/2020/, https://www.gbcghanaonline.com/news/politics/ndc-rejects-presidential-election-results/2020/, https://www.gbcghanaonline.com/news/business/rate-of-inflation-falls-to-9-8-per-cent-in-november/2020/, https://www.gbcghanaonline.com/news/politics/three-presidential-candidates-concede-to-president-akufo-addo/2020/, https://www.gbcghanaonline.com/news/politics/akufo-addo-re-elected-as-president/2020/, https://www.gbcghanaonline.com/news/politics/ec-denies-ejecting-ndc-party-agent-from-national-collation-centre/2020/, https://www.gbcghanaonline.com/news/politics/lets-be-cautious-in-our-pronouncement-ppp-says-as-ghana-awaits-election-results/2020/, https://www.gbcghanaonline.com/news/politics/head-of-the-ecowas-observer-mission-call-on-africa-countries-to-emulate-ghana-for-conducting-free-fair-and-transparent-elections/2020/, https://www.gbcghanaonline.com/news/politics/ec-to-declare-presidential-results-this-morning-barring-any-hitches/2020/, https://www.gbcghanaonline.com/news/politics/2-shot-dead-10-injured-during-vote-compilation/2020/, https://www.gbcghanaonline.com/news/politics/npp-challenges-ndcs-claim-of-winning-majority-seats-in-parliament/2020/, https://www.gbcghanaonline.com/news/politics/john-mahama-urges-govt-and-ec-to-refrain-from-using-military-to-alter-election-results/2020/, https://www.gbcghanaonline.com/news/politics/election-2020-presidential-results-by-region/2020/, https://www.gbcghanaonline.com/news/politics/update-on-election-2020-ec-chair-addresses-media/2020/, https://www.gbcghanaonline.com/news/politics/gcpps-henry-lartey-concedes-defeat-congratulates-akufo-addo/2020/, https://www.gbcghanaonline.com/news/politics/npps-sheila-bartels-is-mp-elect-for-ablekuma-north/2020/, https://www.gbcghanaonline.com/news/politics/i-have-not-congratulated-any-person-mahama/2020/, https://www.gbcghanaonline.com/news/politics/ec-extends-timeline-for-declaring-2020-presidential-election-results/2020/, https://www.gbcghanaonline.com/news/politics/2020-election-ophelia-hayford-wins-mfantseman-seat/2020/, https://www.gbcghanaonline.com/news/politics/zenator-retains-korle-klottey-parliamentary-seat/2020/, https://www.gbcghanaonline.com/news/politics/ec-hints-of-plans-to-declare-results-of-presidential-election-by-5pm/2020/, https://www.gbcghanaonline.com/news/politics/npp-ndc-claim-to-be-in-a-comfortable-lead-in-december-7-elections/2020/, https://www.gbcghanaonline.com/general/fire-guts-fomena-district-electoral-office/2020/, https://www.gbcghanaonline.com/news/politics/alleged-stuffing-of-ballot-in-asawase-misleading-electoral-commission/2020/, https://www.gbcghanaonline.com/news/politics/mahamas-bodyguard-provided-name-in-different-sequence-electoral-commission/2020/, https://www.gbcghanaonline.com/news/politics/npp-debunks-ndc-stuffed-boxes-claims/2020/, https://www.gbcghanaonline.com/news/politics/buligin-community-didnt-participate-in-general-election/2020/, https://www.gbcghanaonline.com/news/politics/ndc-raises-red-flag-about-widespread-reports-of-thumb-printed-ballot-papers-and-other-irregularities/2020/, https://www.gbcghanaonline.com/general/voting-ends-nationwide-counting-underway/2020/, https://www.gbcghanaonline.com/news/politics/counting-of-votes-underway-across-5089-polling-centres-in-ashanti-region/2020/, https://www.gbcghanaonline.com/news/politics/police-arrest-ec-officers-for-tampering-with-ballot-paper/2020/, https://www.gbcghanaonline.com/election-ghana/v-r-some-areas-witness-heavy-down-pour/2020/, https://www.gbcghanaonline.com/news/politics/ndc-vice-presidential-candidate-prof-opoku-agyemang-votes/2020/, https://www.gbcghanaonline.com/news/politics/former-president-john-mahama-casts-ballot-in-bole/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-votes-at-the-rock-of-ages-polling-station-in-kyebi/2020/, https://www.gbcghanaonline.com/news/politics/ec-moves-to-address-delayed-start-of-voting-at-ayawaso-west-wuogon/2020/, https://www.gbcghanaonline.com/news/politics/video-vice-president-bawumia-votes-in-walewale-calls-for-a-peaceful-election/2020/, https://www.gbcghanaonline.com/news/politics/voters-in-guan-district-to-participate-in-presidential-election-and-not-parliamentary-ec/2020/, https://www.gbcghanaonline.com/election-ghana/over-17-million-ghanaians-to-vote-today/2020/, https://www.gbcghanaonline.com/news/politics/codeo-deploys-over-4000-observers-to-polling-stations/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-assures-of-peaceful-elections/2020/, https://www.gbcghanaonline.com/news/politics/ghana-goes-to-the-polls-today/2020/, https://www.gbcghanaonline.com/news/politics/lpg-sure-of-breaking-ndc-npp-duopoly-in-2020-general-election/2020/, https://www.gbcghanaonline.com/news/politics/lpg-sure-of-breaking-ndc-npp-duopoly-in-2020-general-election/2020/, https://www.gbcghanaonline.com/news/politics/npp-ndc-to-end-campaign-with-mammoth-rallies-today/2020/, https://www.gbcghanaonline.com/news/politics/we-will-win-five-seats-in-the-north-pnc/2020/, https://www.gbcghanaonline.com/general/president-akufo-addo-assures-closag-of-better-conditions-of-service/2020/, https://www.gbcghanaonline.com/news/politics/election-2020-n-r-police-assures-electorate-of-adequate-security/2020/, https://www.gbcghanaonline.com/general/police-arrest-three-over-arms-uncovered-at-hotel-in-ajumako-essiam/2020/, https://www.gbcghanaonline.com/technology/telcos-assure-public-of-quality-network-for-december-7-polls/2020/, https://www.gbcghanaonline.com/news/politics/police-service-dedicate-hotline-to-media-to-report-mishaps-on-election-day/2020/, https://www.gbcghanaonline.com/news/politics/all-polling-stations-are-flashpoints-ec/2020/, https://www.gbcghanaonline.com/news/politics/mahama-promises-to-amend-pension-law/2020/, https://www.gbcghanaonline.com/news/politics/new-president-of-national-house-of-chiefs-sworn-in-as-council-of-state-member/2020/, https://www.gbcghanaonline.com/general/rural-women-in-upper-east-benefit-from-training-on-digital-and-financial-inclusion/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-expresses-gratitude-to-people-of-eastern-region/2020/, https://www.gbcghanaonline.com/news/politics/john-mahama-most-committed-to-women-empowerment-naana-jane/2020/, https://www.gbcghanaonline.com/news/politics/ppp-promises-pusiga-equality-in-education/2020/, https://www.gbcghanaonline.com/news/business/gipc-urges-investors-to-take-interest-in-1d1f-initiative/2020/, https://www.gbcghanaonline.com/news/politics/electoral-officials-who-violate-ec-code-will-be-prosecuted-ec/2020/, https://www.gbcghanaonline.com/general/tuc-danish-trade-union-development-agency-distribute-44000-worth-of-ppes-to-21-affiliate-unions/2020/, https://www.gbcghanaonline.com/news/health/bonuama-gets-ultra-modern-poly-clinic/2020/, https://www.gbcghanaonline.com/news/education/ges-posts-18000-newly-trained-teachers/2020/, https://www.gbcghanaonline.com/news/politics/ec-turns-down-proposal-for-provision-of-face-masks-at-polling-stations/2020/, https://www.gbcghanaonline.com/news/politics/v-r-john-mahama-cautions-people-of-hohoe-against-vote-buying/2020/, https://www.gbcghanaonline.com/editorials/4th-december-2020/2020/, https://www.gbcghanaonline.com/news/politics/npp-and-ndc-to-reaffirm-commitment-to-peaceful-elections-as-they-sign-pact-today/2020/, https://www.gbcghanaonline.com/technology/bui-hydro-solar-hybrid-comes-on-stream/2020/, https://www.gbcghanaonline.com/news/education/knustford-university-college-graduates-48-in-security-intelligence/2020/, https://www.gbcghanaonline.com/news/politics/ec-sets-up-call-centre-for-2020-elections/2020/, https://www.gbcghanaonline.com/news/politics/eu-election-observer-mission-rates-special-voting-exercise-as-successful/2020/, https://www.gbcghanaonline.com/news/business/ghana-to-deploy-freight-drones-to-facilitate-trade/2020/, https://www.gbcghanaonline.com/news/politics/ppp-flagbearer-brigitte-dzogbenuku-promises-to-pass-affirmative-action-bill-in-first-100-days-in-office/2020/, https://www.gbcghanaonline.com/news/politics/ibn-chambas-urges-ghanaians-to-ensure-peaceful-elections/2020/, https://www.gbcghanaonline.com/general/supreme-court-rules-as-unconstitutional-demand-by-40-former-mps-to-be-paid-special-pension/2020/, https://www.gbcghanaonline.com/general/gcpp-presidentential-candidate-henry-lartey-in-near-fatal-accident/2020/, https://www.gbcghanaonline.com/general/government-releases-200-acres-of-land-to-la-stool/2020/, https://www.gbcghanaonline.com/news/politics/akyem-ayirebi-chiefs-elders-declare-support-for-mahama/2020/, https://www.gbcghanaonline.com/sport/decathlon-presents-1000-footballs-to-gfa/2020/, https://www.gbcghanaonline.com/news/politics/bawumia-takes-campaign-tour-to-north-east-region/2020/, https://www.gbcghanaonline.com/general/sacked-ppa-boss-sues-chraj/2020/, https://www.gbcghanaonline.com/general/ghanas-fish-landing-sites-under-threat-fon/2020/, https://www.gbcghanaonline.com/general/tema-oil-refinery-workers-abort-planned-demo/2020/, https://www.gbcghanaonline.com/news/politics/dont-use-children-for-political-campaigns-cri/2020/, https://www.gbcghanaonline.com/news/politics/queens-campaign-for-peaceful-elections/2020/, https://www.gbcghanaonline.com/news/politics/political-parties-back-moves-to-make-december-7-public-holiday/2020/, https://www.gbcghanaonline.com/news/politics/ec-urged-to-scrutinize-political-party-advertisements-involving-children/2020/, https://www.gbcghanaonline.com/news/politics/npp-denies-ndcs-bribery-accusations-says-40k-was-a-campaign-donation/2020/, https://www.gbcghanaonline.com/general/president-akufo-addo-declares-monday-december-7-as-public-holiday/2020/, https://www.gbcghanaonline.com/news/politics/ghanas-bauxite-will-benefit-all-ghanaians-and-will-not-be-owned-by-one-person-president-akufo-addo/2020/, https://www.gbcghanaonline.com/news/politics/ndc-describes-special-voting-exercise-as-successful/2020/, https://www.gbcghanaonline.com/general/special-voting-2-arrested-for-disclosing-votes/2020/, https://www.gbcghanaonline.com/news/politics/peace-council-optimistic-of-political-parties-re-affirming-commitment-to-peace-on-dec-7/2020/, https://www.gbcghanaonline.com/news/politics/ghana-will-survive-2020-elections-mr-addai-sebo/2020/, https://www.gbcghanaonline.com/news/politics/parliamentary-candidates-for-cape-coast-north-debate/2020/, https://www.gbcghanaonline.com/entertainment/musicians-play-key-roles-in-electoral-choices-musicologist/2020/, https://www.gbcghanaonline.com/general/mcdans-subsidiary-company-electrochem-ghana-begins-salt-production-at-songhor/2020/, https://www.gbcghanaonline.com/news/education/methodist-university-college-holds-virtual-18th-congregation/2020/, https://www.gbcghanaonline.com/sport/2020-21-caf-champions-league-kotoko-to-host-nouadhibou-behind-closed-doors/2020/, https://www.gbcghanaonline.com/news/business/ghana-cote-divoire-cancel-cocoa-sustainability-schemes-run-by-hershey/2020/, https://www.gbcghanaonline.com/general/martin-amidu-challenges-govt-to-publish-agyapa-report-and-letters/2020/, https://www.gbcghanaonline.com/news/politics/tema-east-i-have-no-hand-in-ashai-odamttens-arrest-titus-glover/2020/, https://www.gbcghanaonline.com/news/politics/ndc-to-absorb-fees-of-tertiary-students-in-2020-2021-academic-year/2020/, https://www.gbcghanaonline.com/news/education/150000-free-shs-graduates-to-enjoy-govt-scholarship/2020/, https://www.gbcghanaonline.com/news/politics/hohoe-records-91-special-voting-turn-out/2020/, https://www.gbcghanaonline.com/sport/official-kosta-papic-named-new-hearts-of-oak-head-coach/2020/, https://www.gbcghanaonline.com/news/politics/five-more-people-arrested-in-yagaba-kubori-npp-ndc-clashes/2020/, https://www.gbcghanaonline.com/general/world-aids-day-marked-with-emphasis-on-eliminating-adolescent-transmission-stigma/2020/, https://www.gbcghanaonline.com/news/business/asepa-gives-bog-48-hours-to-refund-missing-ghc52-billion-from-gcbs-transit-account/2020/, https://www.gbcghanaonline.com/news/business/electrochem-ghana-limited-takes-over-production-of-ada-songhor-salt-project/2020/, https://www.gbcghanaonline.com/news/politics/prof-opoku-agyemang-accuses-npp-of-vote-buying-in-central-region/2020/, https://www.gbcghanaonline.com/general/president-akufo-addo-launches-pension-scheme-for-cocoa-farmers/2020/, https://www.gbcghanaonline.com/general/1d1f-president-akufo-addo-commissions-bodukwan-multi-fruit-processing-factory/2020/, https://www.gbcghanaonline.com/general/national-security-officer-interdicted-for-attacking-soldier/2020/, https://www.gbcghanaonline.com/news/politics/ndc-tema-east-demonstrates-against-arrest-of-parliamentary-candidate/2020/, https://www.gbcghanaonline.com/sport/beebies-events-ghana-honours-tennis-hero-ebenezer-odartey-annan/2020/, https://www.gbcghanaonline.com/sport/ghanaian-clubs-open-caf-competitions-with-draws/2020/, https://www.gbcghanaonline.com/general/federation-of-muslim-councils-pays-tribute-to-j-j-rawlings/2020/, https://www.gbcghanaonline.com/news/politics/indulging-in-vigilante-activities-attracts-a-maximum-of-25-years-imprisonment-ncce/2020/, https://www.gbcghanaonline.com/news/politics/special-voting-delays-for-nearly-an-hour-in-tema-west/2020/, https://www.gbcghanaonline.com/news/politics/ec-organizes-thanksgiving-service-ahead-of-2020-general-elections/2020/, https://www.gbcghanaonline.com/news/politics/court-dismisses-application-of-another-disqualified-independent-presidential-candidate-marricke-kofi-gane/2020/, https://www.gbcghanaonline.com/editorials/1st-december-2020/2020/, https://www.gbcghanaonline.com/news/politics/over-100000-voters-to-partake-in-special-voting-today/2020/, https://www.gbcghanaonline.com/news/politics/election-2020-court-throws-out-kofi-korantengs-disqualification-case/2020/, https://www.gbcghanaonline.com/news/education/fijai-fosa-1989-group-supports-alma-mata/2020/, https://www.gbcghanaonline.com/general/ghana-lost-120-billion-cedis-to-corruption-in-last-four-years/2020/, https://www.gbcghanaonline.com/news/politics/former-nigerian-president-cautions-npp-ndc-ahead-of-december-7-elections/2020/, https://www.gbcghanaonline.com/general/residents-of-teshie-demo-appeal-to-government-over-abandoned-roads/2020/, https://www.gbcghanaonline.com/news/politics/nss-boss-attacked-four-others-sustain-injuries-at-yagba/2020/, https://www.gbcghanaonline.com/news/education/fijai-fosa-1989-group-supports-alma-mata/2020/, https://www.gbcghanaonline.com/news/politics/volta-diaspora-caucus-organizes-durbar-to-celebrate-former-president-rawlings/2020/, https://www.gbcghanaonline.com/news/politics/reports-of-ballot-papers-burning-misleading-ec/2020/, https://www.gbcghanaonline.com/general/prioritize-budget-to-media-sulemana-braimah/2020/, https://www.gbcghanaonline.com/news/politics/mahama-expresses-readiness-to-accept-election-verdict/2020/, https://www.gbcghanaonline.com/sport/former-senegal-international-papa-bouba-diop-dies-aged-42/2020/, https://www.gbcghanaonline.com/news/politics/ndc-embarks-on-probity-and-accountability-march/2020/, https://www.gbcghanaonline.com/news/politics/more-progress-more-prosperity-and-more-development-in-my-2nd-term-president-akufo-addo/2020/, https://www.gbcghanaonline.com/news/politics/ec-outlines-measures-to-ensure-pwds-vote-independently/2020/, https://www.gbcghanaonline.com/general/gcb-bank-fire-started-from-storeroom-preliminary-investigations/2020/, https://www.gbcghanaonline.com/news/education/methodist-university-awaits-accreditation-to-introduce-new-programmes/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-cautions-npp-supporters-against-voting-skirt-and-blouse/2020/, https://www.gbcghanaonline.com/general/125000-vulnerable-persons-to-receive-cash-transfers-under-covid-19-relief-measures/2020/, https://www.gbcghanaonline.com/general/mahama-celebrates-62nd-birthday-with-tamale-children/2020/, https://www.gbcghanaonline.com/news/politics/turn-out-in-your-numbers-vote-massively-for-the-npp-president-akufo-addo/2020/, https://www.gbcghanaonline.com/news/politics/ndc-has-track-record-of-delivering-on-its-promises-prof-opoku-agyemang/2020/, https://www.gbcghanaonline.com/news/politics/ndc-supporters-accuse-masked-policeman-of-being-a-vigilante/2020/, https://www.gbcghanaonline.com/news/politics/akufo-addo-solicits-support-of-chiefs-and-people-of-central-region-for-4-more-years/2020/, https://www.gbcghanaonline.com/general/late-mfantseman-mp-finally-laid-to-rest/2020/, https://www.gbcghanaonline.com/general/two-killed-after-container-carrying-cocoa-falls-on-saloon-car-in-takoradi/2020/, https://www.gbcghanaonline.com/general/two-killed-after-container-carrying-cocoa-falls-on-saloon-car-in-takoradi/2020/, https://www.gbcghanaonline.com/general/fda-sensitises-public-to-ban-smoking-in-public-places/2020/, https://www.gbcghanaonline.com/news/politics/all-eyes-on-ghana-honour-rawlings-with-peaceful-polls-chambas/2020/, https://www.gbcghanaonline.com/technology/nca-grants-free-spectrum-to-two-telcos-to-ease-congestion/2020/, https://www.gbcghanaonline.com/technology/nca-grants-free-spectrum-to-two-telcos-to-ease-congestion/2020/, https://www.gbcghanaonline.com/technology/first-phase-of-bui-hydro-solar-hybrid-project-inaugurated/2020/, https://www.gbcghanaonline.com/general/aviation-minister-inspects-600-acre-land-secured-for-cape-coast-airport/2020/, https://www.gbcghanaonline.com/general/fire-guts-gcb-bank-at-kantamanto/2020/, https://www.gbcghanaonline.com/general/piac-expresses-worry-over-indebtedness-of-ghana-gas-to-gnpc/2020/, https://www.gbcghanaonline.com/news/politics/martin-amidu-fires-back-at-president-akufo-addo/2020/, https://www.gbcghanaonline.com/general/president-akufo-addo-completes-and-commissions-60-bed-twifo-praso-hospital/2020/, https://www.gbcghanaonline.com/general/250-youth-undergo-skills-training/2020/, https://www.gbcghanaonline.com/news/business/undp-vodafone-ghana-train-women-in-agribusiness-on-digital-banking/2020/, https://www.gbcghanaonline.com/news/politics/akufo-addo-sweet-talked-ghanaians-into-power-mahama/2020/, https://www.gbcghanaonline.com/news/politics/were-building-a-new-ghana-that-works-veep-bawumia/2020/, https://www.gbcghanaonline.com/general/alliance-for-empowering-rural-communities-educates-youth-on-sdgs/2020/, https://www.gbcghanaonline.com/news/politics/ec-insists-on-declaring-election-results-within-24hrs/2020/, https://www.gbcghanaonline.com/general/giz-launches-ghana-apparel-training-centre/2020/, https://www.gbcghanaonline.com/news/politics/ug-survey-reveals-ghanaians-are-moving-from-partisan-to-issue-based-politics/2020/, https://www.gbcghanaonline.com/news/politics/disregard-fake-survey-by-ug-projecting-51-7-win-for-the-npp-asepa/2020/, https://www.gbcghanaonline.com/news/politics/veep-bawumia-says-strong-economy-is-guarantee-for-another-four-year-term/2020/, https://www.gbcghanaonline.com/general/ghana-cuba-sign-agreement-on-drug-trade-capacity-building/2020/, https://www.gbcghanaonline.com/general/all-salary-arrears-owed-teachers-to-be-paid-first-week-in-dec-napo/2020/, https://www.gbcghanaonline.com/general/ministry-of-tourism-arts-and-culture-institutes-insurance-scheme-for-creative-arts-industry/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-shocked-by-mahamas-outright-lie-of-being-free-shs-originator/2020/, https://www.gbcghanaonline.com/sport/commonwealth-games-ghana-organises-workshop-for-media/2020/, https://www.gbcghanaonline.com/general/chief-of-staff-inaugurates-technical-committee-to-resolve-aviation-land-issues/2020/, https://www.gbcghanaonline.com/news/business/mobile-industry-tax-contribution-hits-%c2%a23-2-billion-in-2019/2020/, https://www.gbcghanaonline.com/news/politics/ndc-postpones-probity-and-accountability-march-to-monday/2020/, https://www.gbcghanaonline.com/technology/no-country-has-industrialised-without-using-nuclear-energy-in-generation-mix-ahiataku-togobo/2020/, https://www.gbcghanaonline.com/general/president-akufo-addo-commissions-phase-one-of-pokuase-interchange/2020/, https://www.gbcghanaonline.com/news/politics/police-are-ready-for-december-7-polls-upper-east-regional-commander/2020/, https://www.gbcghanaonline.com/sport/diego-maradona-dies-at-60-following-heart-attack/2020/, https://www.gbcghanaonline.com/news/politics/ec-denies-generating-multiple-registration-list-allegations/2020/, https://www.gbcghanaonline.com/news/politics/election-2020-cpp-promises-to-shock-npp-ndc/2020/, https://www.gbcghanaonline.com/news/politics/president-akufo-addo-says-presidency-is-not-correctional-facility-as-he-takes-swipe-at-ndc-flagbearer-john-mahama/2020/, https://www.gbcghanaonline.com/news/politics/ndc-describes-ecs-decision-to-announce-election-results-within-24hrs-as-unreasonable/2020/, https://www.gbcghanaonline.com/general/father-sentenced-to-22-years-in-hard-labour-for-defiling-daughter/2020/, https://www.gbcghanaonline.com/general/covid-19-82-in-accra-not-wearing-face-masks-survey/2020/, https://www.gbcghanaonline.com/general/foreign-ministry-commissions-passport-office-in-tamale/2020/, https://www.gbcghanaonline.com/general/fda-and-cuba-sign-mou-for-mutual-capacity-building/2020/, https://www.gbcghanaonline.com/election-ghana/we-have-almost-100-percent-of-materials-for-election-2020-kpando-ec-office/2020/, https://www.gbcghanaonline.com/news/education/ges-directors-pros-urged-to-intensify-education-glrp/2020/, https://www.gbcghanaonline.com/general/ayawaso-east-town-hall-meeting-parliamentary-candidates-fail-to-show-up/2020/, https://www.gbcghanaonline.com/news/business/ghana-revenue-authority-sensitises-stakeholders-on-simplified-tax-laws/2020/, https://www.gbcghanaonline.com/news/politics/nalag-calls-on-youth-to-eschew-violence-in-election-2020/2020/, https://www.gbcghanaonline.com/news/politics/ppp-will-bring-change-to-volta-region-dzogbenuku/2020/, https://www.gbcghanaonline.com/news/education/8-a-s-student-from-adieso-shs-to-get-presidential-scholarship/2020/, https://www.gbcghanaonline.com/sport/dr-bawumia-commissions-sheikh-sharubutu-sports-complex/2020/, https://www.gbcghanaonline.com/sport/kotoko-coach-to-face-gfa-disciplinary-committee-over-referee-comments/2020/, https://www.gbcghanaonline.com/news/politics/ncce-cautions-political-party-supporters-to-desist-from-massing-up-at-polling-stations-on-election-day/2020/, https://www.gbcghanaonline.com/general/kumasi-and-its-environs-to-benefit-from-125m-sanitation-and-water-projects/2020/, https://www.gbcghanaonline.com/news/politics/pncs-david-apasera-begins-campaign-tour-of-northern-region/2020/, http://gbcghanaonline.com/, https://youtu.be/5iPh92JTgFM, http://tvlicence.com.gh/register.php, 
+
+ All post text:
+You are watching Focus live on GTV News...
+You are watching The Breakfast Show live on GTV....
+DISCUSSING: ENDING GENDER BASED VIOLENCE IN GHANA.
+You are watching News Live on GTV/GBC News.
+You are watching Market Avenue Llive on GBC News.
+Former President John Dramani Mahama, the flagbearer of the National Democratic Congress (NDC), is expected in the Bono East Capital, Techiman, on Wednesday, December 16, 2020.
+The Northern Regional Security Council (REGSEC) has cautioned supporters of the National Democratic Congress (NDC) who intend marching in Tamale tomorrow (Wednesday, December, 16), not to engage in acts that will undermine the peace and security of the Metropolis.
+You are watching News Hour live on GTV/GBC News
+The National Commission for Civic Education (NCCE) has observed that the re-opening of schools in January 2021 would be impossible if new infections of the Corona Virus Disease (COVID-19) in the country are not brought under control.
+A 30-member Girls’ Education Network has been inaugurated in the Ajumako-Enyan-Essiam District with the responsibility to champion girls’ education there.
+Speaker of Parliament Professor, Aaron Mike Oquaye has told MP’s they have a short time to execute business of the house.
+The Special Representative of the Secretary-General and the Head of the UN Office for West Africa and the Sahel Dr Mohammed Ibn Chambas made the call in Accra.
+So far, results for 274 seats out of the 275 parliamentary seats have been officially declared with the NPP winning 137 parliamentary seats putting it ahead of the opposition NDC which has won 136 seats.
+You are watching The Breakfast Show live on GTV
+You are watching Moomen Tonight on GBC News.  TOPIC:POST ELECTION SECURITY  Host Abdul Moomen GUEST: MUTARU MUMUNI MOQTHAR (EXECUTIVE DIRECTOR, WEST AFRICA CENTER FOR COUNTER EXTREMISM)
+You are watching Major News on GBC News.
+The Board of Directors, Management and Staff, of the Ghana Broadcasting Corporation, under the distinguished Chairmanship of the Director – General and in collaboration with the ST Francis of Assisi Catholic Church presents Festival of nine lessons and carols.
+ASP Charity Asante of the Sunyani Central Prisons says the Prisons need urgent support especially in the area of food and medication to give inmates a better life.
+Former Ghana International Otto Addo has been named as the assistant coach of Borussia Dortmund after the club decided to part ways with their head coach Lucien Favre following a 5-1 humiliation at the hands of newly-promoted Stuttgart on Saturday.
+The Police CID has invited a Journalist with Accra-based Power FM, Oheneba Boamah Bennie for allegedly insulting and threatening President Akufo-Addo.
+Reports reaching Radio Ghana in some constituencies including Wa Central speak of demonstrations and agitations from NPP supporters and youth calling on President Akufo-Addo, to dismiss the Regional Minister and party Executives for causing the defeat of the NPP parliamentary candidate Hajia Humu Awudu.
+The Ghana Journalists Association (GJA) has reiterated its unwavering, unshakable, and irrevocable commitment to stand by all media practitioners in the aftermath of the 2020 elections.
+The Alliance for Reproductive Health Rights has raised concerns about the number of Ghanaians who do not have access to health care due to poverty.
+President Nana Addo Dankwa Akufo-Addo, left Ghana on Sunday, December 13,2020, for Cote d’Ivoire and Guinea
+Members of Parliament are expected to resume from recess today.
+You are watching News Hour Live on GTV/GBC News.
+You are watching the Breakfast Show Live on GTV.
+You are watching Talking Point live on GTV / GBC News
+You are watching Major News Bulletin at 7 pm live on GTV/GBC News
+You are watching Major News Bulletin at 7 pm live on GTV/GBC News.
+Mr Kwame Asiedu Walker, the only independent presidential candidate in the 2020 elections, has pledged his determination to improve on his gains in the next elections.
+The Akwatia Constituency Executives of the New Patriotic Party (NPP) have announced their intention to sack the outgoing Member of Parliament for the area, Mercy Adu Gyamfi, alias Ama Sey from the party effective January 7, 2021.
+The MP-elect for Odododiodoo Constituency, Nii Lante Vanderpuye, has called on the Chiefs, Opinion Leaders, Religious and Traditional leaders of the community, to come together to work for the common good of the constituency.
+The Upper East Region has been hit by the shortage of Onions for the past two months.
+The Center for Democratic Development, CDD-Ghana has called on the leadership of National Democratic Congress (NDC) to use legitimate means in defending their rejection of the December 7 Presidential Election results.
+Director of Electoral Service at the Electoral Commission (EC), Dr. Serebour Quaicoe, says the Commission will by next week release all Constituency and Polling Station results on its website.
+You are watching News Hour at 2 pm live on GTV/GBC News.
+Gender activists from various Civil Society Organisations (CSOs) have called for more data on Sexual and Gender-Based Violence (SGBV) to strengthen policies and programmes that were geared towards eliminating the menace.
+You are watching Girlz Girlz Power Talk Show live on GTV
+You are watching Girlz Girlz Power Talk Show live on GTV  Topic; Adapting to the impact of Covid-19 (Stories of Adolescent Girls)
+You are watching The Major News Bulletin live on GTV/GBC News
+The Electoral Commission has debunked reports that its Chairperson, Mrs Jean Mensah, has travelled outside the country after declaring the 2020 election results.
+Despite assurances by the Securities and Exchange Commission of the commencement of the payment of a bailout package for customers of Gold Coast Securities by December 8, majority of the beneficiaries say they have not received any money yet.
+Winners of the 2020 McDan Ga Adangme Peace and Unity tournament Osu have appealed through their head coach Samuel Nii Armah Hammond to Chairman of the McDan Group.
+You are watching News Hour at 2 pm live on GTV/GBC News
+You are watching National Prayer Hour live  Host: Rev. Dr. Justice Appiah Kubi  Guest: Dr. Samuel Ofori Onwoa, The National Coalition For Proper Human Sexual Rights and Family Values
+The Electoral Commission in the Northern Region has declared Iddrisu Yakubu Abdulai of the NDC as Member of Parliament for the Savelugu Constituency...
+A statement from the Bank of Ghana said the MOU is aimed at building the capacity of SMEs to leverage technology for efficiency, market discovery and accessibility to global markets.
+Buhari, in a tweet wrote: ” I congratulate President Akufo-Addo on his re-election for a second term in office.
+The CHRAJ Boss said almost all the polling centres observed by the Commission provided special assistance to the elderly, pregnant, persons carrying babies and Persons with Disability to vote without having to wait in queues.
+He is said to have died at the Legon hospital after a short illness at age 72. Mr. Newman was a founding member of the NPP.
+The European Union Election Observation Mission (EU EOM) Ghana has commended state-owned radio station Uniiq FM and state-owned newspaper Daily Graphic for providing equitable electoral coverage to the two main political parties during the December 7 Presidential and Parliamentary Elections...
+A statement from the US Embassy in Accra, copied to the Ghana News Agency, said the election was conducted in a free, fair, and peaceful manner, while protecting the well being of Ghanaians during the COVID-19 global pandemic...
+The convict, Mireku Mark, 45, had earlier on Monday, June 8, given a year’s jail term by a Circuit Court in Cape Coast on 34 counts of dangerous driving and negligently causing harm after pleading guilty...
+You are watching Weekly Press Review live on GBC News
+Radio Ghana’s correspondent Bubu Klinogo reports that Mr. Gakpey who was able to escape from physical attacks by his assailants is now responding to treatment at the hospital.
+You are watching The Breakfast Show live on GTV
+The Flagbearer of the NDC, John Dramani Mahama, has described the 2020 elections as “flawed” saying he is “unwilling to accept fictionalised results”.
+Government says it is not taken aback by the level of margin that was recorded in the just-ended election. It has rather described the results as a good one.
+A Statement issued and signed by the Director of Communications at the Presidency, Eugene Arhin, said,the Transition Team which is made of fifteen (15) persons will be chaired by the Chief of Staff, Akosua Frema Osei-Opare.
+"If somebody goes to the polling station to snatch a ballot box and the military or a plain-clothed security officer has to fire a weapon to ensure that the election is not compromised, that is not equal to sending the military into a polling station to intimidate voters."
+The NDC says it still maintains its rejection of the results of the Presidential Election declared by the Electoral Commission (EC).
+You are Watching Major News Bulletin Live on GTV/GBC News...
+President Akufo-Addo and his appointees are back to work after a hectic campaign and electioneering. This is to ensure that remaining Government business is done before the year ends.
+"It is not true the military was sent to polling stations to intimidate voters," Oppong Nkrumah, Minister for Information.
+Number of Seats won by Political Parties in 2020 Parliamentary Elections.  #GhanaWins
+U.S. Ambassador to Ghana Stephanie S. Sullivan has applauded Ghana on its successful elections on December 7, 2020, and congratulated President Nana Addo Dankwa Akufo-Addo on his re-election
+Concerned citizens of Abolove-Nolopi in the Keta Municipality have petitioned the Assembly to investigate their paramount Chief over financial irregularities.
+You are watching Minister's Press Briefing on GBC News/GTV.
+Mr. John-Peter Amewu, Minister of Energy and Member of Parliament-elect (MP) for Hohoe Constituency, has broken grounds for the construction of a state-of-the-art palace for the Wli Traditional Council.
+The Coalition of Domestic Election Observers, CODEO has asked Ghanaians to have confidence in the presidential election results declared by the Electoral Commission as it reflects accurately how the citizenry voted in the December 7 elections.
+You are watching News Hour on GBC News/GTV.
+The National Democratic Congress (NDC) has rejected the declaration of President Akufo-Addo as winner of the presidential polls by the Electoral Commission...
+President-elect Nana Akufo-Addo has extended an olive branch to the NDC and other political parties to work together with government following his election for a second four-year term in the December polls...
+The National Commission for Civic Education, NCCE has congratulated President Akufo-Addo on his re-election for a second tenure...
+The NDC has rejected the declaration of President Akufo-Addo as the winner of the presidential polls by the Electoral Commission.
+The year-on-year rate of inflation slowed for the fourth consecutive month to 9.8 percent in November.
+Three presidential candidates have acknowledged President Nana Addo Dankwa Akufo-Addo’s victory at the polls and have called to congratulate him.
+Celebrations and razzmatazz in Sunyani as some residents dance to Mahama's campaign song after Akufo-Addo's win.  #GhanaWins
+I am grateful for this victory. I am deeply humbled again by your show of confidence and I do not take this lightly- Akufo-Addo, President-Elect.
+You are watching Election 2020 on GBC News/GTV...
+Nana Addo Dankwa Akufo-Addo of the NPP defeated his main rival, former President Mahama, with 6,730,413 votes which represent 51.59 percent of the valid votes cast.
+The Electoral Commission has dismissed reports suggesting it ejected NDC representative, Mr Rojo Mettle Nunoo, from the National Collation Centre on Tuesday, December 8.
+You are watching national prayer hour live on GTV life. Host: Rev. Dr. Justice Appiah Kubi Guet: Mr Edem Senanu (President Advocate For Christ, Ghana)
+“Let us desist from this practice. It has the tendency to promote instability in our dear nation” the statement further said.
+The Head of the ECOWAS Observer Mission, Madam Ellen Johnson Sir leaf, has called on African countries to emulate Ghana’s example of conducting free, fair and transparent elections.
+The Electoral Commission (EC) says it has received results from 14 of the 16 regions, with the exception of Bono East and Northern regions.
+Two persons were shot dead and ten others injured in two constituencies in the Greater Accra Region during the compilation of votes, after the elections on Monday.
+Government has debunked claims by NDC Flagbearer John Mahama that the NDC has won majority seats in Parliament.
+You are watching Election 2020 on GBC News/GTV...
+NDC Flagbearer John Dramani Mahama has urged the EC and government to stop using the military to alter the results of the elections in favor of the NPP.
+Find below Election 2020 Presidential Results for seven (7) Regions
+The Chairperson of the Electoral Commission, Jean Mensah, has addressed the media on the 2020 elections in Accra.
+You are watching Election 2020 on GBC News/GTV...
+Certified Presidential Results  NPP wins Central region.
+Certified Presidential Results  NPP wins North East region.
+Certified Presidential Results  NDC wins Upper West region.
+Certified Presidential Results  NPP wins Ahafo region.
+Certified  NDC wins Volta region.
+Certified  NPP wins Bono region.
+Certified  Presidential election results for Oti Region.
+Electoral Commission addresses media on Election 2020
+The Presidential Candidate of the GCPP, Dr Henry Lartey has conceded defeat in the 2020 Presidential Election.
+Sheila Bartels won the seat with 54,544, while NDC’s Winifred Ashley Mensah polled 29,704 while Princess Agyemang of GUM had 716.
+NDC addresses the Media
+Government responds to NDC Presidential Candidate, John Mahama.
+Certified  Upper East Regional Winners for the 2020 Parliamentary Elections
+“I want to state categorically and firmly that I have not congratulated any person and no attempt should be made to steal this election. We will resist it.”
+You are Watching News Hour Live on GTV/GBC News
+In a statement, the EC said the new timeline will be communicated to the general public shortly.
+Tonight we have a special extended programme with the best post-election analysis. Comment, share, like, and follow for more programmes.
+The wife of the late Member of Parliament for Mfantseman, Ophelia Hayford has been declared winner of the seat by the Electoral Commission (EC) at Saltpond after several hours of collation characterized by few misunderstandings Tuesday morning.
+National Democratic Congress (NDC) Parliamentary Candidate for the Korle Klottey Constituency, Dr Zenator Agyemang-Rawlings, has retained her parliamentary seat with 39,343 of the valid votes cast in yesterday’s (December 7) polls.
+Deputy Chairman of the Commission in-charge of Corporate Affairs, Dr. Eric Bossman Asare said barring any hitches, Ghanaians will know the next President by 5pm from the Accra International Conference Center.
+The NDC claims it has taken a decisive lead in the elections hours after the polls closed yesterday (December 7). The NPP has however debunked NDC’s claim saying, it will maintain its majority status in parliament while widening the gap in the Presidential race.
+Reports say the office was seen burning after lights at the collation centre went out.
+Tonight we have a special extended programme with the best post-election analysis. Comment, share, like, and follow for more programmes.
+One person has died after a shooting incident at Ablekuma Central.  #GhanaWins
+"NDC has not learnt from the 2016 mistakes and incompetence."  John Boadu, General Secretary of NPP. #GhanaWins
+We have flipped Gomoa West, Jaman North, Dormaa West, Jaman South and others- NDC  #GhanaWins
+Live Streaming: 2020 Presidential and Parliamentary elections.  Comment, share, like, and follow for more programmes.
+The Electoral Commission has described as “unverified” and “misleading” statements by the Asawase Member of Parliament to the effect that a parliamentary ballot box in one of the Polling Stations had been stuffed with marked ballots.
+JUST IN: Upper East Regional Minister Tangoba Abayage concedes defeat to NDC’s Sampson Chiragia. NPP loses Navrongo Central constituency seat.
+Tonight we have a special extended programme with the best post-election analysis.  Comment, share, like, and follow for more programmes.
+The EC has confirmed that the bodyguard of the Presidential candidate of the NDC, John Mahama, has voted after his name was not found on the voters’ register at the District Office Polling Station in the Bole-Bamboi Constituency.
+The NPP has debunked claims by the NDC that ballots have been stuffed in boxes. The NDC earlier told journalists that the NPP was trying to rig the elections by bringing in some ballot boxes.
+The residents of Bulijin Community in the Buli Electoral Area in the Wa West Constituency did not participate in the on-going Presidential and Parliamentary Elections for failure of governments over the years to connect the community to the national electricity grid.
+Director of Elections, NDC, Elvis Afriyie Ankrah says the Party has credible intelligence suggesting that some individuals have been caught with ballot papers which have the signature of the EC Chairperson.
+Voting has currently ended at centres nationwide in the 2020 general elections and counting is underway. #GhanaWins
+Counting of votes in the presidential and parliamentary elections has started in all 5,089 polling centres across the 47 constituencies in the Ashanti Region.
+You are Watching Major News Bulletin Live on GTV/GBC News
+The Electoral Commission (EC) says two of its officers who tampered with the Presidential ballot papers in the Awutu Senya West and Bawku Central constituencies in the Central and Upper East regions have been arrested. The two are currently in police custody.
+Ketu North and Afadzato South have recorded heavy downpour, which was likely to delay the electoral process in these areas.
+You are watching Election 2020 live on GBC NEWS.  DISCUSSING: SWING REGIONS
+You are watching News Hour on GBC News..
+Professor Jane Naana Opoku-Agyeman, the Vice Presidential Candidate of the National Democratic Congress (NDC) has cast her vote at the M/A JHS polling station in the Komenda-Edina-Eguafo-Abirem (KEEA) constituency.
+Former President John Dramani Mahama, the National Democratic Congress’ (NDC) Presidential Candidate, has cast his ballot at the Bole constituency of the Savannah Region.
+The President, Nana Addo Dankwa Akufo-Addo has cast his ballot at the Rock of Ages Polling Station in Kyebi, in the Eastern Region, together with the First Lady Rebecca Akufo-Addo and his daughters.
+The Electoral Commission (EC) says it has taken steps to address the situation on delayed start of voting at the Ayawaso West Wuogon Constituency.
+The Vice President, Dr Mahamudu Bawumia has cast his ballot at the Kperiga Presby JHS ‘A’ Polling Station at Walewale in the North East Region.
+The Electoral Commission announces that voting in the Guan District of the Buem Constituency will take place as scheduled from 7:00am to 5:00pm.
+Over 17 million Ghanaians will head to the polls today, Monday, December 7, 2020, to decide whether the flagbearer of the New Patriotic Party (NPP), Nana Addo Dankwa Akufo-Addo will be Ghana’s President for another four years or not.
+The Coalition of Domestic Election Observers, CODEO, has deployed more than 4000 observers to polling stations across Ghana to monitor today’s (December 7) general election.
+President Akufo-Addo has urged all eligible voters to come out in their numbers and exercise their franchise in today’s general election.
+Ghanaians are heading to the polls this morning to elect a President and 275 Members of Parliament to steer the affairs of the country for the next four years
+You are watching election 2020 live on obonu TV.
+You are watching Election 2020 live on GBC NEWS
+You are watching Talking Point Live on GBC News.
+AHEAD OF ELECTIONS ON MONDAY.
+You are Watching Talking Point Live on GBC News.
+You are Watching News Live on GTV/GBC News.
+You are Watching Major News Bulletinr Live on GTV/GBC News...
+The party says its campaign across the country suggests that Ghanaians are fed up with the two parties and ready to give the LPG the nod to rule the country for the next four years.
+The party says its campaign across the country suggests that Ghanaians are fed up with the two parties and ready to give the LPG the nod to rule the country for the next four years.
+The New Patriotic Party (NPP) and the National Democratic Congress (NDC) will end their campaigns with mammoth rallies today at Chorkor and Dansoman respectively in Accra.
+You are Watching News Hour Live on GTV/GBC News...
+The People’s National Convention (PNC) says it will win five seats in the northern part of the country in the upcoming general election.
+President Nana Addo Dankwa Akufo-Addo has urged labor unions to retain him and the New Patriotic Party (NPP) in power to enable his government stay the country on the path of sustainable growth and development.
+The Northern Regional (N/R) Police Command has assured the electorate of adequate security ahead of the December polls.
+The Police have arrested three suspects in connection with some arms uncovered at a hotel at Ajumako Essiam.
+All construction works along roads leading to where fiber optic cables have been laid are to be suspended for two weeks.
+The Ghana Police Service, has established a dedicated hotline for the Media to communicate effectively with the Police during the December 7 General Election, on any infraction or challenges they might encounter.
+Deputy Chairman of the Electoral Commission (EC), in charge of Corporate Services, Dr Bossman Asare, says the Commission is treating all polling stations across the country as flashpoints in the up-coming general election.
+Presidential candidate of the National Democratic Congress (NDC) and former President, John Dramani Mahama, has promised to amend the country’s pension law to enable workers who have contributed more than 10 years to use their contributions as collateral for loans to build their own houses.
+You are Watching News Live on GTV/GBC News.
+Ogyeahohuo Yaw Gyebi II, who is the Paramount Chief of the Sefwi Anhwaiaso in the Western North Region, by institutional representation, replaces Togbe Afede XIV, the immediate past President of the NHC, who lost his re-election bid to him last month, on the Council.
+About 2,000 rural women in the Agriculture value chain in the Upper East Region are to benefit from a programme rolled out by the United Nations Development Programme (UNDP) in Partnership with Vodafone foundation, Access Bank and Youth Harvest Foundation.
+President Akufo-Addo has expressed gratitude to the people of the Eastern Region for having faith in him since the 2008 General Election.
+The Vice-Presidential Candidate of the National Democratic Congress, Prof. Naana Jane Opoku-Agyemang, has asserted that NDC Flagbearer John Mahama is the most committed Candidate for women empowerment in this year’s elections. This is demonstrated not only in her selection as Running Mate but the pragmatic policies of the party to improve lives of women and Ghanaians.
+Presidential Candidate of the Progressive People’s Party (PPP), Ms Brigitte Dzogbenuku, said when voted into power, the Party will ensure the people of Pusiga and the Northern belt receive equal quality education as the Southern sector.
+Chief Executive of the Ghana Investment Promotion Centre, GIPC, Yofi Grant has urged investors to have a critical look at the One District One Factory, 1D1F, policy and partner Ghanaians to create a thriving economy. The 1D1F initiative has so far recorded some positive gains as its secretariat reports that about 170 factories are at various stages of completion.
+You are watching National Prayer Hour stream live  Host: Rev: Justice Appiah Kubi.  Guest: Most Rev. Philip Naameh, President of the Ghana Catholic Bishop Confrence.
+The EC Code of Conduct for Electoral Officials, which seeks to reflect on the core values and guide the day-to-day activities of Election Officials appointed by the EC mandates officials adhere strictly to all existing laws governing the conduct of the elections.
+Akufo-Addo, Mahama sign peace pact ahead of December 7 election.
+Deputy Secretary-General of TUC Joshua Ansah gave a background to the presentation and its significance towards the fight against Covid-19.
+The people of Bonuama in the Wassa Amenfi central municipality of the Western Region will no longer walk a long distance to access quality health care delivery.
+Out of the figure, 16,500 are teacher trainees who completed the colleges of education in 2019, while the remaining 1,500 are those who completed in 2017 and 2018 and were also considered in the mop-up exercise.
+The Director of Elections of the National Democratic Congress (NDC), Elvis Afriyie Ankrah says it is illegal for the EC to prevent the electorates from voting because they are not in face masks.
+Mr Mahama asked the people to vote against the Akufo-Addo administration arguing that it had neglected their area in its developmental agenda.
+The Daily Graphic shares its view on the spate of ballot papers which are rejected during elections.
+Reports show that Peace Pacts were signed before the 2012 and the 2016 elections which led to the absence of electoral violence, impunity and injustice in the two previous elections in Ghana.
+You are watching Weekly Press Review live on GBC News
+You are watching The Breakfast Show live on GTV
+You are Watching Moomen Tonight Live on GBC News  Host; Abdul Hayi Moomen  Topic; In whose interest does the plant variety protection bill really serve?  Guest;  Edward Kwame - General Secretary of the General Agricultural Workers Union ( GAWU)  Bern Guri - Executive Director , Center for Indigenous Knowledge and Organisational Development ( CIKOD)
+You are Watching Major News Bulletin Live on GTV/GBC News
+The Bui Power Authority has commissioned 26 megawatts of solar photo voltait resources to augment its 404MW hydroelectric generating station.
+KNUSTFORD University College, a Private University in Kumasi, has organised a ten weeks course on security intelligence and forensic studies for 48 security personnel in the Ashanti region.
+The Electoral Commission (EC) has established a call centre to enable Voters to relay concerns and feedback to the Commission on Election Day.
+The Chief Observer of the European Union Election Observation Mission to Ghana, Javier Nart has rated the special voting exercise held ahead of the December 7 elections as successful with a voter turn-out of 89 percent saying it was incident free and peaceful.
+Ghana is expected to deploy freight drone technology in the coming years to facilitate the timely movement of goods within the country.
+Flagbearer of the Progressive People’s Party (PPP), Brigitte Dzogbenuku, says the Party will pass the Affirmative Action Bill into law in its first 100 days in office.
+“We must make considerable efforts to desist from the politics of acrimony, bitterness and rancor that undermine peaceful conduct of elections.”
+The Supreme Court has ruled that it is unconstitutional for the Chinnery Hesse Committee to provide special pension scheme for some former Members of Parliament.
+The Presidential candidate of the Great Consolidated Popular Party (GCPP), Henry Herbert Lartey, and his driver escaped unhurt when his Toyota Prado car with registration number VD 337-20 veered off its lane and crashed into a Burkina Faso bound truck at Kontoso in the Upper East Region early Wednesday, December 2.
+The Coalition of La Associations (COLA) on Thursday said government has released more than 200-acres of land the state acquired years ago in the La Dadekotopon Municipality to the La Traditional Council.
+The chiefs and elders of Ayirebi in the Ofoase Ayirebi constituency of the Eastern Region on Wednesday declared their support for the presidential candidate of the National Democratic Congress (NDC), Mr John Dramani Mahama, ahead of the December 7, 2020 general elections
+Decathlon Ghana has presented 1,000 KIPSTA footballs to the Ghana Football Association (GFA).
+The Chief of Gbankoni in the Bunkpurugu District of the North East Region, Nasimong Laar Haruna has appealed to Government to build a Police post in the area to curb the spate of cross-border crimes in view of the fact that the area shares borders with neighboring Togo.
+The dismissed Chief Executive Officer of the Public Procurement Authority (PPA), Adjenim Boateng Adjei, has sued the Commission for Human Rights and Administrative Justice (CHRAJ) at the Accra High Court.
+About half of Ghana’s fish landing sites across the coast are under threat, Friends of the Nation (FoN), a non-governmental organisation has said.
+Workers of the Tema Oil Refinery, TOR yesterday aborted a planned demonstration after Management addressed their grievance.
+Executive Director of Child Rights International, Bright Appiah has called on the Electoral Commission and other stakeholders to check the use of children by political parties in advertisements as a means of disseminating their policies. This, in his view, violates their rights
+The Queen Mothers’ Foundation of Ghana has organized a peace campaign with a call on women to discourage their children from fomenting trouble in the December 7, general elections.
+All Political Parties have agreed to a proposal by the Electoral Commission (EC) to the Chief of Staff, and the Ministry of the Interior, to make Monday, December 7, 2020, a statutory holiday.
+Executive Director of Child Rights International, Bright Appiah has called on the Electoral Commission and other stakeholders to check the use of children by political parties in advertisements as a means of disseminating their policies.
+The New Patriotic Party (NPP) has denied accusations of corruption leveled against President Akufo-Addo by the National Democratic Congress (NDC).
+https://www.facebook.com/100002403457513/videos/3586442074779206/
+You are Watching Breakfast Show Live on GTV
+You are Watching Moomen Tonight Live on GBC News
+This decision was taken following the submission of a proposal to the President by the Chairperson of the Electoral Commission, Mrs Jean Mensa, a proposal which is supported by the Inter Party Advisory Committee (IPAC), for Monday, December 7, to be declared as a public holiday to permit the safe exercise of the franchise in the context of the pandemic.
+You are Watching Major News Bulletin Live on GTV/GBC News
+President Akufo-Addo has assured residents of Nyinahin, and, indeed, all Ghanaians, that the country’s bauxite deposits will be exploited for the benefit of all Ghanaians, and not owned by just one person.
+Mr. Otukunor commented on the issue where some electorate took pictures and videos of their ballots.
+Meanwhile, the Director of Electoral Services at the EC, Dr. Serebour Quaicoe is advocating swift stricter punishment for suspects for violating electoral laws in the early voting.
+The Funding and Institutional Development Specialist at NORSAAC, a civil society organisation, Kawusada Abubakar says her organisation is resourcing all institutions and events in the country meant to generate peace during this election.
+You are Watching Women's Voice Live on GBC News
+The former Special Peace Envoy of International Alert, Mr. Akyaaba Addai-Sebo does not foresee any violence or disturbance before, during and after the 2021 elections which will lead to the dislocation of Ghana’s peaceful democratic march.
+You are Watching News Hour at 2pm Live on GBC News/ GTV
+Parliamentary candidates of Cape Coast North displayed experiences, potentials, competence and knowledge during a debate to outline their visions for the constituency.
+A Research Fellow at the Institute of African Studies, University of Ghana, Legon, Dr. Moses Nii Dortey, says musicians can influence the choices of electorates through their songs.
+Management of Electrochem Ghana Limited (EGL) has signed a salt mining agreement with the Government to mine the Ada Songhor salt considered one of the best deals for the people of Ada, after a successful launch of operations by the chiefs and traditional leaders of the town
+You are Watching National Prayer Hour Live on GTV Life..  Host  Rev. Dr. Appiah Kubi  Guest  Rev. Clement Kojo Rockson ( Full Gospel Church International Tema )
+The Methodist University has held its first virtual congregation for its 18 graduate students. The virtual congregation was well organized and saw all graduating class joining from their homes through the MUCG’s social media platforms.
+Asante Kotoko will have their CAF Champions League preliminary round 2nd leg fixture against FC Nouadhibou go ahead without fans.
+Ghana and Côte d’Ivoire are canceling all cocoa sustainability schemes that U.S.-based Hershey runs in their countries, accusing the chocolate maker of trying to avoid paying a cocoa premium aimed at combating farmer poverty.
+Former Special Prosecutor, Martin Amidu has challenged government to publish several letters he wrote while in office regarding the operationalization of the Office of the Special Prosecutor.
+The Member of Parliament (MP) for the Tema East constituency, Titus Glover has debunked claims that he is behind the arrest of the National Democratic Congress’ (NDC) parliamentary candidate, Isaac Ashai Odamtten.
+The NDC, has promised to absorb all fees for SHS students who will be going to tertiary institutions in the 2020/2021 academic year.
+About 150,000 pioneer students of the free senior high school (SHS) policy who have qualified for tertiary education will benefit from government scholarships tenable in both public and private institutions.
+A total of 405 out of 446 total voters on Tuesday cast their ballots in the special voting exercise in the Hohoe Constituency.
+Veteran Serbian trainer Kosta Papic has been named Head Coach of Accra Hearts of Oak.
+You are Watching Focus Live on GBC News ...  Host George Sarpor
+You are Watching the Breakfast ShowLive on GTV .
+You are Watching the Breakfast ShowLive on GTV .
+DISCUSSING: WORLD AIDS DAY 2020  THE HIV RESPONSE AMID COVID-19 AND EMERGING ISSUES  Host: Abdul Hayi Moomen
+This brings to fourteen (14), the number of persons arrested so far.
+You are watching Major News @ 7PM on GTV/ GBC News.
+It is estimated that about 342,000 people are living with HIV in Ghana as of 2019. However, a little more than 100,000 living with the disease are on anti-retroviral drugs...
+Alliance for Social Equity and Public Accountability (ASEPA), has given a 48-hour ultimatum to the Bank of Ghana (BoG), to refund the 52 billion Cedis missing from Ghana Commercial Bank’s (GCB) Transit Account to unknown accounts or they will storm the premises of the Central Bank to demand for the missing money.
+Management of Electrochem Ghana Limited (EGL) has signed a salt mining agreement with the Government to mine the Ada Songhor salt considered one of the best deals for the people of Ada, after a successful launch of operations by the chiefs and traditional leaders of the town...
+She has therefore encouraged the electorate to consider such monies being offered them as their own money but vote with their conscience.
+According to President Akufo-Addo, “the Pension Scheme will enable cocoa farmers to make voluntary contributions towards their retirement, whilst COCOBOD makes a supplementary contribution on behalf of the farmers as well.”
+The fruit processing plant, which has an installed capacity of seventy-two (72) metric tonnes per day, will process seven (7) varieties of fruits and vegetables including mango, pineapple, watermelon, and tomatoes into concentrates for exports and for use by the domestic market.
+President Nana Addo Dankwa Akufo-Addo has caused the interdiction of a national security officer who allegedly attacked a soldier last Wednesday, November 25.
+YOU ARE WATCHING REPORTERS ROUNDTABLE LIVE ON GTV... HOST: REBEKAH AWUAH TOPIC: MEDIA AND ELECTION COVERAGE.
+YOU ARE WATCHING NEWS HOUR AT 2PM LIVE ON GBC NEW/ GTV
+Scores of National Democratic Congress’ (NDC) supporters on Tuesday (December 1) early morning went on a massive demonstration in Tema Newtown against the arrest and detention of the Party’s Tema East parliamentary candidate, Mr Isaac Ashai Odamtten, .
+Event planning company of Ghana, BEEBIES Events Ghana on Saturday, November 28, 2020 honoured 2019 Ghana Tennis Hall of Fame Mr. Ebenezer Odartey Annan on his 80th birth Anniversary at the Accra Lawn Tennis Club.
+Two Ghanaian representatives in the Confederation of African Football (CAF) Champions League and Confederation Cup began the competition with draws on Sunday.
+The Federation of Muslim Councils (FMC) has paid tribute to the late former President Jerry John Rawlings as the country prepares for the final funeral rites later this month.
+The Greater Accra Regional Director for National Commission for Civic Education NCCE, Lucielle Hewlette Annan has cautioned the youth against vigilantism.
+Special voting at two polling stations in Tema West was delayed for almost an hour at the start of polls Tuesday (December 1).
+Prayer Director of Women Aglow, Mrs Gifty Afenyi Dadzi led the prayers to commit the days before, during and after the elections into God’s hands, asking for peace to reign.
+The court in its judgement said the applicant has no equitable or legal rights that the court must protect by way of granting his application.
+YOU ARE WATCHING 2020 WORLD AIDS DAY FORUM LIVE ON GTV
+The Daily Graphic and Ghanaian Times urge all those going through the special voting today to take interest in what happens at the centres where they will be casting their ballots.
+The latest edition of the EC’s “Let the Citizen know” series sought to brief the public on its preparedness towards the Special voting and the main election on December 7.
+You are watching The Breakfast Show live on GTV
+"We will scrap Ex-gratia. We will ban pair trawling."  Ivor Greenstreet, CPP Presidential Candidate.
+"We spend too much than we earn. If you can't produce, you can't earn. We should go organic."  Dr. Henry Herbert Lartey, GCPP Presidential Candidate.
+"The problem is we don't have entrepreneurs having access to capitals. We don't have a credit economy. I am going to put money directly into people's pocket. Every child below 18 years will receive ¢200 a month. Those above and unemployed will receive unemployed benefit."  Kofi Akpaloo, LPG Presidential Candidate.
+"We are producing graduates that we don't need, graduates that can only read, write, and pass exams. We need to include entrepreneurial skills. We need to change our curriculum."  Hassan Ayariga, APC Presidential Candidate.
+"Jehovah’s Witnesses will not enjoy freebies under my government. One police officer, one car; One journalist, one car."  Akua Donkor, GFP Presidential Candidate.
+GBC/NCCE Presidential Debate 2020.  It is about knowing the candidate that can best manage the country’s resources.  Comment, share, like, and follow for more programmes.
+The Human Rights Division of the Accra High Court presided over by Justice Gifty Agyei-Addo has dismissed an application filed by Kofi Koranteng, a disqualified Independent Presidential Candidate.
+As part of their social responsibility to their Alma Mata, the 1989 year group of Fijai Senior High School in Sekondi has handed over a worthy fifty thousand Ghana cedis completed baluster for the science laboratory and the dining hall of the school...
+The data by the Caucus for Democratic Governance also shows that most of the corruption cases occurred at the Ministry of Finance as it recorded one-third of all the cases.
+Nigeria’s former President Olusegun Obasanjo has urged political parties contesting Ghana’s general election to ensure peace and unity ahead of the December 7 polls.
+Residents of Teshie Demo in Accra are appealing to government to resume work on roads that were abandoned in the area a few weeks after the contractors began work.
+Four persons sustained severe machete wounds after some youth believed to be supporters of the NDC reportedly attacked some supporters of the NPP and the NPP Parliamentary Candidate for Yagba/Kubori constituency in the North East Region.
+You are watching News at 6 p.m on GTV/ GBC News
+You are watching the commissioning of JICA Equipment upgrade Project Television Programme at GBC Studio 2 Live on GTV...
+As part of their social responsibility to their Alma Mata, the 1989 year group of Fijai Senior High School in Sekondi has handed over a worthy fifty thousand Ghana cedis completed baluster for the science laboratory and the dining hall of the school.
+A grand durbar has been held at the Mabrouk Park in Accra to celebrate the achievements of Ghana’s late President, Flt. Lt. Jerry John Rawlings.
+The Electoral Commission has described as false, assertions allegedly made by an NDC agent and carried by Joy News which depict the burning of ballot papers.
+Executive Director, Media Foundation for West Africa (MFWA), Sulemana Braimah, has called for prioritization of budget allocation for the media, which will promote capacity building of media organisations in order to uphold the highest standards of professionalism.
+The presidential candidate of the National Democratic Congress (NDC), Mr. John Dramani Mahama, yesterday celebrated his 62nd birthday in Tamale, at which he expressed his readiness to accept the outcome of the December polls.
+Former Senegal international Papa Bouba Diop has passed away following a long illness at the age of 42.
+The march is intended to re-awaken the principles of probity and accountability which were passionately championed by Jerry John Rawlings during his lifetime.
+You are watching The Breakfast Show Live on GTV...
+“The New Patriotic Party has the blueprint for the development of Ghana, the foundation for that development has been laid in Akufo-Addo’s first term as President. In the next term, we will be constructing the house of more prosperity, of more progress and of more development for our nation” - President Akufo-Addo
+You are watching Talking Point on GBC News  TOPIC; Election 2020 And Security
+The Electoral Commission (EC) says it has put in measures to ensure that People With Disabilities (PWDs) cast their ballots independently.
+Preliminary investigations have established that the wildfire that gutted the Liberty House branch of the GCB Bank at Kantamanto, in Accra, on Saturday, started from a storeroom packed with sanitizers, papers and batteries.
+The programmes are BSc in Nursing, MSc in Information Technology, MA in Educational Assessment and Evaluation, MA in Educational Administration and Supervision, MA in Educational Leadership and School Improvement, MA in Entrepreneurship and Corporate Strategy, MPhil in Educational Assessment and Evaluation and MPhil in Educational Administration and Supervision.
+He said the party will need a convincing majority in Parliament to execute its projects that will propel the country’s development.
+A statement by the Ministry of Gender, Children and Social Protection said the beneficiaries are expected to include homeless persons in Accra and Kumasi, persons living with disability, those in witch camps, persons affected by floods as well as other extremely poor and vulnerable persons.
+Former President and Flagbearer of the National Democratic Congress (NDC), John Dramani Mahama has celebrated his 62nd birthday with children on admission at the Tamale Teaching Hospital. Mr. Mahama who is in the Northern region in the final leg of his campaign for the December 7 elections donated toiletries and confectionery to the children and the facility.
+President Akufo-Addo, has appealed to all eligible voters in the country, ahead of the conduct of the 7th December presidential and parliamentary elections, to turn out in the numbers, and vote massively for him and the New Patriotic Party.
+Addressing party supporters in Accra, Prof. Naana Jane Opoku Agyemang said the NDC has a track record of delivering on its promises and therefore the next NDC government will ensure it implements its flagship policies and programmes in the People's Manifesto for the benefit of all.
+One-On-One encounter with Christian Kwabena Andrews, GUM Presidential candidate.  If you had one question for the Presidential candidate, what would it be?
+You are watching Major News Bulletin live on GTV/ GBC News
+The allegation caused an escalation of tension that began at the tail end of the constituency parliamentary candidates’ debate.
+Touting his achievements in the last four years, President Akufo-Addo noted that he has fulfilled most of his campaign promises and encouraged voters in the region to give him another chance...
+President Akufo Addo, his Vice Mahamudu Bawumia, leadership of parliament, and the NPP hierarchy joined the family and the Constituents of Mfantseman to bid the former lawmaker farewell.
+A driver and a passenger last night lost their lives on the Vodafone Kansuarina highway in Takoradi after a cocoa container truck fell on a Daewoo Matiz car.
+A driver and a passenger last night lost their lives on the Vodafone Kansuarina highway in Takoradi after a cocoa container truck fell on a Daewoo Matiz car.
+The Food and Drugs Authority (FDA) has sensitized traders, drivers and consumers on the law banning smoking in public places such as the market centers, lorry stations, hospitals, schools, restaurants and hotels among others.
+The Head of the United Nations Office for West Africa and the Sahel (UNOWAS), Dr Mohammed Ibn Chambas, has said the eyes of the world are fixated on Ghana because the December 7 elections hold immense importance to the continent.
+A statement issued by the NCA said the extra 5 Megahertz spectrum was made available to the network operators in April 2020 at their request, to ease congestion following a surge in the use of communication services as a result of Covid-19.
+You are watching News Hour at 2 p.m on GTV/ GBC News
+The National Communications Authority (NCA) has granted an additional temporary spectrum at no cost to two telecommunication service providers, to improve their service to customers.
+The First Phase of the Bui Power Authority’s 250 megawatt Hydro-Solar Hybrid Project, has been inaugurated at Banda in the Bono Region.
+A high-powered delegation from the Aviation Ministry, led by the Minister, Mr Koffi Adda, has inspected a 600-acre land earmarked for the construction of the Cape Coast Airport at Ankaful.
+Fire has gutted the GCB bank at Kantamanto in the Greater Accra region.  The outbreak of the fire, according to an eyewitness started around 10 am earlier this morning. The eyewitness said he was there to do a transaction when he saw smoke coming out of the building.
+You are watching Election 2020 on GTV/ GTV News...  TOPIC; Who Wins Election 2020?
+You are watching Girls Girls on GTV...  TOPIC; Ending Sexual and Gender Based Violence; The Adolescents Contribution To Prevention and Responses
+You are watching Girls Girls on GTV...  TOPIC; Ending Sexual and Gender Based Violence; The Adolescents Contribution To Prevention and Responses
+You are watching Arrive Alive on GTV...  TOPIC; Election And Road Safety
+PIAC says the $942 million debt is affecting the power distribution management system and revenue generation as well as accountability.
+According to Mr Amidu, the president’s letter was just to assassinate his character for exposing the true nature of the Agyapadeal.
+You are watching News at 7 p.m on GTV/ GBC News...
+The President, Nana Addo Dankwa Akufo-Addo, has commissioned the sixty-bed Twifo Atti-Morkwaa District Hospital, located in Twifo Praso, in the Central Region...
+Skills development can reduce unemployment, raise incomes and improve standards of living...
+The United Nations Development Programme (UNDP) in partnership with the Vodafone Ghana Foundation has empowered rural women engaged in agribusiness in the Upper East Region to harness digital technology to promote financial inclusion and productivity...
+You are watching News Hour at 2 p.m on GTV/ GBC News
+“The President said in 2016 that he was coming to fight corruption but today the President and his family are swimming in corruption."
+Vice President Dr. Mahamudu Bawumia says the Akufo-Addo-led government has kept faith with Ghanaians and has delivered on its electoral commitments.
+The AERC Executive Director informed that even though there had been improvement in youth participation in developmental processes, there was still limited space for such participation, and there was the need for government to open such spaces for more young people to be involved in decision making.
+You are watching National Prayer Hour live  Host: Rev. Dr. Appiah Kubi  GUest: Bishop Sammy Opare Lokko, Action Chaple International, East Legon
+Mrs. Annoh advised all persons expected to vote in the special voting to do so on December 1 else they lose the opportunity to exercise their franchise in this year’s election.
+Madam Keren Pybus, CEO for EAA said the demand for made in Ghana clothing was fast growing due to the African Growth and Opportunity Act (AGOA), Fast Shipping Times to the United States of America and Europe, and competitive costings.
+A Senior Lecturer at the Department and Lead Researcher of the Survey, Alex Kaakyire Duku Frempong, who presented the research findings, urged Political Parties to brace themselves up and craft feasible campaign messages and polices for the masses.
+According to ASEPA, the Political Science Department, has connived to launch fake polls clearly aimed at influencing the outcome of the 2020 Elections.
+Vice President Bawumia said President Akufo-Addo, has kept faith with Ghanaians by delivering on promises made, and appealed to them to give him four more years to continue with his good works to move Ghana ahead.
+Weekly Press Review
+Dr. Prempeh expressed gratitude to teacher in various Senior High Schools (SHSs) for churning out the best of results in the West African Senior Schools Certificate Examination (WASSCE) for this year.
+You are watching the Breakfast Show on GTV.
+Bawumia Speaks on GTV
+You are watching Major News Bulletin Live on GBC News...
+You are watching Wash Hour on GBC News...
+The Ministry of Tourism Arts and Culture has instituted an insurance scheme for those in the Creative Arts Industry.
+You are watching News Hour at 2 p.m on GTV/ GBC News
+You are watching The Breakfast Show Streaming Live on GTV...
+"He has seen that his campaign is collapsing in confusion, fabrications, and now outright lies."
+A lecturer at the University of Ghana Business School Dr. Kobby Mensah, talked about building sports brands through journalism.
+Following a meeting with the Chief of Staff and the Union at the Office of the President at the Jubilee House in Accra on October 15, 2020, the Union agreed to call off the strike to allow the Chief of Staff to address their concerns for the speedy resolution of the matter.
+You are watching Major News Bulletin Live on GTV/ GBC News
+Value Added Tax stood as one of the top tax lines of the industry representing approximately 19 percent of the Total Tax Contribution (TTC) in money terms of more than ¢480 million.
+The Probity and Accountability March is being organized by the National Democratic Congress (NDC), in conjunction with other Political Parties and Civil Society Organizations (CSOs) in honor of the memory and legacy of the Founder of the NDC and Ghana’s 4th Republic, Flt. Lt. Jerry John Rawlings...
+Meanwhile, Executive Director of the Nuclear Power Ghana, Dr Stephen Yamoah says Ghana was successful in going through the processes of the 19 milestones in the development of a national infrastructure for nuclear power.
+President Akufo-Addo, at the ceremony, opened to traffic tier-3 of the interchange, which is the road from Awoshie to Accra, as well as the road from Kumasi to Awoshie.
+The Regional Police Commander, DCOP Kwaku Ampofo-Duku said his office is adequately prepared for any eventuality to safeguard the relative peace in the Region.
+Argentine football legend Diego Maradona has passed away at the age of 60 after suffering a heart attack.
+Mrs. Jean Mensa said the voters’ register for the 2016 General Election has more than 800,000 names on the multiple registration list...
+Mr. Greenstreet, made the appeal when he paid a courtesy call on Sarkin Zango Alhaji Suraji Hassanin the Ejura Sekyeredumase Municipality of Ashanti...
+You are watching Women's Voice on GBC News.  Topic:  Empowering the head-porter (KAYAYO).
+The President was addressing chiefs and identifiable groups at Oduman, in the Amasaman Constituency.
+The NDC has raised a number of issues with the conduct of the EC which betrays the Commission’s posture of bias against the party...
+DSP Dzakpasu told the court that the accused person had been defiling his daughter for three years and did not allow anyone near her for fear of being exposed...
+The Ghana Health Service (GHS) says the number of people who have not been wearing face masks as a preventive measure in the spread of the Coronavirus disease (COVID-19) in Accra has increased.
+You are watching News Hour on GBC News...
+Another Passport Application Center has been commissioned in Tamale. This means residents of the Northern region will now have the opportunity of availing themselves of additional passport service without having to travel to Accra or Kumasi.
+The Food and Drugs Authority (FDA) on Tuesday (November 24) signed a Memorandum of Understanding (MoU) with the Cuban Embassy in Ghana, to collaborate with sister institutions for mutual capacity building.
+You are watching National Prayer Hour on GTV Life...  Host Rev. Dr. Appiah Kubi  Guest Most Rev. Dr. Paul .K. Boafo ( Christian Council of Ghana )
+The Officer in Charge, Electoral Commission, Kpando, Mr. Eric Ackah, has stated the readiness of its office to conduct a credible election after taking stock of about 99 per cent of election materials.
+Volta Regional Director of Education, Madam Enyonam Afi Amafuga, has urged Directors and Public Relation Officers (PROs) of the Ghana Education Service (GES) to continue to intensify education on the Ghana Learning Radio Programme (GLRP).
+You are watching Meet The Press on GTV...
+The two Parliamentary candidates for the Ayawaso East Constituency in the Greater Accra region failed to show up in a town hall meeting in Nima.
+The Ghana Revenue Authority (GRA) has begun a nationwide sensitisation of stakeholders on its simplified tax laws aimed to enhance compliance.
+The National Association of Local Authorities of Ghana (NALAG) is calling on the youth to uphold the good name of Ghana by eschewing all forms of electoral violence before, during and after the election
+The presidential candidate of the Progressive People’s Party (PPP), Miss Brigitte Dzogbenuku, has charged the people of the Volta Region to vote massively for her to bring change to the region.
+A student from the Adeiso Senior High School in the Eastern Region, who obtained grade A1 in all eight subjects in the 2020 WASSCE but comes from a deprived home is to get government scholarship to pursue tertiary education.
+The Vice President Dr. Mahamudu Bawumia has commissioned an ultra-modern sports complex at New Fadama in Accra.
+Asante head coach, Maxwell Konadu, has been referred to the Ghana FA Disciplinary Committee for his comments made against Referee Daniel Laryea in their Ghana Premier League match day two against Berekum Chelsea at the Golden City Park.
+Head of Programmes of the NCCE in the Asante-Akim South Municipality, Patrick Asare, has reiterated the need for political party to leave the polling stations immediately after voting and not to mass up there.
+Minister of Sanitation and Water Resources, Madam Cecilia Abena Dapaah has launched the Kumasi Sanitation and Water Project, which seeks to strengthen environmental sanitation management and water supply in the city and its environs.
+The flagbearer of People’s National Convention (PNC), David Apasera, is on a campaign tour of the Northern Region.
+You are watching Meet The Press on GTV...
+You are watching The Breakfast Show Streaming Live on GTV
+You are watching Womens Voice Live on GTV...  Topic New Findings On HIV
+The Breakfast Show Streaming Live on GTV
+One-On-One encounter with David Apasara, PNC Presidential Candidate.  Comment, share, like, and follow for more programmes.
+News Hour is live on GTV/GBC News.  Comment, share, like and follow for more news.
+You are watching Major News Bulletin Live on GTV/GBC News
+You are watching News Hour Live on GTV/GBC News
+You are watchingElection 2020 Live on GTV/GBC News  Topic Voting Pattern Since 1996  Host George Sappor  Guests Ben Ephson (Pollyster & Managing Editor, Daily Dispatch)  Alex K. D Frempong (PoliticalScience Lecturer UG)
+One-On-One encounter with Kofi Akpaloo, LPG Presidential candidate.  Comment, share, like, and follow for more programmes.
+You are watching News at 6 p.m on GTV/ GBC News
+You are watching National Prayer Hour  Host: Rev. Dr. Appiah Kubi  Guest: Apostle Eric Nyamekye Chairman, Church of Pentecost
+You are watching Market Avenue Live on GBC News
+You are watching News Hour at 2 p.m on GTV/ GBC News
+STUDENTS' ENGAGEMENT FORUM ON THE VISION OF GHANA BEYOND AID
+You are watching The Breakfast Show Live on GTV...
+You are watching News Hour Live on GBC News...
+You are watching The Breakfast Show Live on GTV...
+You are watching The Breakfast Show Live on GTV...
+DISCUSSING: THE NDC'S ZONGO AGENDA  Host: Abdul Hayi Moomen
+You are watching The Breakfast Show Live on GTV...
+You are watching Major News Bulletin on GBC News..
+You are watching The Breakfast Show Live on GTV...
+You are watching News at 7 pm Live on GTV/ GBC News...
+Topic: Ghana's Economy Under Rawlings' Watch
+National Prayer Hour is live on GTV Life.  Host: Rev Dr. Appiah Kubi.
+President Akufo-Addo reviews Military Academy's 2020 Graduation Parade
+One-On-One encounter with Alfred Kwame Asiedu Walker, Independent Presidential candidate.  Comment, share, like, and follow for more programmes.
+You are watching Market Avenue live on GBC News  Update: Attaining Rice Sufficiency  Host Edward Nyarko Morris Ogbetey  Guest Adu Poku ( Convener - Ghana Rice Miller's Association)
+You're Watching News @ 7pm Live on GTV / GBC News...
+You Are Watching Reporters Roundtable Live On GTV...
+You are watching News Hour at 2 p.m
+You're watching Women's Voice Live on GTV ...  Topic Policies To Effective Address Reproductive Health Issues  Host Pascline Adadevoh  Guests Cecilia Lodonu ( Executive Director HFFG )  DR. Leticia Adelaide Appiah ( Executove Director National Population Council )
+You are watching The Breakfast Show live on GTV.
+President Akufo-Addo delivers 19th address on measures against Covid-19.  Comment, like, share, and follow for more updates.
+You are watching Major News Bulletin Live on GTV/GBC News
+News Hour is live on GTV/GBC News.  Like, comment, share, and follow for more news.
+Discussing: Pushing Ghana's Fintech Frontiers  Host: Edward Nyarko Morris Ogbetey  Guest: Rosemary Kwofie (Chief Operation Officer)
+You are watching the 36th National Farmers' Day 2020.  Like, share, comment, and follow for more videos.
+You are watching the Breakfast show live on GTV
+Major News Bulletin Live @ 7PM
+Market Avenue is live on GBC News.  Like, share, comment, and follow for more news.
+Topic: Keeping the Lights On, Powering our Growth.
+Women's Voice is Live on GBC News Topic: Women as agents of peace in election
+You are watching The Breakfast Show Live on GTV
+Discussing: One-one-One with the PNC Presidential Candidate.  Host: Abdul Hayi Moomen
+Topic: Impact of the USA elections on Trade in Africa.
+GBC @ 85 Panel Discussion on Media and Democracy.  Moderator: Prof. Audrey Gadzekpo.  Panelists: Dr. Micheal Serwornoo, Lecturer, UCC. Dr. Theodora D. Adjin-Tettey, Lecturer, UPSA. Dr. Eliasu Mumuni, Lecturer, UDS.
+News Hour is live on GTV/GBC News.  Comment, like, share, and follow for more news.
+News Hour is live on GTV/GBC News.  Comment, like, share, and follow for more news.
+You are watching The Breakfast Show Live on GTV
+You are watching News Hour at 2 p.m on GTV/ GBC News...
+You are watching News Hour at 2 p.m on GTV/ GBC News...
+Topic: 2021 First Quarter Budget  Host: Dr. G.K Anim Wright  Guests:  Mr. Peter Terkper - Economist (In Studio)  Dr. Wassiuw Abdul Rahman - Lecturer, Development of Economics, University of Ghana (Via Zoom)
+You are watching News Major News Bulletin Live @ 7PM
+News Hour Live at 2 p.m
+Weekly Press Review. You are watching the Weekly Press Review on GBC News. Host: Sani Abdul-Rahman Guests: Daniel Kwasi Ashiaman (MP - BUEM) Frederick Amankwah-Sarfo (Member - NPP Communication Team)
+Major News Bulletin Live @ 7PM
+You are watching Wash Hour on GTV / GBC News...  Topic Election 2020: CPP'S Wash Agenda  Host Winifred Afum  Guest Kosi Dedey ( CPP'S Campaign Manager)
+You are watching News Hour at 2 p.m on GTV / GBC News...
+Theme: Teacher of the Centre of Quality Education
+You watching Major news bulletin live on GTV/GBC News
+Women's Voice is Live on GBC News
+You are watching News Hour at 2 p.m on GTV/ GBC News
+Finance Minister presents 2021 Advance Budget to Parliament today
+You are watching Focus on GBC News Host George Sappor  Guest Brigitte Dzogbenuku ( PPP Presidential Candidate)
+Topic: One-on-One with the Presidential Candidate - GUM  Host: Abdul Hayi Moomen  Guest: Rev Christian Kwabena Andrews (Presidential Candidate - GUM)
+You are watching Market Venue on GBC News...
+You are watching The Breakfast Show Live on GTV
+You are watching Moomen Tonight GBC News  Host: Abdul Hayi Moomen  Topic GBC'S Award Winners
+You are watching News Hour at 7 p.m on GTV/ GBC News
+You are watching Market Avenue on GBC News  Topic 2020 Bubget In Perspective  Host Edward Nyarko  Guest DR. Richard Ayisi (Economics Department, University Of Ghana)
+You are watching News Hour at 2 p.m on GTV/ GBC News
+You are watching Talking Point  Topic: #ENDSARS Protest In Nigeria & Matters Arising.  Guests: Adib Saani - International Relations Expert.  Dr. Ken Ahorsu - Senior Research Fellow  Chukwuemeka Eze - Executive Director, WANEP
+You are watching News Hour at 7 p.m on GTV/ GBC News
+Topic: Stock Market Review
+You are watching the National Prayer Hour on GTV-life. Host: Rev. Dr. Justice Appiah Kubi. Guest: Pastor Felix Korankye. (Royal House Chaple International - Haatso Assembly).
+You are watching The Breakfast Show Live on GTV
+You are watchingMoomen Tonigh ton GBC News  Topic Population Structure And Violence  Host: Abdul Hayi Moomen  Guest Dr. Leticia Adelaibe Appiah (Executive Director, National Population Council)
+You are watching Wash Hour on GBC News...  Topic Election 2020: PPP's Wash Agenda  Host Winifred Afum  Guest Brigitte Dzeogbenuku( Flagbearer, Progressive People's Party, PPP)
+You are watching News Hour at 2 p.m on GTV/ GBC News...
+Moomen Tonight discusses U.N @ 75  Host: Abdul Hayi Moomen  Guest: Dr Ken Ahorsu (Senior Lecturer - LECIAD).
+Women's Voice is Live on GBC News. Topic: Raising Boys Right. Guests: Florence Ayisi Quartey. Ethel Adjorlolo-Marfo. Host: Pascaline Adadevoh.
+You are watching the National Prayer Hour on GTV life. Host: Rev. Dr. Justice Appiah Kubi. Guest: Apostle Samuel Nana Yaw Agyei. (The Church Of Pentecost).
+You are watching Focus on GBC News  Host: George Sappor Topic: 2020 Elections Politics & Media Freedom ''Behold The NPP & NDC Manifesto Promises'' Guests 1. Pius Hadzide (Deputy Information Minister) 2. Rockson- Nelson -Dafeamekpor (Member Constitutional, Legal and Parliamentary Affairs Committee & MP South Dayi) Zoom Zakaria Tanko Musah ( Lecture GIJ Media Law and Political Communications)
+You are watching The Breakfast Show Live on GTV
+You are watching News at 7 p.m on GTV/ GBC News...
+My Turn with Ghana Union Movement (GUM).
+Women's Voice is Live on GBC News. Topic Media Support In Promoting Adolescent Reproductive Health Issues  Host Pascaline Adadevoh  Guests Abdul Hayim Moomen( Journalist, GBC ) Solace Amankwah ( Public Relations Officer NPC )
+You are watching News Hour at 2 p.m on GTV/ GBC News
+Covid-19 Update No.18: Measures Taken Against Spread Of Coronavirus
+You are watching 'Talking Point'  Topic: Mental Health In Ghana.  Host: Abdul Hayi Moomen  Guests: Mr. Peter Yaro Badimak (Executive Director, BASICNEEDS GHANA)  Dr E.A. Azusong (Resident in Psychiatry)
+You are watching Major News Bulletin Live on GVT/GBC News
+You are watching Aglow Monthly Intercessory Prayers on GTV Life...
+Topics 1. Police bodyguards for MPs, says Interior Minister. 2. Fomena MP's fate hangs in balance. 3. Six arrested over ammunition seizure at Tema port. 4. Aftermath of Accra floods. 5. Do Manifestos win Elections?  Host: Sani Abdul Rahman  Guests: 1. Dr. Benedicta Yayra Fosu-Mensah - Member, NDC, Communication Team.  2. Frederick Amankwah- Sarfo - Member, NPP Communication Team.  On Zoom: 1. Adib Saani - Executive Director, Jatikey Center For Human Security Peace Building  1. Fred Awaah - Lecturer, UPSA
+Moomen Tonight is live on GBC News.  Host: Abdul Hayi Moomen
+You are watching News Hour at 2 p.m on GTV/ GBC News...
+Market Avenue: Remote Working and Cyber Fraud.  Guest: Gervin Emmanuel Appiah, Penetration Tester and Cyber Security Analyst.
+You are watching Focus on GBC News  Host: George Sappor  Topic Election 2020:'' Which Manifesto Policy Guarantee Your Security ? NPP or NDC . & Should MPs Be Provided With Personal Security ?  Guests: 1. Mumuni Alhassan : Deputy Ranking Member Defense and Interior Commoittee and MP Salaga North Constituency  2. Seth Kwame Acheampong : Chairman Parliamentary Select Committee on Defense and Interior and MP MpraesoParliamentry Select Committee on Defense and Interior and MP Mpraeso  Zoom Col. Festus Aboagye : Security Expert
+Nation Building Updates...
+Reporters Roundtable with Rebekah Awuah discusses Electoral Violence Prevention: what works?
+You are watching News Hour at 2 p.m on GTV/ GBC News...
+'My Turn With United Progressive Party (UPP)' is live on GTV.
+You are watching The Breakfast Show Live on GTV
+You are watching News Hour at 7 p.m on GTV/ GBC News
+Women's Voice is Live on GBC News  Topic: Rallies And Covid 19 Prevention  Host Beatrice Senadzu  Guests 1. Comfort Azaletey: Municipal Director, NCCE  2. DR. Leticia Adelaide Appiah: Executive Director, National Population Council
+You are watching The Breakfast Show Live on GTV...
+You are watching News Hour at 7 p.m on GTV/ GBC News  (Disclaimer: We do not own the rights to music played in the background).
+You are watching News Hour at 2 p.m on GTV/ GBC News
+Market Avenue Today  Topic: Hacking threats - 2020 and beyond.
+News day showing Live on GBC News
+You are watching The Breakfast Show Live on GTV
+You are watching he Breakfast Show Live on GTV
+You are watching Market Avenue on GTV/ GBC News.. .  Topic: Update On Airlines  Host:Edward Nyarko - Head Business Desk, GBC News  Guest Dominic Andoh, Managing Editor, AviationGhana
+You are watching Wash Hour at 4 p.m on GTV/ GBC News.. .  Topic: Clean Ghana Agenda: Role Of The Child  Host: Winifred Afum  Guest  1. Yaw Attah Arhin : Wash Technical Coordinator, World Vision Ghana  2. Neriah Tettey : Winner, Tripple s Challenge
+You are watching The Breakfast Show Live on GTV...
+You are watching Major News Bulletin live on GTV/ GBC News.
+Women's Voice discusses breast cancer.
+You are watching News Hour at 2 p.m on GTV/ GBC News
+You are watching Focus on GBC News Host: George Sappor  Topic: 2020 Elections: Interrogating The Manifestos; ''Who Owns The Best Social Intervention Policy?''  Guests 1. William Kwasi Sabi - Deputy Minister for Monitoring and Evaluation and MP for Domaa East.  2. Nana Oye Bampoe Addo - fomer Minister of Gender  Zoom Osei Kuffour
+You are watching News Hour at 7 p.m on GTV/ GBC News
+Market Avenue  Discussing: The Remittance Paradox  Host: Edward Nyarko - Head Business Desk, GBC News  Guest: Dr Philip Asiamah Nyarko - Economic Consultant
+Market Avenue  Discussing: Customer Service Rating  Host: Edward Nyarko - Head Business Desk, GBC News  Guest: William Addo - Development Consultant.
+You are watching The Breakfast Show Live on GTV...
+You are watching News Hour at 7 p.m on GTV/ GBC News...
+You are watching the News at 7 P.M. on GTV/GBC News.
+You are watching News Hour at 2 p.m on GTV/ GBC News  (Disclaimer: We do not own the rights to music played in the background).
+You are watching The Breakfast Show Live on GTV
+Discussing: SANITATION AND POTABLE WATER: Role of Community Water and Sanitation Agency  GUEST: ING. Worlanyo Kwadjo Siabi - Chief Executive Community Water and Sanitation Agency, CWSA  Mr. Ibrahim Adorkor - Director, Planning & Investment, Community Water & Sanitation Agency, CWSA
+You are watching The Breakfast Show live on GTV
+Market Avenue is live on GBC News.
+Meet The Press Series With Ministry of Fisheries and Aquaculture
+Discussing: ELECTION 2020: Ghana Union Movement's Agenda For The Economy. Guest: Dr. Maxwell Kofi Awuku (National Chairman, GUM)
+You are watching the News at 7 P.M. on GTV/GBC News.
+Reporters Round Table is live on GTV
+President Akufo-Addo Opens Integrated Composting and Recycling Plant by Zoomlion Gh. Ltd - Adagya-Kumasi  (Disclaimer: We do not own the rights to music played in the background).
+Talking Point Discussing: Electoral Commission Set To Re-open Voters Register.  Host: Abdul Hayi Moomen  Guest: Dr. Serebour Quaicoe - Director, Electoral Services, Electoral Commission  Mawusi Dumenu - Research Analyst CDD-Ghana
+You are watching the News at 7 P.M. on GTV/GBC News.
+You are watching News Hour at 2 p.m on GTV/ GBC News  (Disclaimer: We do not own copyright to the songs played at the background).
+News at 7 P.M. on GTV/GBC News.
+You are watching News Hour at 2 p.m on GTV/ GBC News
+'Weekly Press Review' is live on GBC News.  Host: Abdul Saani Rahman  Guests: 1. Elikem Kotoko, Member, NDC Communication Team.  2. Vera Wiredu, Member, NPP National Communication Team.  ON ZOOM. 1. Mawusi Dumenu, Research Analyst, CDD-Ghana. 2. Adib Saani, Executive Director, Jatikay Centre for Human Security and Peace Keeping.
+You are watching News Hour at 2 p.m on GTV/ GBC News  (Disclaimer: We do not own copyright to the songs played at the background).
+'My Turn With GUM Party' Is live on GTV
+Discussing: Dealing With The Graduate Unemployment Menace - How Has The NPP Fared?  Host: Abdul Hayi Moomen  Guest : Dr. Ibrahim Anyars (CEO - NABCO)  (Disclaimer: We do not own copyright to the songs played at the background).
+You are watching the News at 7 P.M. on GTV/GBC News.  (Disclaimer: We do not own copyright to the songs played at the background).
+Womens Voice  Discussing: Building A Successful Career  Guest: Dr. Suzy Aku Puplampu ( C.E.O, OctaneDC Limited)
+You are watching News Hour at 2 p.m on GTV/ GBC News
+'My Turn With DPP' is live on GTV.
+You are watchingThe Breakfast Show Live on GTV
+Discussing: Nkrumah's 111th Birthday - What's The CPP's Gift ?  Host: Abdul Hayi Moomen  Guest : Nana Akosua Frimpomaa Kumakuma (Chairperson, CPP)
+Understanding Elections and Civic Responsibility with Teye Kitcher, Cliff Ekuful and George Ramsey - Benamba
+The ¢100,000.00 filing fees - Monetisation or Sanitisation of our Elections?  'Talking Point' is live on GTV/GBC News.
+You are watching the news at 7 p.m. on GTV/GBC News.  Like, share and follow for more news.
+You are watching News Hour at 2 p.m on GTV/ GBC News
+Hassan Ayariga, APC flagbearer, answers why he wants to be President on ‘MOOMEN TONIGHT’.
+You are watching the News at 7 P.M. on GTV/GBC News
+You are watching News Hour at 2 p.m on GTV/ GBC News
+MY TURN WITH UPP
+You are watchingThe Breakfast Show Live on GTV
+You are watching the news 7 P.M. on GTV/GBC News.
+Discussing: Issues Related To Witchcraft
+You are watching News Hour at 2 p.m on GTV/ GBC News
+MY TURN WITH PUP
+You are watchingThe Breakfast Show Live on GTV
+You are watching the news 7 P.M. on GTV/GBC News.
+You are watching News Hour at 2 p.m on GTV/ GBC News
+You are watching My Turn With GCPP Live On GTV
+Women's Voice is live on GBC News.  Topic: Parental Security if Adolescent Health is addressed.
+You are watching News Hour at 2 p.m on GTV/ GBC News
+You are watchingThe Breakfast Show Live on GTV
+You are watchingThe Breakfast Show Live on GTV
+Topic: "REVIEW OF THE NDC MANIFESTO LAUNCH."  Host: Dr. G.K. Anim-Wright.  Guest : Samuel Nartey George, MP Ningo-Prampram.
+You are watching the Major News Bulletin @ 7PM
+You are watching the Weekly Press Review on GBC News
+COVID-19 & OPEN DEFECATION: THE ROLE OF WASH JOURNALISTS
+You are watching the news at 7 p.m. on GTV/GBC News.
+You are watching news at 2 p.m on GBC News & GTV
+You are watching a livestream of the Public Accounts Committee Sitting.
+HOST: ABDUL HAYI MOOMEN (PRESENTER - GBC NEWS )  SAMUEL ESHUN (PRESENTER - HAPPY FM )  GUESTS:  H.E. EDWARD BOATENG - GHANA'S AMBASSADOR TO CHINA  H.E. MBELWA BRIGHTON KAIRUKI - TANZANIA'S AMBASSADOR TO CHINA
+The Breakfast Show On GTV
+The Breakfast Show On GTV
+The Breakfast Show On GTV
+Topic: Tackling Organsied Crime in Fisheries  Host: Abdul Hayi Moomen  Guest: Capt. (Rtd) Dr. Kamal-Deen Ali (Executive Director, Center for Maritime Law And Security, Africa)
+You are watching the news at 7 p.m. on GTV/GBC News.
+Covid-19 And The Safety Protocols In Public Space
+The Breakfast Show On GTV
+Topic: Ensuring Legal Timber Supply To Market  Host: Abdul Hayi Moomen  Guests: 1. Mr. Glen Asomaning (Director, Operations, Nature & Development Foundation)  2. Dr Kwame Oduru (Snr Research Fellow, Forestry Research Inst., Ghana)
+Current State Of Women in The Ghanian Media
+You are watching news at 2 p.m on GBC News & GTV
+The Breakfast Show On GTV
+You are watching news at 2 p.m on GBC News & GTV
+You are watching news at 2 p.m live on GBC News & GTV
+Update on reopening of air borders
+The Breakfast Show  The Breakfast Show On GTV
+You are watching Talking Point on GBC News
+You are watching Islam and Life
+You are watching News Hour at 2 p.m Live on GBC News & GTV
+You Are Watching Weekly Press Review Live on GTV & GBC NEWS
+You are watching the news at 7 p.m. on GTV/GBC News.
+Topic: Impact of Wash Practices Host: Winifred Afum Guests: Dr. Kodjo Essien Mensah-Abrampah – Director General, National Development Planning Commission, NDPC Patience Ampomah – Planning Analyst, National Development Planning Commission, NDPC
+You are watching news at 2 p.m on GBC News/GTV
+Meet-the-Press with the Ministry of Local Government and Rural Development.
+Topic: The NPP 2020 Manifesto: subjecting the 2016 Gains to Strict Proof Analysis.  Infrastructure Debate:Data and Facts; Who Has The Track Record?
+You are watching the news at 7 p.m. on GTV/GBC News. News & GTV
+The Breakfast Show Live on GTV
+WOMEN'S VOICE  Discusssing: Meeting the reproductive health needs of women.  Whatsapp: 0557446429
+Covid-19 Pandemic Update Live on GBC News.
+The Breakfast Show On GTV  Discussing  - NPP 2020 Manifesto  - Newspaper Review  - Sexual Dysfunction  - Latest in Sports  DISCLAIMER: Comments, opinions and views posted on this page by viewers represent their own and not those of GBC  (Disclaimer: We do not own any copyrights to the song being played.)
+You are watching Talking Point on GBC News
+You are watching News Hour at 2 p.m live on GBC News & GTV
+You are watching the news at 7 p.m. on GTV/GBC News.
+Streaming live now, Major News Bulletin at 7 p.m. on GTV/GBC News.
+You are watching News Hour at 2 p.m live on GTV and GBC NEWS
+You are watching Weekly Press Review live on GTV and GBC NEWS
+You are watching news at 2 p.m live on GBC News & GTV
+Covid-19 Pandemic Update Live on GBC News.
+You are watching Minister's Media Briefing live on GTV AND GBC NEWS
+You are watching Women's Voice on GBC News.  Discussing: Assisting Head Porters (Kayayei) to develop skills
+Covid-19 Pandemic Update Live on GBC News.
+Programme: FOCUS  Topic:  MAKING STATE ENTERPRISES PROFITABLE & RESILIENT: "what is the magic wand?"  Guests:  1. Stephen Asamoah Boateng- Director General, State Interest and Governance Authority, SIGA  2. Dr Eric Oduro Osae- Lawyer, Economist and Governance Expert.
+The Breakfast Show Live On GTV
+Bawumia addresses Town Hall Meeting on govt’s infrastructure record
+You are watching News Hour at 2 p.m live on GBC News & GTV
+GBC inaugurates Political Broadcast Committee, launches coverage of Election 2020
+Host: Pascaline Adadevor  Guests: 1. Cecilia Senoo ( Executive Director, Hope For Future Generations)  Topic: Can a National Develop without the contribution of Women.  Watsapp: 0557446429  Email: Womensvoice24@Gmail.Com  Twitter: Womensvoice24  Facebook: Women's Voice  Phone In: 0260969160 ( 40 Minutes To Time )
+President Akufo-Addo commissions, hands over AfCFTA Secretariat to AU Commission
+You are watching Talking Point on GBC News.
+You are watching Aglow international live on GTV LIFE & GTV
+You are watching the Major News Bulletin at 7 P.M. Live On GBC News & GTV
+Discussing: Water & Sanitation: Role of the Private sector.  Guests:  Mr. Atta Arhin - Vice Chair Coalation of NGO's in Water & Sanition (CONIWAS)  Nora Ollenu - Convenor, Alliance for Wash Advocacy
+Discussing: Constitutional Amendment And Parliamentary Reforms.  Guest:  Hon. Osei Kyei Mensah Bonsu - Majority Leader of Parliament.  Hon. Haruna Iddrisu - Minority Leader of Parliament.
+Discusssing : Constitutional Amendment And Parliamentary Reforms.  Guest:  Hon. Osei Kyei Mensah Bonsu - Majority Leader of Parliament  Hon. Haruna Iddrisu - Minority Leader of Parliament
+Discussing topic:  Wassce 2020 malpractices and students protest
+Major News Hour at 7 p.m Live on GTV & GBC NEWS
+News Hour at 2 p.m Live on GTV & GBC NEWS
+Covid-19 Pandemic Update Live on GBC News.
+You Are Watching Talking Point Live On Gbc News
+YOU ARE WATCHING NEWS HOUR @ 2PM LIVE ON GBC NEWS & GTV
+WEEKLY PRESS REVIEW
+News Hour at 2 p.m Live on GTV & GBC NEWS
+You Are Watching News Hour at 7 p.m Live on GBC News & GTV
+You Are Watching Founders' Day Public Lecture Live on GBC News & GTV
+You Are Watching News Hour at 2 p.m Live on GBC News & GTV
+The Breakfast Show Live On GTV
+Covid-19 Pandemic Update Live on GBC News.
+YOU ARE WATCHING The Breakfast Show LIVE ON GTV
+You Are Watching Talking Point Live On Gbc News
+You are watcing the Major News Bulletin @ 7 P.M. Live On GBC News & GTV
+GBC hosts virtual Eid-ul-Adha prayers.  In attendance: 1. President Akufo-Addo 2. Vice President Bawumia 3. National Chief Imam Sheikh Dr. Osumanu Nuhu Sharubutu  You can send your Barka da sallah greetings in the comment section.
+You are watching News Hour @ 2pm live on GBC News & GTV
+You are watching the COVID- 19 Pandemic Update Live On GBC News
+You are watcing the Major News Bulletin @ 7 P.M. Live On GBC News & GTV
+Women's Voice  Topic: Empowering Women As Change Agents  Host: Selikem Acolatse Apaloo  Guest: Nanahemaa Adwoa Awindor Devt. Queenmother Afigya-Kwabre / CEO Premier Production Ltd  Watsapp: 0245780116  Email: Womensvoice24@Gmail.Com  Phone In: 0260969160
+25TH GJA AWARDS LAUNCH
+You are watcing the Major News Bulletin @ 7 P.M. Live On GBC News & GTV
+YOU ARE WATCHING THE BREAKFAST SHOW LIVE ON GTV
+You are watcing the Major News Bulletin @ 7 P.M. Live On GBC News & GTV
+THE WEEKLY PRESS REVIEW
+You are watcing News at 7 P.M. Live on GBC News/ GTV
+You Are Watching 'Wash Hour'  Topic: Beyond Covid-19; Sustaining The Hand Washing Gains  Host: Winifred Afum  Guest:  ⦁Patrick Apoya (Wash Consultant)  ⦁ Dr. Stephen Ntow (President. Post-Graduate College Of Environmental Health)
+You Are Watching 'Wash Hour'  Topic: Beyond Covid-19; Sustaining The Hand Washing Gains  Host: Winifred Afum  Guest:  ⦁Patrick Apoya (Wash Consultant)  ⦁ Dr. Stephen Ntow (President. Post-Graduate College Of Environmental Health)
+Finance Minister Presents 2020-Mid Year Review
+You're watcing News at 7 P.M. Live on GBC News/ GTV
+You're watching News Hour @2 on GBC News.
+LIVE: Covid-19 Pandemic Update Live on GBC News.
+You're watcing News at 7 P.M. Live on GBC News/ GTV
+LIVE: Covid-19 Pandemic Update Live on GBC News.
+LIVE: Minister's Press Briefing.  Topic:  1. Processes for clearing baclog of test samples  2. Case management update  Venue: MOI Press Centre  Watch here:
+YOU ARE WATCHINGTHE BREAKFAST SHOW LIVE ON GTV
+YOU ARE WATCHING NEWS HOUR @ 2PM LIVE ON GBC NEWS
+THE BREAKFAST SHOW
+PROGRAMME: AGLOW MONTHLY INTERCESSORY PRAYERS FOR GHANA  TOPIC: FOR GHANA'S SAKE, WE SHALL NOT KEEP SILENT. ISAIAH 62 VRS 1
+PROGRAMME: AGLOW MONTHLY INTERCESSORY PRAYERS FOR GHANA  TOPIC: FOR GHANA'S SAKE, WE SHALL NOT KEEP SILENT. ISAIAH 62 VRS 1
+YOU ARE WATCHING NEWS HOUR @ 7PM LIVE ON GBC NEWS & GTV
+You're watcing News at 7 P.M. Live on GBC News/ GTV
+YOU ARE WATCHING NEWS HOUR @ 2PM LIVE ON GBC NEWS AND GTV
+YOU ARE WATCHING COVID - 19 PANDEMIC UPDATE LIVE ON GBC NEWS
+YOU ARE WATCHINGTHE BREAKFAST SHOW LIVE ON GTV
+You're watcing News at 7 P.M. Live on GBC News/ GTV
+HOST: SELIKEM ACOLATSE APALOO  CAPTION: THE DYNAMICS OF JOURNALISM IN A GLOBAL PANDEMIC.  GUEST: (ZOOM)  1. ABDUL HAYI MOOMEN ( JOURNALIST, GBC/ COMMUNICATIONS LECTURER, IUCG )  2 ARABA KOOMSON ( NEWS EDITOR, JOY NEWS )  WATSAPP: 0245780116  EMAIL: WOMENSVOICE24@GMAIL.COM  TWITTER: WOMENSVOICE24  FACEBOOK: WOMEN'S VOICE  PHONE IN: 0260969160 ( 40 MINUTES TO TIME )
+You're watcing News at 7 P.M. Live on GBC News/ GTV
+MINISTER'S PRESS BRIEFING  TOPICS:  Analysis of new infections Education on face shields Case management update Safety in schools
+THE BREAKFAST SHOW
+YOU ARE WATCHING NEWS HOUR @ 2PM LIVE ON GBC NEWS & GTV
+YOU ARE WATCHING WEEKLY PRESS LIVE ON GBC NEWS
+YOU ARE WATCHING THE BREAKFAST SHOW LIVE ON GTV
+YOU ARE WATCHING COVID -19 UPDATE LIVE ON GBC NEWS
+YOU ARE WATCHING NEWS AT 7P.M. LIVE ON GBC NEWS/GTV
+WOMEN'S VOICE  HOST: Selikem Acolatse Apaloo  TOPIC: Child Behavior Management  GUEST: •- Aaron Lordstone Kpogo (Ceo, Lordstone Life Coaching Consult)  PHONE IN: 0260969160  WATSAPP: 0245780116
+COVID-19 UPDATE
+COVID-19 UPDATE
+MEET THE PRESS
+News Hour @ 2pm Live on GBC News & GTV
+YOU ARE WATCHING NEWS HOUR @ 7PM LIVE ON GBC NEWS & GTV
+News Hour @ 2pm Live on GBC News & GTV
+News Hour @ 2pm Live on GBC News & GTV
+THE WEEKLY PRESS REVIEW
+News Hour @ 2pm Live on GBC News & GTV
+MINISTER'S PRESS BRIEFING
+THE BREAKFAST SHOW
+You're watching News at 7 p.m. on GTV/GBC NEWS
+update on joint security operations along Ghana's borders
+Address to the nation 13: Pres. Akufo-Addo on Covid 19.  Update No.13 on enhanced measures taken against COVID-19 in Ghana
+Frontline workers fighting covid-19 read news at 7 p.m. on GTV/GBC News.  Our frontliners, Our heroes!
+THE BREAKFAST SHOW
+MEET THE PRESS
+You are watching the news at 7 p.m. on GTV/GBC News.
+HOST: SELIKEM AcOLATSE APALOO  TOPIC: Menstrual Hygiene For Persons Living With Disabilities  GUEST 1. Cecilia Senior ( Exec. Dir, Hope For The Future Generations/ Board Member, NPC)  2. Nancy Ansah (Board Member, Hope For The Future Generations) (on Zoom)  WATSAPP: 0245780116
+President Akufo-Addo addresses Ghanaians on measures taken against spread of coronavirus
+You are watching the news at 7 p.m. on GTV/GBC News.
+You are watching the news at 7 p.m. on GTV/GBC News.
+Why are fathers not celebrated? GTV Life celebrates fatherhood with AGYAPA, a program to recognise the contribution that fathers make to the lives of their children.  Join us in wishing all dads a Happy Father's Day.
+YOU ARE WATCHING NEWS HOUR @ 2PM ON GBC NEWS & GTV
+THE BREAKFAST SHOW
+You are watching the news hour at 7 p.m live on GTV/GBC News
+Minister's press briefing
+COVID-19 UPDATE
+New at 7 p.m. on GTV/GBC News
+#AskTheInfoMinistry
+NEWS HOUR @ 2 PM
+NEWS HOUR @ 2 PM
+You are watching the 2 p.m news on GTV/GBC NEWS
+News houe at 7 p.m. on GTV/GBC News
+WEEKLY PRESS REVIEW
+WEEKLY PRESS REVIEW
+You are watching the news at 2 p.m. on GTV/ GBC NEWS
+COVID-19 Update
+You are watching a virtual forum on COVID-19 and the vision of Ghana Beyond Aid.
+THE BREAKFAST SHOW
+You are watching the COVID-19 pandemic update on GBC News.
+You are watching the news at 7 p.m. on GTV/GBC News
+Host: SELIKEM ACOLATSE APOLOO Topic; The New Normal Christian Life Guest; Prophet Maxwell Asumda ( Head Pastor, Jehovah Shammah Assemblies of God)  You can also watch us on @Jehavah Shammah Assemblies of God Phone in: 0260969160
+WEEKLY PRESS REVIEW
+THE BREAKFAST SHOW
+NEWS IN EWE
+NEWS HOUR @2
+NEWS HOUR @2
+COVID -19 UPDATE
+MINISTER'S MEDIA BRIEFING
+You are watching the news at 7 p.m. on GTV/GBC News.
+COVID-19 PANDEMIC UPDATE
+NEWS HOUR @ 2 PM
+Details of easing of restrictions for education sector
+GUEST: TORGBE KORDEZA FRANK TOULASSI AKA MASSIVE (CELEBRITY TRAINER)  "It is thus crucial that we improve our fitness levels and adopt healthy eating practices that incorporateour local food stuffs which boost our imune system."- President Nana Akufo-Addo (10th COVID-19 Address)  In the view above, let's have a conversation about FITNESS on Women's Voice on GTV and GBC news.  Host: Selikem Acolatse Apaloo.
+THE BREAKFAST SHOW
+Major News Bulletin at 7pm on GBC News & GTV
+NEWS AT 2PM
+Major News Bulletin at 7pm
+FOCUS
+You are watching the news at 7 p.m. on GTV/GBC News
+News Hour at 2pm
+MINISTER'S MEDIA BRIEFING
+You are watching a virtual Eid ul Fitr Prayers led by the National Chief Imam, Sheikh Nuhu Sharubutu at Broadcasting House, Accra.  Guest of honour: President Akufo-Addo
+News Hour at 2pm
+MINISTER'S PRESS BRIEFING
+...
+News hour at 7pm on GTV/GBC News
+You are watching the news at 7 p.m. on GTV/GBC News
+News Hour at 2pm
+NEWS HOUR @ 2PM
+POLITICKING IN THE MIDST OF CORONA VIRUS
+President AKUFO-ADDO LAUNCHES STIMULUS PACKAGE
+THE BREAKFAST SHOW
+GBC News / GTV Major News Bulletin at 7 pm
+Adult Education in Akan
+...
+Theme: OUR GOD IS ABLE "Ephesians 3:10"
+Adult Education in Nzema
+DAILY COVID-19 UPDATE PROGRAMME
+Major News Bulletin@ 7pm
+Major News Bulletin on GBCNews/GTV @ 7pm
+Adult Education in GA
+GBCNews/GTV News Hour @ 2pm
+You are watching the news at 7 p.m. on GTV/GBC News
+MINISTER'S MEDIA BRIEFING
+MINISTER'S MEDIA BRIEFING
+Update on Ghana's COVID-19 cases
+INFORMATION MINISTRY'S PRESS BRIEFING ON COVID-19
+INFORMATION MINISTRY'S PRESS BRIEFING ON COVID-19
+THE BREAKFAST SHOW FRIDAY EDITION
+MAJOR NEWS BULLETIN @ 7PM
+NEWS HOUR @ 2PM
+THE BREAKFAST SHOW -THURSDAY EDITION
+INFORMATION MINISTER'S PRESS BRIEFING ON COVID-19
+BREAKFAST SHOW
+MAJOR NEWS BULLETIN @ 7:00PM
+MAJOR NEWS BULLETIN @ 7PM ON GTV/ GBC NEWS
+ADULT EDUCATION IN NZEMA
+WEEKLY PRESS REVIEW  HOST: SANI ABDUL RAHMAN  PANELISTS  . 1. BERNARD MORNAH,  NATIONAL CHAIRMAN, PNC  2. FRED AGBENYO,  NDC COMMUNICATION TEAM MEMBER  3. GEORGE AYISI,  COMMUNICATION DIRECTOR FOR NADMO
+NEWS IN EWE
+GBC NEWS/GTV NEWS HOUR @ 2 PM
+ADULT EDUCATION IN GA
+GBC NEWS/GTV NEWS HOUR @ 2 P.M.
+MAJOR NEWS BULLETIN @ 7PM ON GBCNEWS
+NEWS HOUR @ 2PM
+ADULT EDUCATION IN AKAN
+TALKING POINT
+The National President and Executives of Aglow International March Edition of the Monthly Intercessory Prayers for Ghana  THEME: "O God Let The Wickedness Of The Wicked Come To An End In Ghana But Establish The Just!"  (Psalm 7 : 9 )
+...
+WEEKLY PRESS REVIEW
+THE BREAKFAST SHOW, FRIDAY, MARCH 20 EDITION
+MAJOR NEWS @ 7PM
+NEWS IN EWE
+ADULT EDUCATION IN EWE
+PANEL DISCUSSION ON CURBING THE SPREAD OF COVID-19 IN GHANA  Join the conversation using #SpreadCalmNotFear
+PRESIDENT AKUFO-ADDO HOLDS BREAKFAST PRAYER WITH CLERGY
+THE BREAKFAST SHOW, THURSDAY, MARCH 19 EDITION
+NEWS IN GA
+MINISTER'S PRESS BRIEFING
+ROUND TABLE  DISCUSSING: COMEDY - CATALYST FOR SOCIAL CHANGE  Host: REBEKAH AWUAH @rebekahawuah  Guests  A.CLEMENTO SUAREZ, Comic Actor  B. FOSTER ROMANUS, Stand-Up Comedian  C. JENERAL NTATIA, Comedian  Share your thoughts on :  Phone In: 0260 969 160  Twitter :@roundtablegh  Facebook live: @gbcghanaonline
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR @ 2 PM
+NEWS HOUR AT 2PM
+MAJOR NEWS BULLETIN @ 7PM LIVE FROM GBC NEWS
+news hour @2pm
+WEEKLY PRESS REVIEW
+NEWS HOUR @2PM
+TOPIC: 400 Years: Enduring Historical Misorientation and Disorientation Speaker: DR.OKUNINI OBADELE KAMBON ( Senior Research Fellow, Institute Of A frican Studies, UG) CHAIRMAN: PROF. AMIN ALHASSAN ( Director General-GBC)
+PREZ
+MAJOR NEWS @ 7PM LIVE FROM GBC NEWS
+ADULT EDUCATION IN GA
+NEWS HOUR @ 2PM
+FOCUS
+FOCUS
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR AT 2PM
+MEET THE PRESS
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN
+ADULT EDUCATIOIN IN AKAN
+Women's Voice  Guest: Rev. Aku Xornam Kevi (Women's Advocate /Exec. Director, PAYDP)  We have been celebrating women and talking about feminism for many decades but what do you know about Feminism?  Join us as we get an understanding of what Feminism really is as Selikem hosts Rev. Aku Xornam Kevi.
+TALKING POINT
+NEWS HOUR @ 2PM
+ADULT EDUCATION IN NZEMA
+All set for 63rd Independence Day celebrations – The theme for this year's Independence Day celebration is "Consolidating Our Gains". Sixth of March every year is Ghana's National Day and commemorates Ghana's independence. Today Friday, 6th March, 2020 at the Baba Yara sports stadium in Kumasi, the Ashanti regional capital.
+NEWS IN GA
+ADULT EDUCATION IN GA
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR @ 2 PM
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN @7
+Adult education in Akan
+NEWS HOUR @2PM
+THE BREAKFAST SHOW
+MAJOR NEWS @ 7 PM
+MAJOR NEWS @ 7PM
+ADULT EDUCATION IN NZEMA
+NEWS HOUR @2PM
+THE BREAKFAST SHOW
+NEWS IN EWE
+NEWS HOUR AT 2PM
+THE BREAKFAST SHOW
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR @ 2PM
+NEWS HOUR @2PM
+TOPIC;STATE OF THE NATION ADDRESS- MATTERS ARISING
+MAJOR NEWS BULLETTIN @7PM
+MAJOR NEWS BULLETIN @ 7PM
+DISCUSSING - ISSUES THAT MADE THE HEADLINE WITHIN THE WEEK
+NEWS IN EWE
+2020 STATE OF THE NATION ADDRESS  VENUE: PARLIAMENT HOUSE
+NEWS IN GA
+ADULT EDUCATION IN GA
+NEWS HOUR @2PM
+Delivering Credible Elections  Host: REBEKAH AWUAH @rebekahawuah  Guest: A. 1BRAHIM OPPON KWARTENG  Host, Behind The News - Radio Ghana  B. THOMAS ADOTEI PAPPOE  Head of General News, TV3  Phone In : 0209 578 478  Twitter:@roundtablegh || Facebook live:@gbcghanaonline ||@Reporters ROUNDTABLE
+MAJOR NEWS BULLENTIN AT 7PM LIVE ON GBCNEWS
+MAJOR NEWS BULLENTIN AT 7PM LIVE ON GBCNEWS
+Women's Voice  Discussing: The Female Surveyor  Guests: 1. Beatrice Akpene Kom ( Head, Survey & Mapping Division, Lands Commission, Tema)  2. Mercy Acheampong (Coordinator, Women in Surveying)
+Women's Voice  Discussing: The Female Surveyor  Guests: 1. Beatrice Akpene Kom ( Head, Survey & Mapping Division, Lands Commission, Tema)  2. Mercy Acheampong (Coordinator, Women in Surveying)
+INSIDE THE NEWS  DICUSSING: A VISIT TO THE BENEFICIARIES OF ONE VILLAGE ONE DAM WITH ABDUL HAYI MOOMEN.  HOST: SELIKEM ACOLATSE AKPALOO
+MAJOR NEWS BULLETIN @ 7PM
+ADULT EDUCATION IN AKAN
+THE BREAKFAST SHOW
+NEWS IN NZEMA
+WEEKLY PRESS REVIEW
+THE BREAKFAST SHOW
+ADULT EDUCATION IN EWE
+NEWS HOUR @2PM
+News Hour @ 2 pm
+NEWS HOUR @2PM
+MAJOR NEWS @ 7 PM LIVE FROM GBC NEWS
+ADULT EDUCATION IN GA
+SOD CUTTING CEREMONY ; 17 MW SOLAR POWER PROJECT
+News Hour @7
+News in Akan
+Women's Voice  Guest: 1. Gloria Yankson (Founder, Cancer Connect GH)  Cervical Cancer is a death trap for many women but it is treatable if detected early. And with support, many suffering this illness will fully recover with early detection. We are going to look at what the treatment of this disease involves, physically, psychologically, emotionally and financially. Founder of Cancer Connect GH, Gloria Yankson will be in our studio. Join us, Selikem is our host.
+NEWSHOUR AT 2
+THE BREAKFAST SHOW
+THE BREAKFAST SHOW
+NEWS IN GA
+Topic: Global Education Partnerships and Economic Development In Africa Guests: Prof. Kenneth Kamwi Matengu ( Vice Chancellor, University of Namibia), Samia Nkrumah( Politician), Rt. Hon. Baroness Valerie Amos ( British Diplomat/ Politician/Director of SOAS, University of London)
+ADULT EDUCATION IN DAGBANLI
+Women's Voice "Enhancing Productivity at Home and at Work" Guests: 1. Bernice Adjei ( Deputy Director General, Management Development and Productivity Institute)  2. Eva Obenewa Tandoh (Director, Training, Management Development and Productivity Institute)
+Commissioning and distribution of Ambulances. one constituency, one ambulance By: President Akuffo-Addo
+Commissioning and distribution of Ambulances. one constituency, one ambulance By: President Akuffo-Addo
+ADULT EDUCATION IN AKAN
+NEWS HOUR @2PM
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+NEWS IN EWE
+MAJOR NEWS @ 7 PM LIVE FROM GBC NEWS
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN AT 7PM ON GBCNEWS
+NEWS HOUR @7
+THE BREAKFAST SHOW
+ADULT EDUCATION IN NZEMA
+TOPIC: Increasing Women And Youth Participation In Local Governance.  Moderator: Dorcas Taylor - Partner, Sterling Attorneys  GUESTS : Magdalene Kannae - Practitioner in Peace Building, Governance & Gender for Influence & Impact, Representing ABANTU  Mrs Selina Avevor, Assemblymember, Kutunse Electoral Area, Ga West. Dr. Louise Carol Serwaa Donkor - Political Communications Researcher
+MAJOR NEWS BULLETIN
+YA NA CALLS ON PRESIDENT AKUFO-ADDO
+NEWS HOUR @ 2PM
+ADULT EDUCATION IN GA
+INAUGURATION OF GBC BOARD
+THE BREAKFAST SHOW
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR @ 2PM
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN @7 ON GBC NEWS/GTV
+NEWS HOUR @2PM
+THE BREAKFAST SHOW
+TALKING POINT
+MAJOR NEWS BULLETIN AT 7PM ON GBCNEWS
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+NEWS IN EWE
+NEWS IN GA
+MAJOR NEWS BULLETIN
+NEWS HOUR @ 2 PM
+NEWS HOUR AT 2PM
+MAJOR NEWS BULLETIN
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+NEWS HOUR @2PM
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN
+NEWS HOUR AT 2PM
+MINISTER'S PRESS BRIEFING
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN AT 7PM ON GBCNEWS
+NEWS HOUR @2PM
+THE BREAKFAST SHOW
+NEWS IN AKAN
+Women's Voice Guest: 1. Yawa Hansen-Quao (Executive Director, Emerging Public Leaders/Author)  We are saying woman, be the leading lady in your life. Join us Selikem and Yawa Hansen-Quao discuss "Be the leading lady in your life".
+NEWS HOUR @2PM
+THE BREAKFAST SHOW
+NEWS HOUR @ 2PM
+MAJOR NEWS BULLETIN
+NEWS HOUR @ 2 PM
+MAJOR NEWS @ 7 PM LIVE FROM GBC NEWS
+NEWS HOUR @ 2 PM LIVE FROM GBC NEWS
+REPORTERS ROUND TABLE
+NEWS HOUR @ 2PM
+MAJOR NEWS BULLETIN AT 7PM ON GBCNEWS
+MAJOR NEWS BULLETIN AT 7PM ON GBCNEWS
+NEWS IN AKAN
+NEWS HOUR @2PM
+Vetting of Chief Justice Nominee
+THE BREAKFAST SHOW
+TALKING POINT
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+WEEKLY PRESS REVIEW
+ADULT EDUCATION IN EWE
+NEWS HOUR AT 2PM
+MINISTRY OF TOURISM, ARTS AND CULTURE. MEET THE PRESS
+BREASKFAST SHOW
+MAJOR NEWS @ 7 PM LIVE FROM GBC NEWS
+TOPIC: How to create an enabling environment for women in ministry. With Prophetess Otiwaa Amoako Also; A look at some of the major headlines for the year with Richard Kumodoe(Fraud and Security Management Consultant), Richard Mensah ( News Editor Citi TV/FM) and Kwame Danso Acheampong( Editor in Chief, Starr FM)
+BREAKFAST SHOW
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+ADULT EDUCATION IN DAGBALI
+District level election 2019
+BREAKFAST SHOW
+MAJOR NEWS BULLETIN @7
+Women's Voice Guests: 1. Otiko Afisah Djaba (Executive Director, Henry Djaba Foundation/Former Gender Minister)  2. Ogyefo Nana Adubea Ackom I (Adontsen Henbaa, Nkusukum Mankessim)  Join us as we discuss Inclusive Politics - Empowering Women with Disabilities
+NEWS HOUR @ 2PM
+NEWS HOUR @ 2PM
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+News Hour @ 2PM
+PRESIDENT'S ENCOUNTER WITH THE MEDIA
+PRESIDENT'S ENCOUNTER WITH THE MEDIA
+WE THE PEOPLE
+MAJOR NEWS BULLETIN
+News Hour @ 2 PM LIVE FROM GBC NEWS
+THE BREAKFAST SHOW
+ADULT EDUCATION IN GA
+NEWS HOUR @ 2 PM LIVE ON GBC NEWS
+MAJOR NEWS BULLENTIN AT 7PM ON GBCNEWS
+NEWS IN DAGBANLI
+NEWS HOUR
+THE BREAKFAST SHOW
+ADULT EDUCATION IN AKAN
+NEWS HOUR @ 2 PM LIVE FROM GBC NEWS
+VETTING OF JUSTICES TO THE SUPREME COURT
+BREAKFAST SHOW
+MAJOR NEWS BULLETIN @ 7 PM
+News Hour @ 7
+Adult Education In Nzema
+NEWS HOUR
+FARMER'S DAY SPECIAL
+MAJOR NEWS BULLETIN AT 7PM ON GBCNEWS
+ADULT EDUCATION IN EWE
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS
+THE BREAKFAST SHOW
+MAJOR NEWS AT 7 LIVE FROM GBC NEWS
+NEWS HOUR AT 2PM
+MEET THE PRESS
+THE BREAKFAST SHOW
+NEWS IN DAGBANLIN
+NEWS HOUR @ 2 PM
+PRESS BRIEFING
+THE BREAKFAST SHOW
+NEWS IN AKAN
+ADULT EDUCATION IN AKAN
+News Hour @ 2 PM Live on GBC Ghana
+THE BREAKFAST SHOW
+PREZ ADDRESSES THE NATION ON REFERNDUM
+TALKING POINT
+Major News Bulletin
+PWALUGU MULTIPURPOSE DAM SOD CUTTING
+WEEKLY PRESS REVIEW
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+NEWS IN EWE
+ADULT EDUCATION IN EWE
+President Akufo-Addo confers citizenship on members of the African Diaspora Community as Ghanaians.
+ADULT EDUCATION IN GA
+Topic: Developing A Competitive Rice Value Chain In Ghana Panelists: KAZUYUKI FUJIWARA (Partnerships Officer, FOA Regional office for Africa), EVANS BOAH MENSAH (Business Jounalist), ERIC MATETSU TEYE ( Rice Farmer) Join the conversation through the following Phone numbers PHONE -IN : 0209578478 WhatsApp : 0244475422
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN AT 7PM LIVE ON GBCNEWS
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+MAJOR NEWS BULLETIN AT 2PM
+THE BREAKFAST SHOW
+Major News Buletin @ 7 pm Live on GBC Ghana
+Adult Education In Akan
+HOST: REBEKAH AWUAH  GUEST(S) 1. ESTHER ARMAH (DIRECTOR, EAA MEDIA PRODUCTION)  2. DERICK BOTSYOE ( CO-ORDINATOR, WHITE RIBBON GHANA)  DISCUSSING WHAT KIND OF MAN ARE YOU?  WHATSAPP OR TEXT: FACEBOOK: WOMEN'S VOICE GBC24 EMAIL: WOMENVOICE24@GMAIL.COM TWITTER:@WOMENSVOICEGBC24 026 096 9160
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS
+THE BREAKFAST SHOW
+TALKING POINT
+News Hour @ 7
+NEWS HOUR @ 2PM LIVE GBC GHANA
+WEEKLY PRESS REVIEW
+Breakfast Show Live on GTV
+Adult Education in Ewe
+News Hour @ 2PM
+THE MORNING SHOW
+THE BREAKFAST SHOW
+Major News Bulletin
+News In Ga
+News Hour @ 2 PM
+MAJOR NEWS @ 7PM
+ADULT EDUCATION IN DAGBANLI
+News Hour @ 2pm
+THE BREAKFAST SHOW
+ADULT EDUCATION IN AKAN
+NEWS HOUR @ 2PM LIVE ON GBC
+TALKING POINT
+MAJOR NEWS BULLETIN AT 7
+MAJOR NEWS BULLETIN
+NEWS HOUR AT 2PM
+WEEKLY PRESS REVIEW
+MAJOR NEWS BULLETIN @7PM LIVE ON GBCNEWS
+News in Ga
+Adult Education in Ga
+2020 BUDGET STATEMENT AND ECONOMIC POLICY
+2020 BUDGET STATEMENT
+News Hour@2 live from gbcghanaonline.com
+WOMEN'S VOICE:  PREVENTING MOTHER TO CHILD TRANSMISSION OF HIV/AIDS  DR FRED NANA POKU (DIRECTOR, TECHNICAL SERVICES, GHANA AIDS COMMISSION)  CHARITY OWUSU BALOU ( HEAT-TO-HEART AMBASSADOR, GHANA AIDS COMMISSION)
+TALKING POINT
+MAJOR NEWS BULLETIN @7PM LIVE ON GBCNEWS
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS
+ADULT EDUCATION IN EWE
+THE BREAKFAST SHOW
+MAJOR NEWS BULLETIN @7PM LIVE ON GBCNEWS
+ADULT EDUCATION IN GA
+NEWS HOUR @ 2 PM LIVE FROM GBC NEWS
+MEET THE PRESS
+REPORTERS ROUND TABLE
+WOMEN'S VOICE GUEST; PROPHETESS AUDREY MAISON (BREAST CANCER SURVIVOR/PHILANTHROPIST) AND PASTOR SOPHIA CAMPBELL-SMILEY(HEALTH ADVOCATE/ENTREPRENEUR)
+NEWS PAPER REVIEW ON BREAKFAST SHOW LLIVE
+BREAKFAST SHOW LIVE ON GTV
+ADULT EDUCATION IN AKAN
+BREAKFAST SHOW LIVE ON GTV
+TALKING POINT
+MAJOR NEWS LIVE FROM GBC NEWS
+ADULT EDUCATION IN NZEMA
+NEWS HOUR @ 2PM LIVE FROM GBCNEWS
+WEEKLY PRESS REVIEW LIVE FROM GBC
+MAJOR NEWS BULLETIN LIVE FROM GBC NEWS
+ADULT EDUCATION IN GA
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+Women's Voice Guests: 1. Rebecca Kwabi (Miss Ghana 2019) 2. Breast Cancer Patient  October is celebrated as breast cancer awareness month. Nearly 70% of women with breast cancer in Ghana are in their advanced stages of the disease due to especially low awareness resulting in limited treatment success and high death rate. Join us as Gifty Adjei and our guests discuss Breast Cancer - The Silent Killer.
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS
+ADULT EDUCATION IN AKAN
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS
+TALKING POINT
+MAJOR NEWS BULLETIN
+Major News Bulletin
+Adult Education in Nzema
+kurt Okraku Elected GFA President
+GFA "Extra-ordinary session " of congress:voting underway to elect new president
+Weekly Press Review
+NEWS HOUR " 2PM LIVE ON GBCNEWS
+MAJOR NEWS LIVE FROM GBC NEWS
+NEWS IN GA
+ADULT EDUCATION IN GA
+MINISTER'S PRESS BRIEFING ON PDS
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+Women's Voice Guests: 1. Kezia Agbenyega (Author/Publisher Relations Manager & Project Manager, Inspire Us Project, Worldreader)  2. Samuel Alomenu (Programs Manager & Partnership Development Lead, Worldreader)  It's time we focused on shaping literature to be a tool of empowerment for women. Join us at 4pm on GBC News as Selikem, Kezia and Samuel discuss Empoering Women Through Literature.
+LIVE STREAMING of the first-ever Ghana Football Association Presidential Debate being organized by the GFA.  Venue: Surgeon Center Accra
+Women's Voice Guests: 1. Dr. Nasiba Taahir-Swallah (Clinical Psychologist/ Director of Hajaat Educational Center)  2. Bashiratu Kamal (Gender Officer, GAWU - TUC, Ghana)  What social safety net or policies are available to ensure that victims of sexual harassment are not re-traumatized? Join us as Selikem, Kezia and Bashiratu discuss Protecting Victims of Sexual Harassment.
+NEWS HOUR AT 2 PM LIVE FROM GBC NEWS
+DEMONSTRATING GHANA'S CYBERSECURITY READINESS
+TALKING POINT
+MAJOR NEWS BULLETIN LIVE ON GBC NEWS
+MAJOR NEWS BULLETIN @7PM LIVE ON GBCNEWS
+NEWS HOUR
+MAJOR NEWS BULLETIN
+NEWS HOUR
+HOW CAN AFRICAN LOCAL GOV'TS STRENGTHEN THEIR COOPERATION WITH STATES AND NON-STATE ACTORS TO TACKLE CLIMATE CHANGE?
+39th OBSERVANCE OF WORLD FOOD DAY Venue: FORECOURT OF THE STATE HOUSE,ACCRA
+NEWS IN DAGBANI
+WOMEN'S VOICE
+NEWS HOUR
+MAJOR NEWS BULLETIN AT 7
+NEWS IN AKAN
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS.
+MEET THE PRESS
+WEEKLY PRESS REVIEW
+MAJOR NEWS BULLETIN @7PM LIVE ON GBCNEWS
+ADULT EDUCATION IN EWE
+NEWS HOUR @ 2PM LIVE ON GBCNEWS
+REPORTERS ROUND TABLE
+Major News Bulletin Live On GBC News
+News in Dagbani
+NEWS HOUR @ 2PM LIVE FROM GBC NEWS
+TALKING POINT
+MAJOR NEWS BULLETIN AT 7PM
+Major News Live On GBC News
+NEWS HOUR
+WEEKLY PRESS REVIEW
+NEWS IN EWE
+ADULT EDUCATION IN EWE
+NEWS HOUR
+NEWS IN GA
+NEWS HOUR
+Is Ghana ready for another Coup years after Democracy? Rebekah Awuah and guests on the roundtable table take a look at this subject. Join in the conversation
+MAJOR NEWS BULLETIN
+NEWS IN DAGBANLI
+NEWS HOUR
+News In Akan
+Adult Education In Akan
+NEWS HOUR AT 7PM ON GBC NEWS/GTV
+MAJOR NEWS @ 7
+NEWS IN NZEMA
+ADULT EDUCATION IN EWE
+NEWS HOUR
+MAJOR NEWS BULLETIN ON GBC NEWS
+ADULT EDUCATION IN GA
+WOMEN VOICE
+NEWS HOUR
+MAJOR NEWS BULLETIN
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR
+News in Akan
+Women's Voice Guests: 1. Bashiratu Kamal (Activist, Feminist and Unionist)  2. Asmau Ayub, Director at Rayuwa Foundation / Counseling Psychologist  3. Olaniyan Salamatu Fola-Shade, (WAEC Candidate)  No one deserves to be harassed just because they choose to appear in a certain way. But Muslim women are facing discrimination because of their hijab. The question is, what makes society act this way towards the Muslim woman? How do we deal with this problem? Join us Selikem, Bashiratu, Asmau and Olaniyan discuss "Discrimination Against the Hijab".
+ADULT EDUCATION IN NZEMA
+WEEKLY PRESS REVIEW
+NEWS HOUR AT 2PM
+MAJOR NEWS
+Women's Voice Guests: 1. Tatenda Gumbo (Digital Media Producer/Guest Host, Our Voices)  2. Hayde Adams Fitzpatrick (Co-Host, Our Voices, VOA)  Is the media doing its job of setting the agenda for the advocacy of women's rights as it should? Today on Women's Voice the team from Our Voices talk show on VOA, that projects the opinions of women will be joining Selikem for conversation on the role of the media in the fight for the recognition of the rights of women. Join us Selikem, Hayde and Tatenda discuss "The Role of the Media in Women's Rights Advocacy"
+NEWS HOUR
+MAJOR NEWS BULLETIN
+ADULT EDUCATION IN DAGBANLI
+Women's Voice Guest: 1.Gloria Boatemaa Andoh, Suicide Prevention Activist  2. Adwoa Prah Counselling Psychologist / Lecturer, NAFTI  Today is suicide prevention day. The WHO has shown that a person dies every 40 seconds by suicide worldwide, with 25 more people making an attempt at suicide. Society seems to place a certain level of pressure on individuals to fit into the status quo but what's the connection between this and depression and suicides? Join us as Selikem, Gloria and Adwoa discuss Societal Pressure, Depression and Suicide.
+NEWS HOUR
+NEWS HOUR
+NEWS IN AKAN
+Adult Education in Akan
+ADULT EDUCATION IN NZEMA
+MAJOR NEWS BULLETIN @ 7PM LIVE ON GBCNEWS
+CLOSING CEREMONY OF THE 'KOFI ANNAN PEACE AND SECURITY FORUM'
+MAJOR NEWS BULLETIN @ 7PM LIVE on GBCNEWS
+ADULT EDUCATION IN GA LIVE ON GTV.
+NEWS HOUR @ 2PM LIVE ON GBCNEWS
+MAJOR NEWS BULLETIN @ 7PM LIVE on GBCNEWS
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR @ 2PM LIVE ON GBCNEWS
+NEWS HOUR AT 7PM ON GBC NEWS/GTV
+NEWS HOUR @ 2PM, LIVE ON GBCNEWS
+TALKING POINT
+MAJOR NEWS BULLETIN @ 7PM LIVE on GBCNEWS
+ADULT EDUCATION IN NZEMA LIVE ON GTV
+WOMENS VOICE
+NEWS HOUR @ 2PM LIVE ON GBCNEWS
+WEEKLY PRESS REVIEW
+NEWS HOUR @ 2PM LIVE ON GBCNEWS
+MAJOR NEWS BULLETIN @ 7PM LIVE ON GBCNEWS
+NEWS HOUR @ 2PM LIVE ON GBCNEWS
+84th GBC Anniversary Lecture on 'STATE OF THE STATE BROADCASTER'.
+NEWS HOUR @ 2PM LIVE ON GBC24
+News Hour 2pm Live on GBC News
+TALKING POINT LIVE ON GTV
+MAJOR NEWS BULLETIN @ 7PM LIVE on GBCNEWS
+NEWS HOUR @ 7PM ON GBC NEWS/GTV
+NEWS HOUR @ 2PM LIVE ON GBCNEWS
+WEEKLY PRESS REVIEW LIVE ON GBCNEWS
+Womens's Voice =============================
+News Hour @ 2pm Live on GBC NEWS
+NEWS IN AKAN
+ADULT EDUCATION in AKAN
+NEWS HOUR @ 2PM, LIVE on GBCNEWS
+TALKING POINT
+NEWS HOUR AT 7PM ON GBC NEWS/GTV
+MAJOR NEWS BULLETIN @ 7PM LIVE on GBCNEWS
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+ADULT EDUCATION IN EWE LIVE ON GTV
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+Women's Voice Guest: Kristin Ellington (Director of Operations, Global Leadership Coalition)  Increasingly more people in Ghana are identifying themselves as entrepreneurs. However, what kind of capacity does it really take to be an entrepreneur? The Director of Operations for the Global Leadership Coalition Kristin Ellington is in Ghana to train entrepreneurs and joins us on Women's Voice. Selikem is our host.  LIVE ON GBCNEWS
+NEWS HOUR AT 2PM  LIVE ON GBCNEWS
+Women's Voice Guests: 1. Diana Dwuma-Badu (Haematology Nurse Specialist, Paediatric Sickle Cell Clinic, Korle Bu Teaching Hospital)  2. Dr. Sudha Ramachandra Rao, (Specialist Paediatrician, Korle Bu Teaching Hospital)  Health Research has shown that more than 15,000 babies are born with Sickle Cell Disease every year in Ghana. Unfortunately, about 50-90% of that number die before they attain 5 years. As a country, we lose most of these babies because they were never diagnosed or never treated. On the program today, we are going to find out what the Sickle Cell disease is and the importance of new born screening. Join Selikem, Rao and Diana as they discuss 'Newborn Screening for Sickle Cell Disease.  LIVE ON GBCNEWS
+NEWSHOUR AT 2PM  LIVE ON GBCNEWS
+NEWS IN EWE LIVE ON GBCNEWS
+ADULT EDUCATION IN EWE LIVE ON GTV
+NEWS HOUR AT 2PM LIVE ON GBCNEWS
+NEWS HOUR AT 2PM LIVE ON GBCNEWS
+ADULT EDUCATION IN EWE LIVE ON GTV
+WOMEN'S VOICE  When a relationship becomes abusive, it threatens the total well-being of the abused partner.  On Women's Voice, Rasheeda Adams, a survivor of domestic violence speaks to the dangers of staying in an abusive relationship.  LIVE ON GBCNEWS
+NEWS HOUR AT 2PM LIVE ON GBCNEWS
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+NEWS IN DAGBANI/HAUSA LIVE ON GBCNEWS
+ADULT EDUCATION IN DAGBANI/HAUSA LIVE ON GTV
+NEWS HOUR AT 2PM LIVE ON GBCNEWS
+Major News Bulletin Live on GBC NEWS
+NEWS HOUR @ 2PM, LIVE ON GBCNews
+TALKING POINT LIVE ON GBCNEWS
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+Major News Bulletin Live on GTV / GBC NEWS
+Women’s Voice Guest: 1. Fr. Subash Chittilapilly (Exec. Dir of God Project)  2. Daniel Ndible (Tutor/Youth Advocate)  Young people in slum areas find it hard to be self-motivated to be ambitious because the environment may be uninspiring. Women’s Voice on GBC News looks at the reason why the empowerments of the youth in slum areas is critical to enable them aspire to greatness. Join us as Selikem, Father Subash and Daniel discuss ‘Empowering Underprivileged Youth in Slums’.
+NEWS IN EWE LIVE ON GBCNEWS
+NEWS HOUR AT 2PM LIVE ON GBCNEWS
+On the Reporters Roundtable award winning Journalist Rebekah Awuah and her panelists ask a simple question "Is kidnapping taking root in Ghana?" "What must be done to ensure the safety of citizens " How can Ghanaian businesses be empowered to penetrate the global market. Send your comments via Facebook live. Call +233 (0) 209 - 578 - 478 to contribute to the discussion.  RICHARD KUMADOE Fraud and Security Management Consultant  ALFRED OCANSEY Broadcast Journalist, TV3/ 3FM  FRANCIS ABBAN Morning Show Host, Starr FM  STEVEN OCLOO CEO,Nkulenu Industries
+ADULT EDUCATION IN GA LIVE ON GTV
+NEWS IN HAUSA/DAGBANI LIVE ON GBCNEWS
+Major News Bulletin Live on GBC News
+NEWS HOUR @ 2PM  LIVE ON GBC NEWS
+TALKING POINT LIVE ON GBCNEWS
+Major News Bulletin Live on GBCNEWS
+Adult Education in Nzema Live on GTV
+News Hour @ 2pm live on GBCNews
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+NEWS IN EWE LIVE GBCNEWS
+ADULT EDUCATION IN EWE LIVE GTV
+Women's Voice  Guests: 1. Josceline Arthur(Former National Union of Ghana Students Women's Commissioner)  2.May-Britt Nana Ekua Ocran(University Students' Association of Ghana Women's Commissioner)  Beyond academics,students benefit holistically from the experience of school when they are open to acquiring knowledge in other area that will ready them for the pursuit of their life vision.  Join us as Selikem, Josceline and Nana Ekua discus "Young Women in Student Leadership"  LIVE ON GBCNEWS
+NEWS HOUR AT 2PM LIVE ON GBCNEWS
+How can we create an enabling environment for women to thrive? And have you thought of how the Micro-finance sector Clean-up will affect Ghana's financial inclusion drive?  Join Award winning host Rebekah Awuah and her panelists on the Round Table.  Send your comments via Facebook live.  Call +233 (0) 209 - 578 - 478 to contribute to the discussion.  RASHEEDA ADAMS - Journalist || Women's Right Advocate  REBECCA DELONG - Human Rights Advocate ||Lawyer  JOYCE BAMPO - Board Member, Ghana Association of Micro-finance Companies
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+NEWS HOUR AT 2PM LIVE ON GBCNEWS
+Major News Bulletin Live on GTV / GBC NEWS
+ADULT EDUCATION IN AKAN Live On GTV
+TALKING POINT LIVE ON GBCNEWS
+Adult Education in Nzema live on GTV
+"We The People" LIVE ON GTV
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+NEWS HOUR AT 2 PM LIVE ON GBCNEWS
+NEWS HOUR AT 7PM LIVE ON GBCNEWS
+ADULT EDUCATION IN GA LIVE ON GTV
+NEWS IN DAGBANI/HAUSA LIVE ON GBCNEWS
+Women's Voice ================================ Guest: Ama Pratt (Channel Head, Pan African TV / Exec. Dir., MAP Leadership Org.)  What do you think of the women's rights agenda in Ghana? Are Women's rights advocates selling the message right? Is feminism achieving its aim of creating opportunities for women to excel? Join us our guest Selikem and Ama discuss the Women's rights agenda in retrospect.
+MAJOR NEWS BULLETIN @ 7PM  LIVE ON GBC NEWS
+Adult education in Akan  Live on GTV
+News Hour @ 2pm Live on GBCNews & GTV
+TALKING POINT LIVE ON GBC NEWS
+MAJOR NEWS BULLETIN Live on GBC-NEWS
+ADULT EDUCATION IN NZEMA Live on GTV
+NEWS HOUR AT 2PM LIVE ON GBC-NEWS
+NEWS HOUR @ 7 PM LIVE ON GBC NEWS
+NEWS IN EWE LIVE ON GBC NEWS
+ADULT EDUCATION IN EWE LIVE ON GTV
+WOMENS VOICE ======================= Guest: Hummu Gaage (Journalist, Metro TV / Girls Rise Project)  Child betrothal and early marriages in most Zongo communities happen at the expense of girl-child education. However, If these girls had the opportunity to be empowered through education, they will have the promise of a future where they can achieve their highest goals. Join us Selikem and Hummu discuss 'The Zongo Girl and Education'
+NEWS HOUR AT 2 PM LIVE ON GBC NEWS
+Do you think Plastics should be in Ghana? How can Ghana become the cleanest city in Africa? Join Award wining host Rebekah Awuah and her panelists on the Round Table.  Send your comments via Facebook. Call +233 0209 578 478 to contribute to the discussion.  Panelists: Dr Bob Offei Manteaw, Environment and Sanitation Consultant.  Edmund Asante, Water and Sanitation Journalist.  Richard Mensah, News Editor, CITI FM/TV  Sedem Ofori, Journalist Media General (TV3/3FM)
+NEWS HOUR AT 7 PM LIVE ON GBC NEWS
+NEWS IN GA LIVE ON GBC NEWS
+ADULT EDUCATION IN GA LIVE ON GTV
+NEWS HOUR AT 2 PM LIVE ON GBC NEWS
+NEWS HOUR AT 7 PM LIVE ON GBC NEWS
+ADULT EDUCATION IN DAGBANI /HAUSA  LIVE ON GTV
+Women's Voice  Guest: Gloria Yankson (Founder/Director, Cancer Connect Gh)  Cervical cancer occurs when the cells of the cervix grow abnormally and invade other tissues and organs of the body. These abnormal cells can take many years to develop from pre-cancerous changes to cancer if not detected early and treated. Through regular screening these pre-cancerous changes can be detected early and treated to prevent a cancer from developing.  Join us as Selikem and Gloria takes us through preventing cervical cancer.  LIVE ON GBC NEWS
+NEWS HOUR AT 2PM LIVE ON GBC NEWS
+NEWS HOUR AT 7 PM LIVE ON GBC NEWS
+NEWS HOUR AT 7 PM LIVE ON GBC NEWS
+ADULT EDUCATION IN EWE LIVE ON GTV
+NEWS HOUR AT 7 PM LIVE ON GBC NEWS
+#ReportersRoundTable with Rebekah Awuah gets up close with  -H.E Shani Cooper Zubida, Israeli Ambassador to Ghana, Liberia and Sierra Leone and finds out what plans the Israeli government has to increase investments in Ghana.  The show also looks at how Ghana can protect its Forest Cover and address the complex and politically sensitive issue of illegal logging with  -Daryl Bosu - Deputy National Director - Operations AROCHA Ghana and  -Dr. Bob Manteaw, an Environment and Development Consultant.  ***Get interactive on Facebook, ***call on 233 (0) 209 578 478 to contribute to the live show.
+NEWS IN GA
+ADULT EDUCATION IN GA  LIVE ON GTV
+NEWS HOUR AT 2 PM LIVE ON GBC NEWS
+NEWS HOUR AT 7 PM LIVE ON GBC NEWS
+NEWS IN DAGBANI LIVE ON GBC NEWS
+ADULT EDUCATION IN DAGBANI LIVE ON GTV
+News Hour @ 2pm Live on GBC 24
+MAJOR NEWS BULLETIN live on GBC24 / GTV
+News in Akan Live on GTV
+Adult Education in Akan Live on GTV
+News Hour at 2pm Live on GBC24 / GTV
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+Girlz Girls Power Talk Show Live on GTV TOPIC: Child Right and Responsibilities and Parental Rights
+Major New Bulletin Live on GBC 24
+News Hour @ 2pm Live on GBC 24
+Weekly Press Review
+MAJOR NEWS BULLETIN @ 7PM  LIVE ON GBC24/GTV
+Adult education in Ewe  Live on GTV
+NEWS HOUR @ 2PM LIVE ON GTV / GBC24
+News Hour @ 2pm Live on GBC 24
+Major News Bulletin @ 7pm live on GBC24 / GTV
+Major News Bulletin Live on GTV / GBC24
+Talking Point DISCUSSING : GHANA'S AVIATION INDUSTRY  live from the studios of GTV
+Major News Bulletin @ 7pm live on GBC24 / GTV
+Adult education in Nzema  Live on GTV
+Women's Voice ===========================
+NEWS HOUR @ 2PM LIVE ON GBC24 / GTV
+WEEKLY PRESS REVIEW Live on GTV / GBC24
+Women's Voice
+The Reporters Round Table Takes takes a look at the essence of THE YEAR OF RETURN as Ghana becomes a beacon of hope for Africans in the Diaspora . Join in the conversation on +233 (0) 209 578 478  GUESTS  A. Ben Nsiah Planning & Business Development Manager, Ghana Tourism Authority  B. Akwasi Awua Ababio Chair, Year of Return Steering Committee and Director of Diaspora Affairs, Office of the President.  C. Diallo Sumbry Founder and President, The Adinkra Group
+News in Dagbanli @ 6pm live on GTV this and every Tuesday
+News Hour @ 2pm Live on GBC24
+News IN Akan Live on GTV
+Adult Education in Akan Live on GTV
+Women's Voice  ============================ The New Land bill has made some provisions to protect the interest of women and the vulnerable. For instance, the Bill allows properties acquired during marriage to be registered in the joint names of the spouses. Programmes Officer for Women in Law and Development Africa Lois Aduamoah-Addo who is part of the team of civil society organizations pushing for these changes and joins us on Women's Voice with more.
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+Adult Education in Nzema  Live on GTV
+Weekly Press Review\ Live on GBC 24
+Adult education in Ewe
+Reporters Round Table with Rebekah Awuah discusses What the Future holds for Ghana after 62 years of independence and also looks at Challenges affecting Legal Education in Ghana. Call on (233) 0209 578 478 to contribute  Guests: Dr. Eric Oduro Osae Lawyer / Governance Expert  Dr. Kweku Rockson Acting Dean, Centre for lnternational Education and Collaboration, University of Professional Studies, UPSA  Theophilus Dumegah Vice President, Ghana School of Law, Greenhill Campus,2018/2019  Daniel Ofori-Atta Aspiring SRC President, Ghana 🇬🇭 School of Law, Greenhill Campus
+62nd Independence Anniversary Celebration: Live from The Aliu Mahama Sports Stadium, Tamale.  You are watching GTV Live Coverage
+NEWS IN DAGBANLI LIVE ON GBC24/GTV
+NEWS HOUR @2 LIVE ON GBC24
+NEWS IN AKAN LIVE ON GTV/GBC24
+ADULT EDUCATION IN AKAN LIVE ON GTV
+Talking Point live on GBC24 / GTV
+Adult Education in Nzema  Live on GTV
+The Gender Ministry has a lot on it's plate and yet it's budgetary allocation can barely address the myriad of challenges affecting women ,children and the vulnerable. The Gender Minister and MP for Agona West Hon. Cynthia Morrison is our guest, we take a closer look at the issues confronting the sector...  Host: Selikem
+Presidents independence day awards,2019.  Live on GTV and GBC24
+NEWS HOUR @7 LIVE ON GBC24
+NEWS IN EWE LIVE ON GBC24
+WOMEN'S VOICE  Epilepsy, a chronic disorder of the brain characterized by recurrent seizures is often misconstrued and sufferers of the condition are often discriminated against. Women's Voice looks at the misconceptions about Epilepsy.  LIVE ON GBC24
+News Hour @ 2pm Live on GBC 24
+ADULT EDUCATION IN GA LIVE ON GBC24
+NEWS HOUR @7 LIVE ON GBC24/GTV
+NEWS IN DAGBANI LIVE ON GBC24/GTV
+WOMEN'S VOICE DISCUSSES WOMEN CANCER AND PREVENTIVE HEALTH  OUR GUESTS: DR. CHARITY BINKA (GENDER ADVOCATE/MEMBER , NATIONAL CANCER BOARD)  BERNICE ADJEI (DEPUTY D.G., M.D.P.I/MEMBER, NATIONAL CANCER BOARD)  LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS IN AKAN LIVE ON GBC24/GTV
+ADULT EDUCATION IN AKAN LIVE ON GTV
+WOMEN'S VOICE  BREAKING THE SILENCE ON DOMESTIC VIOLENCE - THE STORY OF MICHAELLE MARTIAL  LIVE ON GBC24
+NEWS HOUR @ 2PM LIVE ON GBC24
+Talking Point live GBC24 / GTV
+Major News Bulletin @ 7pm live on GBC24 / GTV
+Women's Voice HOST: Selikem Acolatse-Apaloo ========================== DUSCUSSES: Respect for Child Right in Ghana
+News Hour @ 2pm Live on GBC 24
+WEEKLY PRESS REVIEW  ============================= NOW DISCUSSING: THE STATE OF THE NATION ADDRESS DELIVERED BY: H.E NANA ADDO-DANKWAH AKUFO ADDO
+NEWS HOUR @7 LIVE ON GBC24/GTV
+ADULT EDUCATION IN EWE LIVE ON GBC24
+POST #SONA2019 DISCUSSION
+NEWS HOUR @ 7 LIVE ON GBC24
+NEWS IN GA LIVE ON GTV/GBC24
+NEWS HOUR @7 LIVE ON GBC24/GTV
+NEWS IN DAGBANI LIVE ON GBC24 / GTV
+ADULT EDUCATION IN DAGBANI LIVE ON GBC24
+NEWS HOUR AT 2PM LIVE ON GBC24 / GTV
+NEWS HOUR @7 LIVE ON GBC24
+ADULT EDUCATION IN AKAN LIVE ON GBC24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+Girlz Girlz TV Power Talk Show TOPIC: SELF ESTEEM AND BODY IMAGE
+ADULT EDUCATION IN NZEMA LIVE ON GTV 👁️‍🗨️
+PRESENTATION OF CONSTITUTIONAL INSTRUMENT; OTI REGION LIVE ON GBC24 / GTV GOVERN
+NEWS HOUR @ 7 LIVE ON GBC24
+NEWS IN EWE LIVE ON GBC24
+ADULT EDUCATION IN EWE LIVE ON GBC24
+News Hour @ 2pm Live on GBC24 / GTV
+MAJOR NEWS BULLETIN LIVE ON GBC 24
+PUBLIC PRESENTATION OF THE CONSTITUTIONAL INSTRUMENT FOR THE CREATION OF THE BONO EAST REGION
+NEWS HOUR @ 2PM  LIVE ON GBC24 & GTV
+PUBLIC PRESENTATION OF THE CONSTITUTIONAL INSTRUMENT FOR THE CREATION OF THE NORTH EAST REGION
+NEWS HOUR @7 LIVE ON GBC24
+WOMEN'S VOICE DISCUSSES WHY COUPLES FALL OUT OF LOVE  When two people meet and they say they have found love, it is hardly expected that they will fall out of love. On Women's Voice we find out why couples fall out of love. Dr.Cecilia Tutu-Danquah is Principal of the TUCEE Counseling Institute is guest on the show.  LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+Major News Bulletin Live on GBC 24
+News in Nzema Live on GBC 24
+Adult Education in Nzema Live on GTV
+Weekly Press Review live on GBC24/GTV @ 10:30am
+NEWS HOUR @7 LIVE ON GBC24
+Adult Education in Ewe
+Reporters ROUND TABLE DISCUSSES  POLITICAL PARTY VIGILANTISM Devising new strategies in tackling the problem  LIVE ON GBC24
+NEWS HOUR @ 7 LIVE ON GBC24
+WOMEN'S VOICE DISCUSSES MANAGING COST OF MARRIAGE CEREMONIES IN GHANA  Marriage ceremonies tend to be so expensive that often, newly weds are left indebted before they begin life together as married couple? Join Women's Voice host Selikem as she hosts Rev. Mrs. Regina Kotei who will be giving us some suggestions.
+NEWS HOUR @2 LIVE ON GBC24
+NEWS IN DAGBANI LIVE ON GTV
+NEWS IN AKAN LIVE ON GBC24
+WOMEN'S VOICE DISCUSSES RECOVERING FORM A FINANCIAL DISASTER  Imagine investing your life savings in a ponzi scheme and losing everything? How do you start over? Women's Voice host Selikem today speaks to head of Business Development and Marketing at SAS Finance Group about recovering from financial disasters.
+NEWS HOUR @2 LIVE ON GBC24
+MAJOR NEWS BULLETIN @ 7PM  Live on GBC24/GTV
+Why do many women seem dissatisfied with their looks? How do we cure the craze to forsake our natural beauty and image? Join us as Selikem and Victoria Essinam Assah Offei, a Clinical Psychologist and Assembly Member for Legon Discuss the reasons behind body image dissatisfaction.
+News Hour @ 2pm Live on GBC24
+WEEKLY PRESS REVIEW live on GBC24 / GTV
+NEWS HOUR @7 LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS IN GA LIVE ON GBC24
+ADULT EDUCATION IN GA LIVE ON GBC24
+WOMEN'S VOICE DISCUSSES MORAL UPBRINGING OF CHILDREN: THE ROLE OF PARENTS  Parents owe their children the primary responsibility of imbibing moral instructions in them. Women's Vice host Selikem,speaks to Preacher and Journalist Edward Nyarko about the current parenting standards.  LIVE ON GBC24
+NEWS HOUR @ 2 LIVE ON GBC24
+NEWS IN DAGBANI LIVE ON GBC24
+ADULT EDUCATION IN DAGBANI LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+Adult Education in Akan LIVE ON GBC24
+WOMEN'S VOICE DISCUSSES KIDNAPPINGS: WHY GIRLS ARE VULNERABLE  Join us as Selikem and security expert Irbad Ibrahim discuss why girls are particularly vulnerable to kidnappings.  LIVE ON GBC24
+MAJOR NEWS BULLETIN LIVE ON GBC24 / GTV 👁️‍🗨️
+ADULT EDUCATION IN NZEMA LIVE ON GTV 👁️‍🗨️
+NEWS HOURS @ 2pm
+Outdooring of the new Ya-NA H.R.M ABUBAKARI II
+NEWS IN EWE LIVE ON GBC24
+ADULT EDUCATION IN GA  LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+LEGENDS OF OUR TIME LIVE ON GBC24
+You are watching a live stream of the #ReportersRoundTable:  SAFETY OF JOURNALISTS IN GHANA: A Call on government to demonstrate greater commitment.  Join us and let us know from what part of the world you are watching us.  PHONE-IN: +233 (0) 209 - 578 - 478 TWITTER: @roundtablegh  GUESTS:  KWAKU BOTWE Broadcast Journalism Lecturer, NAFTI  MUHEEB SAEED Program Officer,Media foundation for West Africa  SAMUEL ESHUN Morning Show Host, Radio Gold  ON PHONE: DR. VLADIMIR ANTWI DANSO International Relations Expert
+NEWS HOUR @7 LIVE ON GBC24
+NEWS IN GA LIVE ON GBC24
+ADULT EDUCATION IN AKAN LIVE ON GBC 24
+WOMEN'S VOICE DISCUSSES HABITS THAT FACILITATE CORPORATE SUCCESS  Corporate success is not easy to come by. Transformational Coach, Scofray Nana Yaw Yeboah shares with us habits that facilitate corporate success.  LIVE ON GBC24
+TALKING POINT LIVE ON GBC24
+Major News Bulletin live on GBC24 / GTV @ 7:00pm
+News in Nzema Live on GTV
+Adult Education Nzema
+NEWS HOUR @7 LIVE ON GBC24
+NEWS IN EWE LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+REPORTERS ROUNDTABLE with Rebekah Awuah  PHONE - IN  +233 (0) 20 957 847 8 || Twitter: @rountablegh  Discussing:  FINANCIAL SCAMS AND THEIR REPORTAGE Has the media done its work in educating the people?  RICHARD KUMADOE Fraud & Security Management Consultant  SEDEM OFORI Head, News Gathering & Planning � 3FM  ELVIS DARKO Editor, The Finder Newspaper
+NEWS HOUR @7 LIVE ON GBC24
+News Hour @ 2pm Live on GBC24 / GTV
+NEWS IN DAGBANI LIVE ON GBC24
+ADULT EDUCATION IN DAGBANI LIVE ON GBC24
+NEWS HOUR @7 LIVE ON GBC24
+NEWS IN AKAN LIVE ON GBC24
+Major News bulletin @ 7pm live on GBC24/GTV
+Major News Bulletin Live on GBC 24
+Adult Education in Nzema Live on GTV
+WOMEN'S VOICE DISCUSSES SURVIVING SEXUAL ABUSE: STORY OF THE RURAL GIRL ============================== Surviving sexual abuse takes a lot of perseverance and tenacity. Many victims lose hope and live the scars of their pain but not Patricia Ade, Curator of Dear Beautiful Woman Foundation. She tells her survival story on Women's Voice.
+News Hour @ 2pm Live on GBC 24
+Weekly Press Review Discussing: Arrest Warrant Issued for Menzgold Boss et al
+NEWS HOUR @7 LIVE ON GBC24
+Adult Education in Ewe Live on GTV
+NEWS HOUR @2PM ON GBC24/GTV
+NEWS HOUR @7 LIVE ON GBC24
+NEWS IN GA LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS HOUR @ 7 LIVE ON GBC24
+News in Dagbani LIVE ON GBC24
+ADULT EDUCATION IN DAGBANI
+TALKING POINT LIVE ON GBC24
+NEWS @ 7PM LIVE ON GBC24
+NEWS IN NZEMA LIVE ON GBC24
+NEWS HOUR @ 7 LIVE ON GBC24
+News Hour@7 LIVE ON GBC24
+NEWS HOUR @ 2PM LIVE ON GBC24
+Adult Education in Nzema live on GTV
+Weekly Press Review live on GTV / GBC24
+NEWS HOUR @7 LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+NEWS HOUR @7 LIVE ON GBC24
+NEWS HOUR @2 LIVE ON GBC24
+Major News Bulletin @ 7pm live on GBC24 / GTV
+News Hour @ 2pm live on GBC24 / GTV
+NEWS HOUR @7 LIVE ON GBC24
+NEWS IN AKAN LIVE ON GBC24
+Adult Education in Akan Live on GBC24
+News Hour @2 LIVE ON GBC24
+Talking Point Live on GTV / GBC24
+Major News Bulletin @ 7pm live on GBC24 / GTV
+MAJOR NEWS BULLETIN LIVE ON GTV / GBC24 👁️‍🗨️
+News in Nzema Live on GBC 24
+Adult Education in Ga Live On GTV
+Women's Voice DISCUSSING: WHY MARRIAGE LOSE INTIMACY ============================= Host of Women's Voice Selikem, engages Relationship and Family Consultant, Rev. Mrs. Catherine Onwioduokit on the reasons why intimacy breaks down in some marriages.  Live on GBC24
+News Hour @ 2pm  Live on GBC24/GTV
+Weekly Press Review live on GTV / GBC24
+"WE THE PEOPLE" Topic : Creation of new regions - Yes or No?  Live on GTV...
+News Hour @7 Live on GBC24
+NEWS IN EWE LIVE ON GBC24
+Adult education in Ewe LIVE ON GBC24
+WOMEN'S VOICE  DISCUSSES DEALING WITH THE DEATH OF A CHILD  We hear the story of how Veteran Broadcaster, Selma Alhassan defied the odds of losing a child to now becoming an author of four books. Join as we discuss how to deal with the death of a child.  Host: SELIKEM  live on GBC 24
+News hour @2 LIVE ON GBC24
+NEWS HOUR @7 LIVE ON GBC24
+President Nana Addo Danquah Akuffo Addo meets the press...  Live on GTV  NEWS HOUR @ 7 COMING UP LIVE ON GBC24
+News hour @2 live on GBC24
+Woman to woman...  Topic: Dishes and pastries for the festive season
+NEWS HOUR @ 7 LIVE ON GBC24
+FESTIVAL OF NINE LESSONS AND CAROLS LIVE FROM GTV STUDIO ONE
+NEWS HOUR @ 2 Live on GBC24
+News @7 LIVE ON GBC24
+News in Akan live on GBC24
+ADULT EDUCATION IN AKAN LIVE ON GTV
+NEWS HOUR @2 LIVE ON GBC24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN LIVE ON GBC24 / GTV 👁️‍🗨️
+News In Nzema Live On GBC24 👁️‍🗨️
+Adult Education in Nzema  Live on GTV
+News Hour @ 2 pm  Live on GBC24 / GTV
+Weekly Press Review  Live on GBC24
+News @ 7 LIVE ON GBC24
+NEWS IN EWE LIVE ON GBC24
+ADULT EDUCATION IN EWE LIVE ON GTV
+News Hour @ 2pm Live on GBC 24
+Adult Education in Ga LIVE ON GBC24
+News Hour @ 2PM live on GBC24 / GTV 👁️‍🗨️ (cont..)
+NEWS HOUR @ 2PM LIVE ON GBC24 / GTV 👁️‍🗨️
+News @7 LIVE ON GBC24
+ADULT EDUCATION IN DAGBANI LIVE ON GBC24
+WOMEN'S VOICE DISCUSSES AFLATOXINS AND FOOD SAFETY  HOST: SELIKEM  GUESTS: Dr. Rose Omari(Senior Research Scientist @ CSIR-STEPRI)  LIVE ON GBC24  Join us understand the threat of Aflatoxins said to be found in some of our foods.  Are we and our families at risk?  This Afternoon we are confronting a serious health hazard that surrounds us.
+NEWS @2 LIVE ON GBC24
+SHOWBIZ live on GBC24 / GTV  Hosts: Valerie Danso Guest: M.anifest
+News @7 live on GBC24
+ADULT EDUCATION IN AKAN LIVE ON GBC24
+WOMEN'S VOICE DISCUSSES INCEST AND SEXUAL ABUSE OF CHILDREN  Host: Selikem  Guests:  Louisa Akpoto  Annabella Pwalia  Rosemary Dufie  Live on GBC24  Incest remains one of the commonest forms of violation against women.  As the world marks 16 days of activism against gender based,  Women's Voice looks at incest and how it affects society.
+NEWS @2 LIVE ON GBC24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+NEWS HOUR @7PM ON GBC24/GTV
+NEWS @7 LIVE ON GBC 24
+NEWS @7 LIVE ON GBC24
+ADULT EDUCATION IN EWE LIVE ON GBC24
+WOMEN'S VOICE LIVE ON GBC 24  DISCUSSES CHILD MARRIAGE  HOST, SELIKEM  GUESTS  PROF. CLARA FAYORSEY (DEAN)  Dr. CHARLOTTE GARDINER(LECTURER)  Each year, 12 million girls worldwide are married before the age of 18. Child marriage still happens despite the campaign to end the phenomenon, threatening the potentials of millions of girls  LIVE ON GBC24
+NEWS HOUR @2PM LIVE ON GBC24
+REPORTERS ROUND TABLE ON GBC24
+News @7 LIVE ON GBC24
+ADULT EDUCATION IN GA LIVE ON GTV
+WOMEN'S VOICE  Today, Women's Voice  Host, Selikem  engages our panelists-Education Consultant,  Bismark Adum-Kwapong and  CEO of Adroit 360 Jacob Kwaku Gyan on the subject of Autism and Digital technology
+NEWS @7PM ON GBC24
+NEWS IN DAGBANI ON GBC24
+Adult Education in Dagbani ON GBC24
+News Hour @ 2pm Live on GBC24 / GTV
+NEWS @ 7PM ON GBC24
+ADULT EDUCATION IN AKAN ON GBC24
+WOMEN'S VOICE -  The 2nd AU Girls Summit in Ghana brought focus to several issues affecting women and girls. Host of Women's Voice, Selikem, will be speaking to stakeholders and participants at the summit on the need to end Child Marriage one of the issues highlighted at this year's summit.
+Showbiz
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+NEWS HOUR @7PM ON GBC24/GTV
+Major News Bulletin Live on GBC 24
+News Hour @ 2pm Live on GBC24
+Weekly Press Review Live on GBC24 / GTV
+MAJOR NEWS BULLETIN @ 7PM  LIVE ON GBC24/GTV
+News in Ewe
+Adult Education in Ewe...  Live on GTV
+NEWS @ 2PM ON GBC24
+MAJOR NEWS BULLETIN LIVE ON GBC24 👁️‍🗨️
+FOCUS, LIVE ON GBC UNIIQ FM  TOPIC: ACQUISITION OF TIN NUMBER: Is it deliberate frustration or system challenge?  PRODUCER: FELIX COFIE
+Major News Bulletin @ 7pm on GBC24 / GTV
+NEWS HOUR @7PM ON GBC24/GTV
+News in Akan
+Adult Education in Akan Live on GTV
+Peace at Last in Dagbon
+Major News Bulletin @ 7pm on GBC24 / GTV
+Major News Bulletin @ 7pm on GBC24 / GTV
+New Hour @ 2pm Live on GBC24
+Weekly Press Review Live on GBC24
+NEWS HOUR @ 2PM LIVE ON GBC24/GTV
+WOMEN'S VOICE  The experience of the hundreds of bankers who were hit by Ghana's banking crisis is a typical example of a career crisis. However, should your career be hit by a crisis like that or any other, what do you do?  Managing Director of 360gv Group / HR Consultant, Vida Kye Darko joins us on Women's Voice hosted by Selikem with some interesting solutions.
+News Hour @ 2pm live on GBC24 / GTV
+Presentation of Roadmap for Dagbon Peace Process
+Major News Bulletin @ 7pm live on GBC24
+News Hour @ 2pm
+Adult Education in Akan
+CG'S WOMEN'S VOICE -12-11-2018  HOST: Selikem Acolatse-Apaloo  GUEST(S):  THELMA QUAYE (CO-FOUNDER, NETGUARD GROUP COMPANY LTD.)  DISCUSSING: THE IMPACT OF WOMEN IN THE TECH WORLD  WHATSAPP OR TEXT: 0245-780116  FACEBOOK: WOMEN'S VOICEGBC24  EMAIL: WOMENSVOICE24@GMAIL.COM  TWITTER: @WOMENSVOICEGBC24
+News Hour @ 2pm Live on GBC24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC 24
+Weekly Press Review Live on GBC24
+MAJOR NEWS BULLETIN @ 7PM  LIVE ON GBC24/GTV
+Adult Education/News in Ewe...
+2019 Budget Statement from the Parliament House Accra live on GTV Govern / GBC24 / GTV
+Major News Bulletin @ 7pm on GBC24 / GTV
+Adult Education in Dagbanli
+News Hour @ 2pm Live on GBC 24
+NEWS HOUR @7PM ON GBC24/GTV
+News in Akan
+Adult Education in Akan
+Women's Voice  HOST: SELIKEM ACOLATSE APALOO  GUEST(S):  TERRY MANTE (MANAGEMENT CONSULTANT AND AUTHOR)  DISCUSSING:  MAXIMISING YOUR TALENTS  WHATSAPP OR TEXT: 0245-780116  FACEBOOK: WOMEN'S VOICE GBC24  EMAIL: WOMENSVOICE24@GMAIL.COM  TWITTER: @WOMENSVOICEGBC24
+News Hour @ 2pm Live on GBC 24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+Major News Bulletin Live on GBC24
+News in Nzema Live on GBC24
+Adult Education/ News in Nzema Live on GBC 24
+WEEKLY PRESS REVIEW LIVE ON GBC24 👁️‍🗨️
+MAJOR NEWS BULLETIN @7PM  LIVE ON GBC24/GTV
+Adult Education and News in Ewe  Live on GTV
+News Hour @ 2pm on GBC24 / GTV
+MAJOR NEWS BULLETIN LIVE ON GBC 24 👁️‍🗨️
+MAJOR NEWS BULLETIN @ 7PM live on GBC24 / GTV
+ADULT EDUCATION / NEWS in DAGBANLI live on GTV
+NEWS HOUR @ 2PM on GBC24 / GTV
+SHOWBIZ
+NEWS HOUR @7PM ON GBC24/GTV
+NEWS IN AKAN
+ADULT EDUCATION IN AKAN
+News Hour @ 2pm Live on GBC24
+Public Lecture by HRH The Prince of Wales.  Live: Accra International Conference Centre.
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN
+Adult Education /News in Nzema Live on GBC24 /GTV
+News Hour @ 2pm Live on GBC24
+Arrival of the Prince of Wales, Prince Charles, and The Duchess of Cornwall, Camilla
+Weekly Press Review Live on GBC 24
+MAJOR NEWS BULLETIN @ 7PM  LIVE ON GBC24/GTV
+Adult Education/News in Ewe  Live on GTV
+NEWS HOUR @ 2PM ON GBC24
+MAJOR NEWS BULLETIN LIVE ON GBC24 👁️‍🗨️
+NEWS IN GA LIVE ON GBC24 👁️‍🗨️
+ADULT EDUCATION IN GA LIVE ON GTV 👁️‍🗨️
+News Hour @ 2pm Live on GBC24
+MAJOR NEWS BULLETING @ 7:00PM ON GBC24 / GTV
+Adult Education in Dagbanli Live on GTV
+NEWS HOUR @ 2PM LIVE ON GBC24
+MAJOR NEWS BULLETIN @7PM ON GBC24/GTV
+NEWS IN AKAN
+ADULT EDUCATION IN AKAN / NEWS IN AKAN
+News Hour @ 2pm Live on GBC 24
+SHOWBIZ - Time with a music Phenomenon - Diana Antwi Hamilton
+Major News Bulletin Live on GBC 24
+Adult Education in Nzema Live on GTV
+GBC LIVE BROADCASTING
+GBC LIVE BROADCAST
+MAJOR NEWS BULLETIN @7PM  LIVE ON GBC24
+Adult Education/News in Ewe  Live On GTV
+REPORTERS ROUNDTABLE  CAPTION: SAFETY OF JOURNALISTS - THE CASE OF JAMAL KHASHOGGI, Empowering Citizens to demand answers  HOST: REBEKAH AWUAH  GUESTS  ROLAND AFFAIL MONNEY - President ,Ghana Journalists Association  A. TEYE KITCHER - Head of News, Radio Ghana  B. FELICIA ANTHONIO - Media foundation for West Africa C.  SEDEM OFORİ - Head News Gathering and Planning, 3FM  ON PHONE  DR. VLADIMIR ANTWI DANSO - International Relations Expert  "WHATSAPP OR TEXT:" 0244-475- 422  PHONE-IN 0209-578-478  FACEBOOK LIVE Ghana Broadcasting Corporation  TWITTER: @roundtablegh
+ADULT EDUCATION IN GA LIVE ON GTV 👁️‍🗨️
+NEWS HOUR @GBC24
+MAJOR NEWS BULLETIN @ 7PM on GBC24 / GTV
+ADULT EDUCATION / NEWS IN DAGBANLI
+News Hour @ 2pm Live on GBC 24
+News@GBC 24 MAJOR NEWS BULLETIN
+NEWS IN AKAN
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC 24
+MAJOR NEWS BULLETIN LIVE ON GBC24 👁️‍🗨️
+NEWS IN NZEMA LIVE ON GBC24 👁️‍🗨️
+Adult Education in Nzema Live on GTV
+News Hour @ 2pm Live on GBC 24
+WEEKLY PRESS REVIEW
+MAJOR NEWS BULLETIN @ 7PM ON GBC24/GTV
+Adult Education/News in Ewe Live On GTV
+NEWS HOUR @ 2PM on GBC24 / GTV
+ZEROING IN ON ENDING HUNGER. Transforming our Food Systems to Transform our World  HOST: REBEKAH AWUAH  GUESTS: ABEBE HAILE GABRIEL FAO Representative || Regional Programme leader for Africa  RUKIA YACOUB Country Director World Food programme  THE CHAT Supporting senior citizens to age within a community  EMMANUEL ARMAH KOFI BUAH Member of Parliament Ellembelle  "WHATSAPP OR TEXT 0244-475-422  PHONE-IN 0209-578 478  FACEBOOK LIVE Ghana Broadcasting Corporatio  TWITTER" :@roundtablegh
+MAJOR NEWS BULLETIN LIVE ON GBC24 👁️‍🗨️
+NEWS HOUR @ 2PM  ON GBC24/GTV
+Major News Bulletin Live on GBC 24
+Adult Education in Dagbanli Live on GTV
+NEWS HOUR @ 2PM on GBC24 / GTV
+MAJOR NEWS BULLETIN @7PM ON GBC24/GTV
+NEWS IN AKAN
+ADULT EDUCATION IN AKAN
+WOMEN'S VOICE HOST: SELIKEM ACOLATSE APALOO  GUEST: GLORIA YANKSON(FOUNDER/DIRECTOR CANCER CONNECT GH.)  DISCUSSING: WOMEN, BREAST CARE AND CANCER
+NEWS HOUR LIVE ON GTV / GBC24 @ 2PM
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+NEWS IN NZEMA LIVE ON GBC24
+ADULT EDUCATION IN NZEMA LIVE ON GTV
+Islam and Life. Topic: Transforming lives through education  Live on GTV Life
+Islam and Life Live on GTV Life
+News Hour @ 2pm Live on GBC 24 / GTV
+WEEKLY PRESS REVIEW
+WEEKLY PRESS REVIEW
+MAJOR NEWS BULLETIN @ 7:00PM on GBC24 / GTV
+MAJOR NEWS BULLETIN @ 7:00PM on GBC24 / GTV
+Adult education/news in Ewe Live on GTV
+News Hour @ 2 pm Live on GBC 24
+Major News Bulletin Live on GBC 24
+New in Ga Live on GBC 24
+Adult Education in Ga Live on GTV
+News Hour @ 2pm Live on GBC 24
+Show Biz Live on GBC 24  Host: Rebecca Awuah
+MAJOR NEWS BULLETIN @ 7:00PM on GBC24 / GTV
+ADULT EDUCATION in DAGBANLI / NEWS in DAGBANLI
+WOMEN'S VOICE - 09/10 2018  HOST: SELIKEM ACOLATSE APALOO  TOPIC: FROM SURVIVING DOMESTIC VIOLENCE TO BUILDING AN INTERNATIONAL BRAND  GUEST: CINDY TAWIAH (FOUNDER, DIVA BY CINDY HAIR CARE PRODUCTS)
+NEWS HOUR @ 2:00PM on GBC24 / GTV
+Major News Bulletin Live on GBC 24
+News in Akan Live on GBC 24
+Adult Education in Akan Live on GTV
+Womens' Voice  DISCUSSING:- Overcoming Barriers Hindering the Progress of Girls  HOST: Selikem Acolatse Apaloo  GUEST(S):- 1. Nana Ama Oforiwa Sam(Gender Advisor, Plan International Ghana)  2. Florence Ayisi Quartey (Ag. Dir, Dept. of Children Ministry of Gender)  3. Gbele Jamila (Wa Senior High School)  4. Shine Bediako (National Children and Youth Advisory Board)  5. Aminatu Amadu (Kwamoso Junior High School)
+News Hour @ 2pm Live on GBC 24
+TALKING POINT LIVE ON GBC 24
+NEWS @ 7 PM LIVE ON GBC 24
+Major News Bulletin Live on GBC 24
+News in Nzema Live on GBC 24
+Adult Education in Nzema Live on GTV
+NEWS HOUR @2PM ON GBC24/GTV
+WEEKLY PRESS REVIEW LIVE on GBC24
+Weekly Press Review Live on GBC 24
+WOMEN'S VOICE  HOST: SELIKEM ACOLATSE APALOO  GUESTS  1. NANA AMA BENSON (MISS GHANA 2018)  2. LAILA ISSAKA (FIRST RUNNER-UP, MISS GHANA 2018)  3. ELIZABETH MARY MACLEAN (SECOND RUNNER- UP, MISS GHANA 2018)  DISCUSSING  THE JOURNEY TO BE A BEAUTY QUEEN  WHATSAPP OR TEXT: 0245-780116  FACEBOOK: WOMEN'S VOICE GBC24  EMAIL: WOMENSVOICE24@GMAIL.COM  TWITTER: @Women's Voice GBC24
+WOMEN'S VOICE  HOST: SELIKEM ACOLATSE APALOO  GUESTS  1. NANA AMA BENSON (MISS GHANA 2018)  2. LAILA ISSAKA (FIRST RUNNER-UP, MISS GHANA 2018)  3. ELIZABETH MARY MACLEAN (SECOND RUNNER- UP, MISS GHANA 2018)  DISCUSSING  THE JOURNEY TO BE A BEAUTY QUEEN  WHATSAPP OR TEXT: 0245-780116  FACEBOOK: WOMEN'S VOICE GBC24  EMAIL: WOMENSVOICE24@GMAIL.COM  TWITTER: @WOMENSVOICEGBC24
+NEWS HOUR @ 2PM on GBC24 / GTV
+TOPIC I: Promoting the use of the Mother Tongue  NANA KWASI GYAN - APENTENG Chairman, National Media Commission  TOPIC I I: CYBERCRIME AND SECURITY AWARENESS Is Ghana well-equipped to deal with the challenge ?  OSEI BONSU DICKSON Chief Legal Advisor & SGI National Coordinator  RICHARD KUMADOE Fraud and Security Management Consultant  KWAMI AHIABENU II Executive Secretary, Penplusbytes
+Major News Bulletin Live On GBC24
+Major News Bulletin Live On GBC24
+Adult Education in Ga Live on GTV
+News Hour @ 2pm Live on GBC24
+GTV Tele Market GRAND SALE 2018, LIVE FROM TRADE FAIR, ACCRA
+MAJOR NEWS BULLETIN on GBC24 / GTV
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+News Hour @2pm Live on GBC 24
+SHOWBIZ (GHANA READING FESTIVAL)
+NEWS IN AKAN
+Adult Education in Akan Live on GTV
+Womens' Voice, Live on GBC 24  Topic: Navigating the Corporate World as a Christian.  Host: Selikem Acolatse Apaloo  Guest: Scofray Nana Yaw Yeboah (Author | Motivational Coach)
+News Hour @ 2pm Live on GBC 24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN @ 7PM on GTV / GBC24
+NEWS IN NZEMA
+Adult Education in Nzema Live on GTV
+New Hour @ 2pm Live on GBC 24
+WEEKLY PRESS REVIEW
+WEEKLY PRESS REVIEW
+MAJOR NEWS BULLETIN @ 7PM on GTV / GBC24
+ADULT EDUCATION IN EWE
+NEWS HOUR @ 2PM ON GBC24/GTV
+HOST: REBEKAH AWUAH  CAPTION: LAND ADMINISTRATION AND GOVERNANCE IN GHANA  Dealing with the challenges and the way forward Disability Issues in Ghana: Breaking the silence  GUESTS: NANA AMA YIRRAH  Executive Director, Community Land and Development Foundation -COLANDEF  DR. STANISLAUS ADIABA  Policy and Research Division, Lands Commission  ALEXANDER BANKOLI| WILLIAMS  Spokesperson, Ghana Federation of Disability Organizations  WHATSAPP OR TEXT: 0244 -475 - 422  PHONE-IN: 0209 - 578 - 478  FACEBOOK LIVE: Ghana Broadcasting Corporation  TWITTER: @roundtablegh
+HOST: REBEKAH AWUAH  CAPTION: LAND ADMINISTRATION AND GOVERNANCE IN GHANA  Dealing with the challenges and the way forward Disability Issues in Ghana: Breaking the silence  GUESTS: NANA AMA YIRRAH  Executive Director, Community Land and Development Foundation -COLANDEF  DR. STANISLAUS ADIABA  Policy and Research Division, Lands Commission  ALEXANDER BANKOLI| WILLIAMS  Spokesperson, Ghana Federation of Disability Organizations  WHATSAPP OR TEXT: 0244 -475 - 422  PHONE-IN: 0209 - 578 - 478  FACEBOOK LIVE: Ghana Broadcasting Corporation  TWITTER: @roundtablegh
+Major News Bulletin Live on GBC 24
+Adult Education in GA Live on GTV
+News Hour @ 2pm Live on GBC 24
+MAJOR NEWS BULLETIN @ 7PM on GBC24 / GTV
+ADULT EDUCATION in DAGBANLI
+NEWS HOUR @ 2:00PM on GBC24
+MAJOR NEWS BULLETIN @7PM ON GBC24/GTV
+NEWS IN AKAN
+ADULT EDUCATION IN AKAN
+NEWS HOUR @ 2PM on GBC24
+MAJOR NEWS BULLETIN @ 7PM on GBC24 / GTV
+NEWS HOUR @ 2PM on GBC24
+WEEKLY PRESS REVIEW (GBC24)
+Major News Bulletin Live on GBC 24
+News in Ewe Live on GBC 24
+Adult Education in Ewe Live on GTV
+WOMEN'S VOICE - 20 -09 - 2018  HOST: SELIKEM ACOLATSE APALOO  GUEST(S): 1. CINDY OFORI - APPIAH (FOUNDER, POLYCYSTIC OVARIAN SYNDROME FOUNDATION)  DISCUSSING: CERVICAL CANCER ON THE RISE IN GHANA.  WHATSAPP OR TEXT: 0245-780116  FACEBOOK: WOMEN'S VOICE GBC24  EMAIL: WOMENSVOICE24@GMAIL.COM  TWITTER: @ WOMENSVOICEGBC24
+NEWS HOUR @ 2PM on GTV & GBC24
+THE REPORTERS ROUND TABLE  Discussing:  I. Investing in the Youth - March towards a prosperous future  II. Playing by the Insurance rules for survival  HOST: REBEKAH AWUAH  GUESTS: DR. KWAKU ANANE-GYINDE Journalist || Governance Expert  RICHARD MENSAH News Editor CITI FM  KWAME DANSO Journalist || STARR FM  JUSTICE YAW OFORI CEO National Insurance Commission  WHATSAPP: 02444 75 422  PHONE-IN: 0209 578 478  TWITTER: @ roundtablegh  FACEBOOK LIVE: Ghana Broadcasting Corporation
+MAJOR NEWS BULLETIN @ 7PM on GTV & GBC24
+ADULT EDUCATION in GA on GTV
+News Hour @ 2pm Live on GBC 24
+MAJOR NEWS BULLETIN @ 7PM on GTV24 / GTV
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR at 2:OOPM on GBC24
+Women's Voice on GBC24 & GTV.  Topic: Cervical Cancer on the rise in Ghana.  Guests: 1.) Mizti Zormelo, (Founder, Aristoland Montessori Centre). 2.) Dr. Naa Adorkor Sodzi-Tettey, (President, Medical Women Association of Ghana). 3.) Prof. Afua Hesse, (President, Accra College of Medicine).  Host: Selikem Acolatse-Apaloo  Join the discussion via Whatsapp or Text: 0245-780116 Facebook: Women's Voice GBC24 Email: Womensvoice24@gmail.com Twitter: WomensvoiceGBC24
+News Hours @ 2pm Live on GBC 24
+Major News Bulletin Live on GBC 24
+News Hour @ 2pm Live on GBC 24
+WEEKLY PRESS REVIEW @ 10AM ON GTV24
+Major News Bulletin Live on GBC 24
+NEWS HOUR ON GTV24 / GTV @ 2:00PM
+THE STATE FUNERAL SERVICE OF THE FORMER UN SECRETARY GENERAL -KOFI ATTA ANNAN
+THE STATE FUNERAL SERVICE OF THE FORMER UN SECRETARY GENERAL -KOFI ATTA ANNAN
+THE STATE FUNERAL SERVICE OF THE FORMER UN SECRETARY GENERAL -KOFI ATTA ANNAN
+HONOURING KOFI ANNAN (DAY 3)  - FILING PAST BY DIGNITARIES
+Major News Bulletin Live on GBC 24
+HONOURING KOFI ANNAN (DAY 2)  - FILING PAST BY DIGNITARIES
+HONOURING KOFI ANNAN (DAY 2)  - FILING PAST BY DIGNITARIES
+MAJOR NEWS BULLETIN @ 7PM on GTV / GTV24
+THE FUNERAL SERVICE OF: Dr. KOFI ATTA ANNAN - FILLING PAST BY THE GENERAL PUBLIC
+THE FUNERAL SERVICE OF: Dr. KOFI ATTA ANNAN - FILLING PAST BY THE PUBLIC
+DISCUSSING NOW WHO THE MAN KOFI ANNAN WAS BOTH as a SECRETARY GENERAL of the UNITED NATIONS and an ORDINARY PERSON
+MAJOR NEWS BULLETIN @ 7PM on GTV and GTV24
+The remains of Kofi Annan arrives in Ghana
+The mortal remains of Mr. Kofi Atta Annan will arrive at the Kotoka International Airport on Monday 10 September 2018 at 1600 hours. It will be received by His Excellency the President at a brief military ceremony.  The mortal remains will lie in state for filing past and paying of last respect by the public and dignitaries respectively on Tuesday, 11 and Wednesday, 12 September, 2018, at the Foyer of the Accra International Conference Centre (AICC) from 1000 to 1600 hours daily.
+NEWS HOUR @2PM ON GBC24/GTV
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN @ 7PM LIVE on GTV / GTV24
+NEWS in NZEMA
+ISLAM and LIFE live on GTV & GTV LIFE
+NEWS HOUR @ 2PM on GBC24
+WEEKLY PRESS REVIEW live on GTV 24
+GBC Major News Bulletin LIVE ON GBC 24
+NEWS IN EWE LIVE ON GBC 24
+ADULT EDUCATION IN EWE
+NEWS HOUR @ 2PM LIVE GBC 24
+TOPIC I : THE NATIONAL CATHEDRAL PLAN  Is it a purely political or faith based issue?  TOPIC II: Fiscal Decentralization Reforms in Ghana  HOST: REBEKAH AWUAH  GUESTS: 1. DR.ERIC ODURO – OSAE Lawyer || Governance Expert  2. DR.SAMUEL ONWONA Economist || Vice Chairman, Scripture Union National Advisory Council  3. CLARA NAPAGA TIA SULEMANA Presidential Liaison for the Cathedral  4. REV. KUSI BOATENG Secretary -Board of Trustees,The Cathedral  Kindly Contribute to the Live Show on:  WHATSAPP OR TEXT: 0244 -475 - 422  PHONE-IN : 0209 - 578 - 478  FACEBOOK LIVE :Ghana Broadcasting Corporation  TWITTER : @roundtablegh
+GBC Major News Bulletin Live on GBC 24
+News in Ga Live on GBC 24
+GTV ADULT EDUCATION Ga: Sane Yitso
+NEWS HOUR @ 2PM live on GTV24
+MAJOR NEWS BULLETIN @ 7PM live on GTV & GTV24
+NEWS IN DAGBANLI
+ADULT EDUCATION in DAGBANLI live on GTV
+NEWS HOUR AT 2PM LIVE ON GBC 24
+MAJOR NEWS BULLETIN @7PM ON GBC24/GTV
+NEWS IN AKAN ON GTV
+ADULT EDUCATION IN AKAN LIVE ON GTV
+WOMEN'S VOICE LIVE
+TALKING POINT LIVE ON GBC 24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN @ 7PM on GTV24
+NEWS in NZEMA
+ADULT EDUCATION in NZEMA
+ISLAM and LIFE
+NEWS HOUR @ 2PM ON GTV24
+WEEKLY PRESS REVIEW
+Major News Bulletin @7PM on GBC24/GTV
+News in Ewe
+Adult Education in Ewe
+Ghana, Germany Business Dialogue
+NEWS HOUR @2PM
+THE CHAT EMPOWERING SMEs IN GHANA FOR GLOBAL COMPETITIVENESS  SECOND SEGMENT: LIQUIDATION OF GHANA FOOTBALL ASSOCIATION. WHAT WOULD HAVE BEEN THE FATE OF OUR FOOTBALL IF FIFA HAD NOT INTERVENED?  WHATSAPP OR TEXT; 0209578478
+GTV Adult Education
+"IT IS THE RESPONSIBILITY OF MANAGEMENT AND NOT STAFF TO ENSURE EFFICIENCY AND HIGH PRODUCTIVITY IN PUBLIC SERVICE ORGANISATION"
+"IS IT THE RESPONSIBILITY OF MANAGEMENT AND NOT STAFF TO ENSURE EFFICIENCY AND HIGH PRODUCTIVITY IN PUBLIC SERVICE ORGANISATION"
+NEWS HOUR @ 2:00PM
+MAJOR NEWS BULLETIN @ 7PM on GTV24
+WOMEN'S VOICE ( BUILDING A SUCCESSFUL CAREER IN FASHION DESIGN )  HOST: SELIKEM ACOLATSE APALOO  GUEST: CHARLOTTE ASHAMU ( FOUNDER / CEO, DABIRA )
+News Hour at 2pm Live on GBC 24
+MAJOR NEWS BULLETIN @7PM ON GBC24/GTV
+NEWS IN AKAN
+ADULT EDUCATION IN AKAN
+WOMEN'S VOICE  ( WOMEN IN HOSPITALITY INDUSTRY )  HOST:  SELIKEM ACOLATSE APALOO  GUEST:  WILHELMINA APPENTENG (LEAD CONSULTANT, INTRIGUED BY SERVICE CONSULTING)  ADAWOA ODURO (SENIOR MANAGER, INTRIGUED BY SERVICE CONSULTING)
+NEWS HOUR @ 2:00PM on GTV24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN @ 7:00PM on GTV24
+NEWS in NZEMA on GTV
+ADULT EDUCATION IN NZEMA
+NURTURING YOUNG TALENTS
+NEWS HOUR LIVE @ 2:00PM LIVE on GTV24
+WEEKLY PRESS REVIEW Live on GTV24
+GBC 24 Major News Bulletin
+NEWS HOUR @ 2:00PM ON GTV24
+Discussing:  Celebrating a global statesman - Busumuru Kofi Annan  FOLKLORE & STORYTELLING Keeping the Oral Literary Tradition of Ghana  Guests DR. VLADIMIR ANTWI-DANSO Dean, Ghana Armed Forces Command and Staff College  NANA ADJOA ADOBEA ASANTE Lawyer || Chair, National Folklore Board  Dr. MAWULI ADJEI Snr. Lecturer, English Dept. Univ. of Ghana  BERNICE DEH KUMAH Deputy Dir, Programs, National Commission on Culture  Facebook : Reporters ROUND TABLE  Twitter : @roundtablegh
+Discussing:  Celebrating a global statesman - Busumuru Kofi Annan  FOLKLORE & STORYTELLING Keeping the Oral Literary Tradition of Ghana  Guests DR. VLADIMIR ANTWI-DANSO Dean, Ghana Armed Forces Command and Staff College  NANA ADJOA ADOBEA ASANTE Lawyer || Chair, National Folklore Board  Dr. MAWULI ADJEI Snr. Lecturer, English Dept. Univ. of Ghana  BERNICE DEH KUMAH Deputy Dir, Programs, National Commission on Culture  Facebook : Reporters ROUND TABLE  Twitter : @roundtablegh
+Major News Bulletin Live on GBC 24
+NEWS HOUR AT 2 PM LIVE ON GTV 24
+MAJOR NEWS BULLETIN @ 7:00PM on GTV24
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR @ 2:0PM on GTV24
+News at 7pm Live on GTV24
+News in Akan Live on GBC 24
+WOMEN'S VOICE LIVE ON GBC 24
+NEWS HOUR @ 2:00PM LIVE ON GBC 24
+MEET THE PRESS (MINISTRY OF AVIATION)
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN at 7PM on GTV24
+ADULT EDUCATION in NZEMA
+'ISLAM & LIFE' Live from GTV Islam and Life Ghana
+NEWS HOUR AT 2 PM LIVE ON GTV 24
+Major News Bulletin Live on GBC 24
+News Hour @ 2pm Live on GBC 24
+We explore sustainable actions to improve Secondary Education delivery and outcomes in Ghana.  GUESTS: Prof. Ivan Addae-Mensah, Former Vice Chancellor, University of Ghana,  Mr. Charles Aheto Tsegah- Former Director General, Ghana Education Service,  Mr. Kofi Asare, Member of the Ghana National Education Campaign Coalition-GNECC.  The second segment - ‘THE CHAT’ will take a look at how Ghana can create an efficient Port System for improved Trade with the Director of Tema Port, Mr. Edward Kofi Asare, a legal and financial brain.  Facebook: Reporters ROUND TABLE. Twitter: @roundtablegh
+Major News Bulletin Live on GBC 24
+GTV Adult Education in Ga
+News Hour @ 2pm Live on GBC 24
+Major News Bulletin Live on GBC 24
+GTV Adult Education
+News Hour @ 2pm Live on GBC24
+MAJOR NEWS BULLETIN @7PM ON GBC24
+ADULT EDUCATION IN AKAN
+News Hour @ 2pm Live on GBC 24
+TALKING POINT LIVE ON GBC24
+NEWS @ 7 PM LIVE ON GBC24
+MAJOR NEWS BULLETIN @ 7:00 PM
+ISLAM & LIFE
+NEWS HOUR @ 2:00PM
+WEEKLY PRESS REVIEW ON LIVE GTV24
+MAJOR NEWS BULLETIN @ 7:00PM
+NEWS IN EWE
+ADULT EDUCATION IN EWE
+EARNING A MAN'S RESPECT IN A RELATIONSHIP  GUEST: EDWARD NYARKO (PREACHER LOGUS RHEMA COMMUNITY ASSEMBLY/ JOURNALIST GBC)  WHATSAPP or TEXT : 0245780116  FACEBOOK: WOMEN'S VOICE GBC24  EMAIL: WOMENSVOICE24@GMAIL.COM  TWITTER: Women's Voice GBC24
+News Hour
+MAJOR NEWS BULLETIN@ 7:00PM
+News in Ga
+Adult Education in Ga
+NEWS HOUR @ 2PM LIVE ON GTV
+LAUNCH OF THE NATIONAL PUBLIC SECTOR REFORM STRATEGY 2018 - 2023
+MAJOR NEWS BULLETIN @ 7:00 PM
+NEWS IN DAGBANI LIVE ON GBC24
+ADULT EDUCATION IN DAGBANI
+NEWS HOUR @ 2PM LIVE ON GBC24
+ADULT EDUCATION, AKAN
+WOMEN'S VOICE LIVE ON GTV
+NEWS HOUR @ 2:PM LIVE ON GBC 24
+Major News Bulletin Live on GTV and GBC 24
+GBC GHANA NEWS IN NZEMA LIVE ON GBC 24
+News Hour @ 2pm Live on GBC 24
+WEEKLY PRESS REVIEW LIVE ON GTV
+NEWS HOUR AT 2PM ON GTV24
+News@7pm: Still to come Gov't urged to raise $90 bn from GSE to tackle infrastructure
+MAJOR NEWS BULLETIN @7PM ON GBC24
+NEWS IN AKAN
+ADULT EDUCATION IN AKAN
+WOMEN'S VOICE LIVE ON GBC24
+NEWS @ 2 PM LIVE ON GBC24
+SHOWBIZ LIVE ON GBC24
+TALKING POINT LIVE ON GBC24
+MAJOR NEWS BULLETIN @ 7PM on GBC24
+NEWS IN NZEMA
+ADULT EDUCATION IN NZEMA
+NEWS HOUR @ 2 PM LIVE ON GBC24
+THE STATE FUNERAL SERVICE OF THE FORMER VICE PRESIDENT PAA KWESI BEKOE AMISSAH-ARTHUR
+MAJOR NEWS BULLETIN @ 7 PM LIVE ON GBC24
+NEWS IN EWE LIVE ON GBC 24
+FUNERAL SERVICE OF THE LATE VICE PRESIDENT PAA KWESI AMISSAH -ARTHUR
+THE FUNERAL SERVICE OF THE LATE FORMER VICE PRESIDENT H.E PAA KWESI AMISSAH-ARTHUR #RIPAmissahArthur
+THE FUNERAL SERVICE OF: H.E. PAA KWESI AMISSAH-ARTHUR
+Major News Bulletin Live on GBC 24
+NEWS IN GA, LIVE ON GBC 24
+There will be a live streaming of the Filing past of the Late Kwesi Amissah-Arthur on Thursday at 6am
+MAJOR NEWS BULLETIN @ 7:00PM on GBC24
+There will be a live streaming of the File past of the Late Kwesi Amissah-Arthur on Thursday at 6am
+NEWS IN DAGBANLI
+ADULT EDUCATION IN DAGBANLI
+NEWS HOUR @ 2 PM LIVE ON GBC24
+2018 NATIONAL POLICY SUMMIT ON THE ECONOMY
+2018 NATIONAL POLICY SUMMIT ON THE ECONOMY
+ADULT EDUCATION IN AKAN
+NEWS HOUR @ 2 PM LIVE ON GBC24
+SHOW BIZ LIVE
+MAJOR NEWS BULLETIN @ 7:00PM on GBC24
+NEWS in NZEMA
+ADULT EDUCATION in NZEMA
+WOMEN'S VOICE LIVE on GBC24
+NEWS HOUR @ 2 PM LIVE ON GBC24
+Weekly Press Review on GBC24
+Major News Bulletin Live on GBC 24
+GBC 24 News in Ewe #ewe #ghananews
+Adult Education Live on GTV
+Women's voice on GBC24
+NEWS HOUR @ 2PM LIVE ON GBC 24
+STREAMING LIVE THE MID-YEAR ECONOMIC REVIEW (BUDGET) FROM THE PARLIAMENT HOUSE.
+Major News Bulletin Live on GBC 24
+NEWS HOUR on GBC24 @ 2:00PM
+MAJOR NEWS BULLETIN on GBC24 @ 7:00PM
+NEWS in DAGBANLI
+ADULT EDUCATION in DAGBANLI
+WOMEN'S VOICE on GBC24 brings you the untold story of international award winning journalist ESTHER ARMAH
+NEWS HOUR @ 2PM
+ADULT EDUCATION IN AKAN
+WOMEN'S VOICE
+NEWS HOUR @ 2:00pm on GBC24
+MAJOR NEWS BULLETIN @ 7:00 pm on GBC24
+NEWS IN NZEMA
+ADULT EDUCATION in NZEMA
+NEWS HOUR @ 2:00 pm on GBC24
+WEEKLY PRESS REVIEW live on GBC24
+Major News Bulletin Live on GBC 24
+News Hour @ 2:00 pm Live on GBC24
+MAJOR NEWS BULLETIN 7:00pm
+NEWS HOUR AT 2PM LIVE FROM GBC24
+News in Akan
+ADULT EDUCATION IN AKAN
+NEWS HOUR @ 2 PM ON GBC 24
+NEWS HOUR @ 2PM LIVE FROM GBC 24
+MAJOR NEWS BULLETIN @ 7:00PM
+ADULT EDUCATION in NZEMA
+NEWS HOUR @ 2PM LIVE ON GBC 24
+WEEKLY PRESS REVIEW LIVE ON GBC 24
+WEEKLY PRESS REVIEW LIVE ON GBC 24
+GBC Major News @ 7pm Live from GBC 24
+News in Ewe Live from GBC 24
+Adult Education in Ewe Live from GTV
+NEWS HOUR @ 2PM LIVE FROM GBC 24
+Major News @ 7pm Live from GBC 24
+Adult Education (Ga) , Live From GTV -Maŋbii Akɔntaabuu
+NEWS HOUR @ 2PM LIVE FROM GBC 24
+ADULT EDUCATION IN NZEMA LIVE FROM GTV
+NEWS HOUR @ 2PM LIVE FROM GBC 24
+WEEKLY PRESS REVIEW LIVE FROM GBC 24
+WEEKLY PRESS REVIEW LIVE FROM GBC 24
+#NEWS HOUR GBC 24 LIVE
+PRIME NEWS @ 7 PM
+NEWS HOUR@ 2:00PM LIVE ON GBC 24
+Sorry our corporate and broadcast policy does not permit us to stream live the international news. FIFA policy also prevents us from streaming the Sports news for now since it carries stories and video excerpts of the world cup. We are sorry for any inconveninence caused. Thanks.
+WEEKLY PRESS REVIEW
+WEEKLY PRESS REVIEW
+WEEKLY PRESS REVIEW
+WEEKLY PRESS REVIEW
+ISSUES ON TRAMADOL ABUSE WATCH HERE FULL DISCUSSION HERE: https://youtu.be/5iPh92JTgFM
+STATE OF THE NATION ADDRESS -Live from Parliament House
+PRESIDENT'S ENCOUNTER WITH THE MEDIA
+Weekly Press Review
+The Good News is you can register and pay anywhere and anytime. Dial *488# to make TV LICENCE payment. Click here to register http://tvlicence.com.gh/register.php
+1789794727706829The Good News is you can register and pay anywhere and anytime. Dial *488# to make TV LICENCE payment. Click here to register http://tvlicence.com.gh/register.php, 

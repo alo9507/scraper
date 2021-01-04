@@ -13,11 +13,10 @@ import pdb
 from botocore.errorfactory import ClientError
 from decouple import config
 
+ssl._create_default_https_context = ssl._create_unverified_context
+
 AWS_ACCESS_KEY_ID = config('AWS_ACCESS_KEY_ID')
 AWS_SECRET_ACCESS_KEY = config('AWS_SECRET_ACCESS_KEY')
-print(AWS_ACCESS_KEY_ID)
-print(AWS_SECRET_ACCESS_KEY)
-ssl._create_default_https_context = ssl._create_unverified_context
 
 s3 = boto3.resource(
     's3',
@@ -172,12 +171,12 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, diffbot_tokens,
                         article_title = '-'.join([w for w in article_title.split()])
                     # print('article_Post_title', article_title)
 
-                articleAlreadyPresent = True
                 postId = '_'
                 if post['post_id']:
                     postId = post['post_id']
                     all_post_ids.append(postId)
-                    
+                
+                articleAlreadyPresent = True
                 try:
                     s3.Object('prop-watch-raw', post_date + '/' + page_name + '/' + postId).load()
                 except ClientError as e:
@@ -312,7 +311,7 @@ def scrape(fb_pages_fileName, last_date_to_scrape, keyword_list, diffbot_tokens,
         logs.write(log_output)
         log_to_s3(log_output, "log_output")
 
-    final_output='total_num_pages_read: ' + str(total_num_pages_read) + '\n total_num_pages_read: ' + str(total_num_pages_read) + 'total_num_link_skipped: '+ str(total_num_link_skipped) + 'total_num_posts_read: ' + str(total_num_posts_read)
+    final_output='total_num_pages_read: ' + str(total_num_pages_read) + 'total_num_link_skipped: '+ str(total_num_link_skipped) + 'total_num_posts_read: ' + str(total_num_posts_read)
     print('total_num_pages_read: ', total_num_pages_read)
     logs.write('\n total_num_pages_read: ' + str(total_num_pages_read))
     print('total_num_link_skipped: ', total_num_link_skipped)
@@ -379,7 +378,7 @@ if __name__ == '__main__':
     last_date_to_scrape = datetime(2018, 1, 1)
 
     # NOTE: code required same number of tokens as threads
-    diffbot_tokens = ['75348af71a165842ee80888487723ae9', 'e245d561ac6983304fdfcafd03e0bbbe', '06998e90bba80aea92e26dfbbbda92cb']
+    diffbot_tokens = ['bf78571f7f6f8cdc925753a79be5c419', '75348af71a165842ee80888487723ae9', 'e245d561ac6983304fdfcafd03e0bbbe', '06998e90bba80aea92e26dfbbbda92cb']
     # NOTE: token values kept here: https://docs.google.com/document/d/1zJ19PTb3usESTN1aLWkGlvHmz6cFCGgskFANoMPGbnA/edit?usp=sharing
 
     threads = list()

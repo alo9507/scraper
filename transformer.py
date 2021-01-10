@@ -1,8 +1,6 @@
 import boto3
 from decouple import config
-import codecs
-import csv
-import pandas as pd
+import json
 
 AWS_ACCESS_KEY_ID = config('AWS_ACCESS_KEY_ID')
 AWS_SECRET_ACCESS_KEY = config('AWS_SECRET_ACCESS_KEY')
@@ -31,37 +29,74 @@ def keyParser(key):
     parts = key.split("/")
     date = dateParser(parts[0])
 
-    body = ""
-    article_links = []
-    comments = []
-    shares = []
-    reactions = []
+    article_object = s3.get_object(Bucket='prop-watch-raw', Key=key)
 
-    article_object=s3_resource.Object('prop-watch-raw', key)
+    article_data = {}
 
-    if('.txt' in parts[3]):
-        body = article_object.get()['Body'].read().decode('utf-8') 
+    if '.txt' in parts[3]:
+        body = article_object['Body'].read().decode('utf-8')
+        article_data = {
+            'articleId': parts[2],
+            'year': date['year'],
+            'month': date['month'],
+            'day': date['day'],
+            'publication': parts[1],
+            'article_text': body
+        }
     elif '.csv' in parts[3]:
-        for line in csv.DictReader(codecs.getreader("utf-8")(article_object.get()['Body'])):
-          print("sdfsdfds", line)
-        #   read_csv_from_s3('prop-watch-raw', )
-    elif 'like' in parts[4]:
-        for line in csv.DictReader(codecs.getreader("utf-8")(article_object.get()['Body'])):
-          print(line)
+        lines = article_object['Body'].read().decode("utf-8")
 
-    article_data = {
-        'articleId': parts[2], 
-        'reactions': reactions,
-        'shares': shares,
-        'comments': comments,
-        'year': date['year'],
-        'month': date['month'],
-        'day': date['day'],
-        'publication': parts[1],
-        'article_links': article_links,
-        'article_text': body
-    }
-    
+        if 'article_links' in parts[3]:
+            article_data = {
+                'articleId': parts[2],
+                'year': date['year'],
+                'month': date['month'],
+                'day': date['day'],
+                'publication': parts[1],
+                'article_link': lines
+            }
+        elif 'comments' in parts[3]:
+            article_data = {
+                'articleId': parts[2],
+                'year': date['year'],
+                'month': date['month'],
+                'day': date['day'],
+                'publication': parts[1],
+                'comments': lines
+            }
+        elif 'shares' in parts[3]:
+            article_data = {
+                'articleId': parts[2],
+                'year': date['year'],
+                'month': date['month'],
+                'day': date['day'],
+                'publication': parts[1],
+                'shares': lines
+            }
+        elif 'reactions' in parts[3]:
+            article_data = {
+                'articleId': parts[2],
+                'year': date['year'],
+                'month': date['month'],
+                'day': date['day'],
+                'publication': parts[1],
+                'reactions': {'likes': lines}
+            }
+
+    # OUTPUT FORMAT:
+    #    article_data = {
+    #        'articleId': parts[2],
+    #        'reactions': { 'likes': [] },
+    #        'shares': shares,
+    #        'comments': comments,
+    #        'year': date['year'],
+    #        'month': date['month'],
+    #        'day': date['day'],
+    #        'publication': parts[1],
+    #        'article_link': article_links,
+    #        'article_text': body
+    #    }
+
     return article_data
 
 paginator = s3.get_paginator('list_objects_v2')
@@ -69,11 +104,7 @@ pages = paginator.paginate(Bucket='prop-watch-raw')
 
 for page in pages:
     for obj in page['Contents']:
-        json = keyParser(obj['Key'])
-        # save json to a new location in S3
+        result = keyParser(obj['Key'])
+        with open('aggr_results.txt', 'a') as outfile:
+            outfile.write(json.dumps(result)+"\n")
     
-def read_csv_from_s3(bucket_name, key, column):
-    data = s3.get_object(Bucket=bucket_name, Key=key)
-
-    for row in csv.DictReader(codecs.getreader("utf-8")(data.get()['Body'])):
-        print(row[column])

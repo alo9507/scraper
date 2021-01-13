@@ -99,12 +99,30 @@ def keyParser(key):
 
     return article_data
 
+def merge_objects(ilist):
+    merged_json = []
+    for d in ilist:
+        aid = d.get('articleId')
+        for i in ilist:
+            if i.get('articleId') == aid:
+                d.update(i)
+        merged_json.append(d)
+    # remove duplicates
+    json_out = [dict(t) for t in {tuple(d.items()) for d in merged_json}]
+
+    return json_out
+
 paginator = s3.get_paginator('list_objects_v2')
 pages = paginator.paginate(Bucket='prop-watch-raw')
 
+aggr_results = []
 for page in pages:
     for obj in page['Contents']:
         result = keyParser(obj['Key'])
-        with open('aggr_results.txt', 'a') as outfile:
-            outfile.write(json.dumps(result)+"\n")
-    
+        aggr_results.append(result)
+
+res = merge_objects(aggr_results)
+
+for x in res:
+    with open('aggr_results.txt', 'a') as outfile:
+                outfile.write(json.dumps(x)+"\n")

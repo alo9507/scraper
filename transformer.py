@@ -100,6 +100,7 @@ def keyParser(key):
     return article_data
 
 def merge_objects(ilist):
+    print('merging objects...\nnumber of objects: %d'.format(len(ilist)))
     merged_json = []
     for d in ilist:
         aid = d.get('articleId')
@@ -115,14 +116,30 @@ def merge_objects(ilist):
 paginator = s3.get_paginator('list_objects_v2')
 pages = paginator.paginate(Bucket='prop-watch-raw')
 
+def save_output(res, file_name):
+    for x in res:
+        with open(file_name, 'w') as outfile:
+                    outfile.write(json.dumps(x)+"\n")
+    print(str(len(res)),'objects saved as ',file_name,'\n')
+
+p_num = 1
+obj_num = 0
 aggr_results = []
+print('reading objects...\n')
 for page in pages:
+    p_num +=1
+    print(p_num)
     for obj in page['Contents']:
         result = keyParser(obj['Key'])
         aggr_results.append(result)
+        if obj_num%500 == 0:
+            print(obj_num)
+            tmp = merge_objects(aggr_results)
+            save_output(tmp, 'backup_save.txt')
+            #TODO: save to s3
+            print('page: ' + str(p_num) + ' obj num: ' + str(obj_num) + '\n')
+        obj_num += 1
 
 res = merge_objects(aggr_results)
-
-for x in res:
-    with open('aggr_results.txt', 'a') as outfile:
-                outfile.write(json.dumps(x)+"\n")
+save_output(res, 'aggr_results.txt')
+#TODO: save results to s3

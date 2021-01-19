@@ -3,6 +3,7 @@ from decouple import config
 import json
 import threading
 import pickle
+import pdb 
 
 AWS_ACCESS_KEY_ID = config('AWS_ACCESS_KEY_ID')
 AWS_SECRET_ACCESS_KEY = config('AWS_SECRET_ACCESS_KEY')
@@ -34,10 +35,11 @@ def key_parser(key):
     parts = key.split("/")
     date = date_parser(parts[0])
 
-    article_object = s3.get_object(Bucket='prop-watch-raw', Key=key)
-
     article_data = {}
+    article_object = {}
 
+    article_object = s3.get_object(Bucket='prop-watch-raw', Key=key)
+    
     if '.txt' in parts[3]:
         body = article_object['Body'].read().decode('utf-8')
         article_data = {
@@ -50,8 +52,7 @@ def key_parser(key):
         }
     elif '.csv' in parts[3]:
         lines = article_object['Body'].read().decode("utf-8")
-
-        if 'article_links' in parts[3]:
+        if 'article_link' in parts[3]:
             article_data = {
                 'articleId': parts[2],
                 'year': date['year'],
@@ -78,16 +79,17 @@ def key_parser(key):
                 'publication': parts[1],
                 'shares': lines
             }
-        elif 'reactions' in parts[3]:
-            article_data = {
-                'articleId': parts[2],
-                'year': date['year'],
-                'month': date['month'],
-                'day': date['day'],
-                'publication': parts[1],
-                'reactions': {'likes': lines}
-            }
-
+    if 'reactions' in parts[3]:
+        lines = article_object['Body'].read().decode("utf-8")
+        article_data = {
+            'articleId': parts[2],
+            'year': date['year'],
+            'month': date['month'],
+            'day': date['day'],
+            'publication': parts[1],
+            'reactions': {'likes': lines}
+        }
+    
     return article_data
 
 
@@ -102,20 +104,19 @@ def unpickle_partial_results():
     for index in range(12):
         results_file = open("aggregated-result-"+str(index)+".pickle", 'rb')
         partial_aggregated_results.append(pickle.load(results_file))
+        results_file.close()
     return partial_aggregated_results
 
 
 def merge_results():
     # unpickle
     partial_aggregated_results = unpickle_partial_results()
-
+    
     final_results = {}
     # merge on article id key for each of the 12 thread's aggregated results
     for aggregated_result in partial_aggregated_results:
-        for key, value in enumerate(aggregated_result):
-            articleId = key
+        for index, articleId in enumerate(aggregated_result):
             final_results[articleId]={**final_results.get(articleId, {}), **aggregated_result.get(articleId, {})} # spread the new stuff into the old stuff
-    
     return final_results
 
 
@@ -133,11 +134,13 @@ def get_results(thread_number, pages):
         for obj in page['Contents']:
             print("{}: parsing object {} in thread {}.".format(str(obj_num), obj['Key'], thread_number))
             result = key_parser(obj['Key'])
+            print("{}: {}".format(thread_number, result))
             if len(result) != 0:
                 articleId = result['articleId']
                 aggr_results[articleId]={**aggr_results.get(articleId, {}), **result} # spread the new stuff into the old stuff
-                if obj_num%1000 == 0:
-                    pickle_aggregated_result(aggr_results, "aggregated-result-"+str(index)+".pickle")
+                if obj_num%10 == 0:
+                    print("pickling result {}".format("aggregated-result-"+str(thread_number)+".pickle"))
+                    pickle_aggregated_result(aggr_results, "aggregated-result-"+str(thread_number)+".pickle")
                     print('page: ' + str(p_num) + ' obj num: ' + str(obj_num) + '\n')
             obj_num += 1
 

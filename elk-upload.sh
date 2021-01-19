@@ -1,0 +1,1 @@
+curl -XPOST -u 'admin:Admin123!' 'https://search-propwatch-zoyv7mefy636bywqp42jc6noci.us-east-2.es.amazonaws.com/_bulk' --data-binary @aggr_results.txt -H 'Content-Type: application/json'
